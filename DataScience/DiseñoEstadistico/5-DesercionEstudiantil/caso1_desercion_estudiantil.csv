@@ -1,0 +1,1201 @@
+﻿id_estudiante,edad,genero,programa_academico,sede,semestre_actual,promedio_acumulado,creditos_aprobados,municipio_residencia,estrato_socioeconomico,estado_estudiante,comentario_abierto
+1,29,Femenino,Psicología,Girardot,1,4.39,14,Bogotá,3.0,Activo,
+2,22,Masculino,Ingeniería de Sistemas,Fusagasugá,2,2.86,19,Melgar,2.0,Activo,
+3,20,Masculino,Psicología,Ubaté,9,2.92,141,Ubaté,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+4,30,Masculino,Administración de Empresas,Soacha,2,2.87,24,Chía,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+5,16,Femenino,Psicología,Soacha,2,3.72,29,Otro,1.0,Activo,
+6,16,Femenino,Contaduría Pública,Ubaté,6,3.6,90,Girardot,3.0,Activo,
+7,24,Femenino,Ingeniería Ambiental,Fusagasugá,7,3.26,74,Otro,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+8,20,Masculino,Enfermería,Soacha,7,2.85,114,Ubaté,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+9,17,Masculino,Administración de Empresas,Soacha,9,3.4,126,Ubaté,3.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+10,25,Masculino,Contaduría Pública,Fusagasugá,6,2.49,75,Girardot,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+11,23,Femenino,Ingeniería Ambiental,Chía,8,3.43,83,Girardot,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+12,19,Masculino,Ingeniería de Sistemas,Fusagasugá,6,3.83,101,Girardot,3.0,Activo,
+13,16,Masculino,Administración de Empresas,Chía,2,2.66,30,Otro,3.0,Activo,
+14,26,Femenino,Enfermería,Soacha,1,2.51,11,Fusagasugá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+15,25,Femenino,Ingeniería Ambiental,Fusagasugá,5,4.22,58,Facatativá,4.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+16,22,Femenino,Enfermería,Soacha,9,3.01,141,Silvania,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+17,30,Femenino,Ingeniería de Sistemas,Ubaté,8,3.97,118,Girardot,2.0,Activo,
+18,17,Masculino,Ingeniería de Sistemas,Soacha,4,3.27,61,Facatativá,5.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+19,16,Femenino,Administración de Empresas,Girardot,5,3.26,63,Silvania,2.0,Desertor,
+20,19,Femenino,Psicología,Chía,5,3.57,74,Otro,1.0,Activo,
+21,22,Masculino,Ingeniería de Sistemas,Fusagasugá,6,2.86,72,Facatativá,3.0,Activo,
+22,23,Femenino,Ingeniería Ambiental,Girardot,3,3.4,32,Girardot,1.0,Activo,
+23,21,Femenino,Psicología,Fusagasugá,5,3.14,71,Bogotá,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+24,24,Femenino,Contaduría Pública,Soacha,2,2.62,34,Ubaté,6.0,Activo,
+25,16,Femenino,Enfermería,Chía,10,3.54,114,Facatativá,3.0,Activo,
+26,28,Masculino,Psicología,Chía,1,3.21,13,Soacha,2.0,Activo,
+27,22,Femenino,Enfermería,Soacha,1,3.26,15,Soacha,6.0,Activo,
+28,27,Femenino,Psicología,Fusagasugá,10,2.68,134,Facatativá,5.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+29,24,Masculino,Contaduría Pública,Girardot,7,,112,Girardot,2.0,Activo,
+30,24,Femenino,Ingeniería de Sistemas,Fusagasugá,2,3.83,31,Melgar,2.0,Activo,
+31,25,Masculino,Contaduría Pública,Fusagasugá,4,3.88,37,Girardot,4.0,Activo,
+32,24,Femenino,Ingeniería de Sistemas,Fusagasugá,5,3.18,86,Otro,3.0,Activo,
+33,25,Femenino,Ingeniería de Sistemas,Girardot,7,2.4,106,Girardot,3.0,Desertor,
+34,28,Masculino,Enfermería,Fusagasugá,2,4.42,32,Otro,4.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+35,23,Masculino,Ingeniería Ambiental,Fusagasugá,6,3.32,86,Melgar,3.0,Activo,
+36,25,Masculino,Contaduría Pública,Fusagasugá,1,2.94,16,Bogotá,2.0,Activo,
+37,22,Femenino,Psicología,Fusagasugá,7,3.58,68,Otro,3.0,Activo,
+38,28,Femenino,Contaduría Pública,Soacha,9,3.99,106,Chía,2.0,Activo,
+39,19,Masculino,Enfermería,Chía,5,3.34,81,Soacha,3.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+40,30,Femenino,Ingeniería de Sistemas,Soacha,5,4.05,53,Ubaté,3.0,Activo,
+41,22,Femenino,Enfermería,Girardot,4,3.92,38,Soacha,1.0,Activo,
+42,16,Femenino,Administración de Empresas,Fusagasugá,3,2.76,46,Otro,3.0,Activo,
+43,23,Femenino,Administración de Empresas,Chía,9,2.98,143,Chía,2.0,Activo,
+44,19,Masculino,Psicología,Girardot,5,3.88,51,Fusagasugá,2.0,Activo,
+45,26,Femenino,Enfermería,Fusagasugá,8,1.86,128,Bogotá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+46,19,Masculino,Psicología,Fusagasugá,9,3.27,132,Bogotá,2.0,Activo,
+47,20,Femenino,Psicología,Fusagasugá,5,2.56,66,Fusagasugá,3.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+48,16,Masculino,Administración de Empresas,Fusagasugá,10,3.06,158,Ubaté,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+49,20,Masculino,Psicología,Girardot,9,3.19,111,Melgar,3.0,Activo,
+50,16,Femenino,Administración de Empresas,Ubaté,2,3.15,21,Silvania,3.0,Activo,
+51,16,Masculino,Ingeniería de Sistemas,Fusagasugá,9,3.05,101,Chía,3.0,Activo,
+52,25,Masculino,Enfermería,Fusagasugá,4,2.75,52,Otro,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+53,26,Masculino,Psicología,Chía,6,4.61,80,Silvania,5.0,Activo,
+54,24,Masculino,Administración de Empresas,Fusagasugá,6,4.38,94,Ubaté,2.0,Activo,
+55,18,Masculino,Contaduría Pública,Girardot,6,2.69,93,Melgar,1.0,Activo,
+56,22,Masculino,Psicología,Soacha,2,4.22,27,Bogotá,2.0,Activo,
+57,22,Femenino,Ingeniería Ambiental,Fusagasugá,7,3.11,108,Otro,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+58,17,Femenino,Ingeniería de Sistemas,Fusagasugá,6,3.42,63,Otro,5.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+59,29,Femenino,Ingeniería de Sistemas,Girardot,1,3.32,9,Melgar,2.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+60,26,Femenino,Contaduría Pública,Fusagasugá,2,2.99,32,Soacha,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+61,21,Femenino,Administración de Empresas,Ubaté,7,3.89,66,Chía,3.0,Activo,
+62,22,Femenino,Psicología,Chía,1,3.42,11,Melgar,2.0,Activo,
+63,23,Masculino,Administración de Empresas,Fusagasugá,1,3.09,15,Girardot,3.0,Activo,
+64,16,Femenino,Ingeniería de Sistemas,Ubaté,1,2.61,12,Girardot,,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+65,21,Femenino,Administración de Empresas,Girardot,8,2.86,130,Melgar,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+66,19,Masculino,Ingeniería de Sistemas,Fusagasugá,4,2.42,45,Bogotá,1.0,Activo,
+67,17,Femenino,Administración de Empresas,Ubaté,4,3.36,36,Melgar,4.0,Activo,
+68,21,Masculino,Contaduría Pública,Fusagasugá,2,2.69,23,Facatativá,5.0,Desertor,
+69,30,Femenino,Enfermería,Girardot,1,3.2,14,Ubaté,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+70,25,No informa,Contaduría Pública,Fusagasugá,10,4.1,120,Girardot,2.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+71,19,Masculino,Contaduría Pública,Girardot,9,4.01,120,Silvania,3.0,Activo,
+72,25,Femenino,Enfermería,Fusagasugá,7,3.33,114,Melgar,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+73,28,Femenino,Enfermería,Chía,4,3.3,66,Girardot,4.0,Activo,
+74,26,Masculino,Psicología,Fusagasugá,6,4.38,66,Ubaté,3.0,Activo,
+75,22,Masculino,Psicología,Girardot,2,3.64,25,Ubaté,2.0,Activo,
+76,19,Masculino,Contaduría Pública,Girardot,7,3.17,94,Silvania,4.0,Activo,
+77,25,Masculino,Contaduría Pública,Chía,2,2.57,34,Otro,3.0,Activo,
+78,24,Femenino,Ingeniería de Sistemas,Ubaté,10,3.57,173,Facatativá,4.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+79,26,Femenino,Ingeniería de Sistemas,Ubaté,8,3.81,86,Melgar,4.0,Activo,
+80,25,Femenino,Psicología,Chía,8,3.0,120,Fusagasugá,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+81,27,Masculino,Ingeniería Ambiental,Soacha,1,3.49,12,Melgar,1.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+82,20,Masculino,Ingeniería Ambiental,Fusagasugá,8,3.15,71,Otro,5.0,Desertor,
+83,28,Femenino,Psicología,Girardot,2,3.25,18,Chía,4.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+84,23,Femenino,Ingeniería de Sistemas,Chía,6,1.96,76,Soacha,1.0,Activo,
+85,31,Femenino,Ingeniería de Sistemas,Soacha,1,3.23,13,Bogotá,4.0,Activo,
+86,19,Femenino,Ingeniería Ambiental,Soacha,5,3.88,45,Otro,2.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+87,30,Masculino,Administración de Empresas,Girardot,7,3.0,102,Ubaté,2.0,Activo,
+88,23,Masculino,Administración de Empresas,Fusagasugá,10,3.38,113,Fusagasugá,4.0,Activo,
+89,19,Masculino,Ingeniería de Sistemas,Girardot,1,2.93,14,Bogotá,2.0,Activo,
+90,20,Femenino,Administración de Empresas,Chía,2,3.55,23,Girardot,5.0,Activo,
+91,21,Femenino,Enfermería,Girardot,7,3.23,72,Melgar,,Desertor,
+92,24,Masculino,Psicología,Girardot,6,2.83,74,Bogotá,3.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+93,24,Masculino,Psicología,Chía,3,4.08,32,Girardot,2.0,Activo,
+94,19,Masculino,Ingeniería de Sistemas,Girardot,10,3.86,133,Soacha,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+95,22,Masculino,Contaduría Pública,Chía,2,3.02,21,Girardot,3.0,Activo,
+96,32,Femenino,Ingeniería Ambiental,Girardot,10,3.62,131,Fusagasugá,2.0,Desertor,
+97,30,Masculino,Ingeniería de Sistemas,Girardot,4,3.65,41,Ubaté,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+98,24,Femenino,Administración de Empresas,Girardot,3,3.7,43,Otro,2.0,Activo,
+99,22,Femenino,Ingeniería Ambiental,Chía,7,2.39,106,Silvania,1.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+100,23,Femenino,Contaduría Pública,Fusagasugá,8,3.9,78,Otro,4.0,Activo,
+101,25,Femenino,Administración de Empresas,Fusagasugá,2,3.04,26,Otro,2.0,Activo,
+102,17,Masculino,Enfermería,Soacha,10,3.15,94,Girardot,3.0,Activo,
+103,21,Femenino,Administración de Empresas,Fusagasugá,7,4.8,97,Melgar,3.0,Activo,
+104,16,Femenino,Enfermería,Ubaté,8,3.52,88,Bogotá,3.0,Activo,
+105,24,Masculino,Ingeniería Ambiental,Ubaté,6,3.11,80,Silvania,,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+106,25,Femenino,Enfermería,Girardot,6,2.14,79,Silvania,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+107,20,Femenino,Ingeniería Ambiental,Ubaté,10,4.11,166,Bogotá,2.0,Activo,
+108,29,Masculino,Ingeniería Ambiental,Fusagasugá,1,2.61,13,Bogotá,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+109,16,Femenino,Ingeniería Ambiental,Ubaté,4,2.8,55,Ubaté,4.0,Activo,
+110,16,Femenino,Ingeniería Ambiental,Girardot,1,3.17,12,Fusagasugá,3.0,Activo,
+111,23,Femenino,Ingeniería Ambiental,Ubaté,4,4.1,67,Soacha,1.0,Activo,
+112,27,Femenino,Administración de Empresas,Fusagasugá,2,3.78,31,Fusagasugá,2.0,Activo,
+113,30,Masculino,Ingeniería Ambiental,Ubaté,5,3.26,56,Bogotá,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+114,20,Masculino,Administración de Empresas,Fusagasugá,10,3.49,160,Melgar,1.0,Activo,
+115,27,Masculino,Ingeniería Ambiental,Fusagasugá,9,3.02,112,Facatativá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+116,22,Masculino,Enfermería,Fusagasugá,10,3.43,158,Facatativá,2.0,Activo,
+117,21,Masculino,Ingeniería Ambiental,Fusagasugá,3,3.39,47,Soacha,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+118,26,Femenino,Contaduría Pública,Chía,8,3.86,83,Bogotá,1.0,Activo,
+119,25,Masculino,Ingeniería Ambiental,Fusagasugá,3,3.86,44,Facatativá,1.0,Activo,
+120,16,Masculino,Ingeniería Ambiental,Soacha,6,3.6,68,Soacha,1.0,Activo,
+121,29,Masculino,Enfermería,Soacha,4,3.15,45,Silvania,2.0,Desertor,
+122,28,Masculino,Psicología,Ubaté,8,3.76,91,Soacha,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+123,19,Femenino,Enfermería,Fusagasugá,6,3.3,90,Silvania,3.0,Activo,
+124,24,Femenino,Contaduría Pública,Girardot,8,2.73,86,Ubaté,1.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+125,24,Femenino,Psicología,Chía,1,3.13,9,Facatativá,2.0,Activo,
+126,23,Femenino,Ingeniería de Sistemas,Girardot,6,3.4,89,Soacha,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+127,20,Masculino,Ingeniería de Sistemas,Fusagasugá,1,3.85,10,Soacha,2.0,Activo,
+128,19,Masculino,Contaduría Pública,Ubaté,1,3.22,10,Soacha,1.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+129,22,Femenino,Enfermería,Chía,8,2.68,87,Melgar,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+130,27,Femenino,Administración de Empresas,Chía,7,3.38,84,Soacha,3.0,Activo,
+131,24,Femenino,Contaduría Pública,Fusagasugá,3,3.41,39,Melgar,2.0,Activo,
+132,20,Femenino,Psicología,Ubaté,6,3.43,55,Otro,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+133,25,Femenino,Psicología,Fusagasugá,9,3.86,153,Ubaté,4.0,Activo,
+134,16,Femenino,Ingeniería Ambiental,Fusagasugá,7,3.91,104,Otro,2.0,Activo,
+135,27,Masculino,Ingeniería de Sistemas,Soacha,3,3.02,35,,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+136,16,Femenino,Psicología,Fusagasugá,6,3.01,69,Otro,4.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+137,20,Femenino,Contaduría Pública,Fusagasugá,4,2.78,50,Bogotá,4.0,Activo,
+138,17,Masculino,Psicología,Fusagasugá,3,3.73,42,Silvania,2.0,Activo,
+139,16,Femenino,Contaduría Pública,Soacha,9,4.15,90,Bogotá,2.0,Activo,
+140,27,Masculino,Administración de Empresas,Chía,10,3.18,104,Fusagasugá,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+141,20,Masculino,Ingeniería Ambiental,Ubaté,2,3.19,32,Otro,1.0,Activo,
+142,24,Femenino,Ingeniería de Sistemas,Chía,1,4.16,11,Facatativá,3.0,Activo,
+143,22,Femenino,Psicología,Fusagasugá,2,3.6,24,Girardot,1.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+144,24,Femenino,Contaduría Pública,Girardot,7,3.59,113,Otro,2.0,Activo,
+145,22,Femenino,Enfermería,Girardot,10,2.69,144,Ubaté,5.0,Activo,
+146,16,Femenino,Ingeniería de Sistemas,Fusagasugá,1,3.72,12,Otro,5.0,Activo,
+147,26,Masculino,Administración de Empresas,Girardot,6,2.84,88,Melgar,2.0,Desertor,
+148,20,Femenino,Contaduría Pública,Soacha,7,2.73,63,Fusagasugá,3.0,Desertor,
+149,16,Femenino,Ingeniería Ambiental,Fusagasugá,9,3.16,135,Soacha,2.0,Activo,
+150,20,Femenino,Ingeniería Ambiental,Fusagasugá,8,3.03,103,Fusagasugá,4.0,Activo,
+151,29,Masculino,Administración de Empresas,Fusagasugá,6,3.23,94,Fusagasugá,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+152,26,Femenino,Administración de Empresas,Fusagasugá,3,2.53,51,Silvania,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+153,20,Femenino,Ingeniería Ambiental,Soacha,8,3.88,133,Girardot,2.0,Activo,
+154,20,Femenino,Psicología,Girardot,7,3.97,116,Fusagasugá,2.0,Activo,
+155,21,No informa,Psicología,Girardot,3,2.28,39,Silvania,2.0,Desertor,
+156,31,Femenino,Contaduría Pública,Chía,9,3.89,107,Soacha,3.0,Activo,
+157,24,Masculino,Enfermería,Fusagasugá,2,2.9,25,,3.0,Activo,
+158,24,Masculino,Contaduría Pública,Girardot,3,3.82,44,Soacha,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+159,27,Femenino,Enfermería,Girardot,2,3.31,33,Facatativá,2.0,Activo,
+160,23,Masculino,Administración de Empresas,Ubaté,1,3.34,11,Fusagasugá,1.0,Activo,
+161,21,Femenino,Ingeniería de Sistemas,Soacha,4,3.25,66,Fusagasugá,4.0,Activo,
+162,21,Masculino,Contaduría Pública,Chía,5,4.02,79,Bogotá,4.0,Activo,
+163,22,Masculino,Contaduría Pública,Girardot,6,2.67,103,Ubaté,5.0,Activo,
+164,22,Masculino,Enfermería,Chía,5,3.68,81,Fusagasugá,4.0,Activo,
+165,25,Femenino,Administración de Empresas,Fusagasugá,1,3.96,11,Girardot,2.0,Activo,
+166,22,Masculino,Administración de Empresas,Fusagasugá,3,3.72,29,Chía,1.0,Activo,
+167,25,Femenino,Enfermería,Fusagasugá,1,4.63,10,Fusagasugá,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+168,22,Femenino,Administración de Empresas,Girardot,5,3.06,56,Chía,4.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+169,22,Femenino,Ingeniería Ambiental,Girardot,5,3.88,70,,2.0,Activo,
+170,16,Masculino,Psicología,Ubaté,6,3.27,94,Otro,1.0,Activo,
+171,26,Masculino,Ingeniería Ambiental,Soacha,8,,131,Ubaté,3.0,Activo,
+172,24,Femenino,Ingeniería de Sistemas,Girardot,10,3.32,141,Silvania,1.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+173,26,Femenino,Contaduría Pública,Girardot,1,3.14,9,Melgar,2.0,Activo,
+174,16,Femenino,Ingeniería de Sistemas,Fusagasugá,4,4.07,42,Ubaté,3.0,Activo,
+175,31,Masculino,Contaduría Pública,Fusagasugá,10,3.08,96,Melgar,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+176,21,Femenino,Psicología,Ubaté,1,2.55,12,Soacha,1.0,Activo,
+177,27,Masculino,Administración de Empresas,Girardot,9,3.07,117,Ubaté,3.0,Activo,
+178,17,Femenino,Ingeniería Ambiental,Chía,7,3.69,64,,3.0,Activo,
+179,25,Masculino,Enfermería,Fusagasugá,7,4.12,82,Melgar,5.0,Activo,
+180,17,Femenino,Ingeniería Ambiental,Fusagasugá,5,3.41,52,Bogotá,2.0,Activo,
+181,19,Femenino,Psicología,Girardot,7,4.05,100,Girardot,1.0,Activo,
+182,31,Femenino,Ingeniería de Sistemas,Fusagasugá,2,2.6,25,Ubaté,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+183,21,Masculino,Enfermería,Fusagasugá,4,3.11,52,Soacha,3.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+184,23,Masculino,Administración de Empresas,Chía,7,3.19,87,Fusagasugá,2.0,Activo,
+185,26,Femenino,Psicología,Fusagasugá,3,3.29,51,Silvania,3.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+186,24,Masculino,Enfermería,Ubaté,2,3.4,21,Melgar,2.0,Desertor,
+187,23,Masculino,Psicología,Fusagasugá,10,3.73,132,Melgar,2.0,Activo,
+188,24,Masculino,Psicología,Fusagasugá,2,3.08,30,Girardot,1.0,Activo,
+189,33,Masculino,Administración de Empresas,Girardot,1,3.43,14,,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+190,22,Femenino,Contaduría Pública,Chía,5,3.33,83,,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+191,23,Femenino,Enfermería,Girardot,6,2.84,72,Facatativá,3.0,Desertor,
+192,27,Masculino,Administración de Empresas,Chía,6,3.29,76,Chía,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+193,27,Masculino,Psicología,Fusagasugá,9,3.27,86,Melgar,4.0,Desertor,
+194,27,Masculino,Administración de Empresas,Chía,4,3.23,56,Silvania,1.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+195,25,Femenino,Contaduría Pública,Fusagasugá,1,3.34,11,Ubaté,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+196,17,Femenino,Ingeniería Ambiental,Ubaté,6,3.37,61,Soacha,1.0,Activo,
+197,29,Masculino,Enfermería,Ubaté,5,3.09,67,Fusagasugá,1.0,Desertor,
+198,17,Masculino,Contaduría Pública,Soacha,10,4.05,133,Ubaté,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+199,23,Masculino,Ingeniería de Sistemas,Girardot,6,2.71,57,Bogotá,3.0,Activo,
+200,19,Masculino,Enfermería,Fusagasugá,3,2.95,44,Ubaté,3.0,Activo,
+201,22,Masculino,Contaduría Pública,Fusagasugá,2,4.88,28,Ubaté,2.0,Activo,
+202,23,Femenino,Psicología,Chía,6,2.78,62,Soacha,2.0,Activo,
+203,23,Femenino,Enfermería,Girardot,1,2.61,13,Girardot,2.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+204,24,Masculino,Enfermería,Chía,7,3.73,104,Melgar,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+205,29,Masculino,Administración de Empresas,Fusagasugá,7,2.21,93,Girardot,3.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+206,24,Femenino,Psicología,Girardot,10,3.22,122,Bogotá,5.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+207,21,Femenino,Ingeniería de Sistemas,Fusagasugá,7,4.53,81,Otro,2.0,Activo,
+208,26,Masculino,Ingeniería Ambiental,Soacha,10,2.5,140,Fusagasugá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+209,27,Femenino,Contaduría Pública,Ubaté,1,2.26,17,Chía,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+210,16,Femenino,Administración de Empresas,Soacha,4,2.5,58,Fusagasugá,1.0,Activo,
+211,25,Masculino,Contaduría Pública,Fusagasugá,7,3.84,66,Melgar,3.0,Activo,
+212,25,Masculino,Ingeniería de Sistemas,Ubaté,9,3.97,114,Fusagasugá,2.0,Activo,
+213,21,Masculino,Ingeniería de Sistemas,Ubaté,5,3.04,82,Facatativá,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+214,28,Femenino,Enfermería,Fusagasugá,2,3.73,19,Chía,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+215,21,Masculino,Ingeniería de Sistemas,Chía,7,4.11,120,Bogotá,4.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+216,23,Femenino,Contaduría Pública,Soacha,10,4.33,168,Melgar,2.0,Activo,
+217,21,Femenino,Psicología,Soacha,1,3.21,9,Silvania,2.0,Desertor,
+218,22,Masculino,Psicología,Chía,7,2.08,117,Bogotá,4.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+219,17,Masculino,Enfermería,Fusagasugá,6,2.9,71,Facatativá,4.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+220,16,Masculino,Ingeniería Ambiental,Fusagasugá,7,3.12,112,Chía,3.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+221,29,Masculino,Contaduría Pública,Soacha,10,3.21,123,Soacha,2.0,Activo,
+222,18,Masculino,Contaduría Pública,Fusagasugá,3,3.25,38,Facatativá,4.0,Activo,
+223,18,Femenino,Ingeniería de Sistemas,Chía,3,3.97,43,Bogotá,2.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+224,16,Femenino,Contaduría Pública,Chía,7,4.05,108,,3.0,Activo,
+225,19,Femenino,Administración de Empresas,Ubaté,2,3.23,18,Otro,1.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+226,16,Femenino,Ingeniería Ambiental,Soacha,1,3.95,14,Melgar,3.0,Activo,
+227,29,Masculino,Ingeniería de Sistemas,Fusagasugá,9,3.55,93,Chía,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+228,27,Femenino,Administración de Empresas,Girardot,9,3.39,106,Otro,2.0,Activo,
+229,19,Masculino,Enfermería,Fusagasugá,7,3.85,82,Girardot,2.0,Activo,
+230,32,Masculino,Psicología,Girardot,7,3.39,89,Chía,2.0,Activo,
+231,26,Masculino,Enfermería,Fusagasugá,3,4.48,35,Chía,3.0,Activo,
+232,21,Femenino,Psicología,Girardot,10,2.56,97,Facatativá,4.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+233,16,Masculino,Enfermería,Chía,2,3.07,20,Melgar,5.0,Activo,
+234,32,Femenino,Contaduría Pública,Soacha,7,3.28,64,Bogotá,2.0,Activo,
+235,16,Femenino,Administración de Empresas,Fusagasugá,9,3.59,115,Soacha,3.0,Activo,
+236,16,Masculino,Psicología,Girardot,1,4.05,17,Fusagasugá,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+237,27,Femenino,Ingeniería de Sistemas,Soacha,4,3.34,39,Ubaté,2.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+238,33,Femenino,Administración de Empresas,Fusagasugá,6,2.54,101,Soacha,1.0,Desertor,
+239,28,Masculino,Ingeniería de Sistemas,Fusagasugá,7,3.81,105,Fusagasugá,3.0,Activo,
+240,25,Femenino,Administración de Empresas,Fusagasugá,10,3.77,142,Girardot,5.0,Activo,
+241,25,Masculino,Administración de Empresas,Ubaté,7,2.28,100,Bogotá,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+242,26,Masculino,Enfermería,Fusagasugá,10,3.35,158,Melgar,2.0,Activo,
+243,25,Masculino,Psicología,Soacha,2,2.48,19,,3.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+244,23,Femenino,Psicología,Girardot,4,2.98,52,Chía,2.0,Activo,
+245,22,Femenino,Administración de Empresas,Girardot,5,2.85,74,Soacha,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+246,22,Masculino,Contaduría Pública,Fusagasugá,1,3.8,14,Fusagasugá,3.0,Activo,
+247,19,Femenino,Contaduría Pública,Girardot,1,3.39,16,Silvania,1.0,Desertor,
+248,21,Masculino,Ingeniería de Sistemas,Ubaté,10,2.64,94,Soacha,4.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+249,16,Masculino,Ingeniería de Sistemas,Chía,3,3.83,44,Bogotá,2.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+250,22,Masculino,Enfermería,Chía,10,2.56,133,Melgar,5.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+251,18,Femenino,Administración de Empresas,Ubaté,3,3.53,36,Otro,2.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+252,17,Femenino,Ingeniería de Sistemas,Soacha,8,2.9,93,Soacha,2.0,Activo,
+253,23,Masculino,Ingeniería de Sistemas,Chía,9,3.15,127,Soacha,2.0,Activo,
+254,28,Femenino,Ingeniería Ambiental,Chía,1,3.63,16,Melgar,2.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+255,26,Femenino,Administración de Empresas,Fusagasugá,2,3.61,26,Girardot,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+256,16,Masculino,Enfermería,Fusagasugá,10,4.09,158,Facatativá,3.0,Activo,
+257,18,Masculino,Ingeniería de Sistemas,Fusagasugá,2,3.3,24,Soacha,3.0,Activo,
+258,26,Masculino,Enfermería,Ubaté,4,3.52,39,Melgar,3.0,Activo,
+259,18,Masculino,Psicología,Girardot,2,3.08,19,Facatativá,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+260,21,Femenino,Enfermería,Girardot,7,3.45,65,Melgar,3.0,Activo,
+261,24,Masculino,Contaduría Pública,Soacha,9,3.57,108,Melgar,,Activo,
+262,18,No informa,Contaduría Pública,Soacha,7,3.3,82,Girardot,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+263,22,Femenino,Enfermería,Soacha,6,2.33,89,Melgar,1.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+264,16,Femenino,Contaduría Pública,Fusagasugá,10,3.53,151,Bogotá,4.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+265,19,Masculino,Psicología,Chía,1,3.55,9,Soacha,3.0,Activo,
+266,23,Masculino,Administración de Empresas,Fusagasugá,10,2.98,107,Fusagasugá,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+267,16,Masculino,Contaduría Pública,Fusagasugá,9,2.64,100,Fusagasugá,2.0,Activo,
+268,24,Masculino,Contaduría Pública,Fusagasugá,5,4.14,67,Fusagasugá,1.0,Activo,
+269,22,Femenino,Enfermería,Girardot,5,3.62,50,Melgar,2.0,Activo,
+270,24,Femenino,Psicología,Girardot,6,3.22,60,Silvania,4.0,Activo,
+271,23,Masculino,Administración de Empresas,Chía,9,2.72,151,Facatativá,4.0,Activo,
+272,28,Masculino,Enfermería,Fusagasugá,8,2.87,125,Facatativá,1.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+273,23,Masculino,Enfermería,Chía,8,4.07,83,Melgar,3.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+274,20,Masculino,Ingeniería Ambiental,Girardot,8,3.43,98,Bogotá,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+275,23,Femenino,Psicología,Fusagasugá,1,3.05,12,Bogotá,3.0,Activo,
+276,24,Femenino,Administración de Empresas,Girardot,1,3.61,16,Chía,1.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+277,22,Masculino,Psicología,Fusagasugá,8,2.9,105,Melgar,2.0,Activo,
+278,22,Masculino,Administración de Empresas,Ubaté,5,4.18,49,Ubaté,2.0,Activo,
+279,19,Masculino,Psicología,Girardot,9,4.09,136,Girardot,4.0,Activo,
+280,19,Masculino,Enfermería,Fusagasugá,2,3.09,24,Fusagasugá,2.0,Activo,
+281,16,Masculino,Enfermería,Fusagasugá,9,3.0,99,Girardot,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+282,30,Femenino,Ingeniería de Sistemas,Ubaté,8,1.91,96,Fusagasugá,4.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+283,16,Femenino,Contaduría Pública,Soacha,9,2.54,117,Otro,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+284,19,Femenino,Ingeniería Ambiental,Girardot,4,2.61,47,Otro,4.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+285,19,Masculino,Psicología,Chía,1,3.42,11,Melgar,2.0,Activo,
+286,26,Femenino,Ingeniería Ambiental,Ubaté,1,3.15,12,Otro,1.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+287,21,Femenino,Ingeniería de Sistemas,Soacha,5,2.61,45,Silvania,4.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+288,28,Masculino,Contaduría Pública,Chía,2,,31,Chía,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+289,19,Femenino,Psicología,Ubaté,8,3.63,82,Bogotá,2.0,Activo,
+290,23,Masculino,Administración de Empresas,Ubaté,10,3.64,92,Silvania,2.0,Activo,
+291,18,Femenino,Contaduría Pública,Soacha,5,2.28,72,Girardot,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+292,32,Femenino,Enfermería,Girardot,5,3.28,77,Girardot,2.0,Activo,
+293,17,Masculino,Ingeniería de Sistemas,Girardot,2,2.59,31,Otro,4.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+294,23,Femenino,Contaduría Pública,Fusagasugá,7,3.85,91,Bogotá,4.0,Activo,
+295,25,Femenino,Contaduría Pública,Chía,8,3.78,84,Chía,4.0,Activo,
+296,24,Masculino,Enfermería,Chía,10,2.83,151,Fusagasugá,1.0,Activo,
+297,21,Masculino,Psicología,Fusagasugá,1,2.93,15,,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+298,21,Femenino,Administración de Empresas,Ubaté,2,3.07,22,Chía,1.0,Activo,
+299,22,Masculino,Enfermería,Girardot,10,2.11,165,Soacha,4.0,Activo,
+300,21,Femenino,Administración de Empresas,Fusagasugá,4,3.53,39,Facatativá,2.0,Desertor,
+301,26,Femenino,Psicología,Soacha,5,3.2,86,Otro,3.0,Activo,
+302,32,Masculino,Contaduría Pública,Fusagasugá,2,,32,,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+303,19,Masculino,Administración de Empresas,Fusagasugá,1,2.75,15,Soacha,2.0,Desertor,
+304,16,Masculino,Ingeniería de Sistemas,Ubaté,9,3.01,151,Fusagasugá,2.0,Activo,
+305,22,Masculino,Ingeniería de Sistemas,Chía,1,2.52,15,Fusagasugá,5.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+306,34,Masculino,Enfermería,Fusagasugá,4,2.8,42,Otro,5.0,Desertor,
+307,18,Femenino,Psicología,Ubaté,2,2.7,25,,2.0,Activo,
+308,29,Femenino,Enfermería,Girardot,4,3.9,38,Chía,2.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+309,30,Masculino,Enfermería,Fusagasugá,8,2.97,97,Chía,5.0,Activo,
+310,20,Femenino,Ingeniería Ambiental,Fusagasugá,8,3.39,121,Soacha,1.0,Activo,
+311,25,Femenino,Enfermería,Ubaté,9,3.14,109,Girardot,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+312,29,Femenino,Ingeniería Ambiental,Fusagasugá,5,2.63,58,Bogotá,1.0,Activo,
+313,20,Femenino,Ingeniería de Sistemas,Soacha,7,3.26,97,Silvania,3.0,Activo,
+314,21,Masculino,Ingeniería de Sistemas,Chía,3,3.65,49,Silvania,1.0,Activo,
+315,19,Masculino,Enfermería,Soacha,10,2.69,92,Ubaté,2.0,Activo,
+316,17,Masculino,Ingeniería de Sistemas,Fusagasugá,4,3.8,48,Otro,2.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+317,19,Femenino,Psicología,Soacha,10,2.88,101,Melgar,3.0,Activo,
+318,16,Femenino,Ingeniería Ambiental,Girardot,9,3.08,132,Melgar,6.0,Activo,
+319,22,Femenino,Ingeniería Ambiental,Girardot,10,3.64,97,Soacha,3.0,Activo,
+320,19,Femenino,Enfermería,Fusagasugá,10,2.99,144,Fusagasugá,4.0,Activo,
+321,23,Masculino,Ingeniería de Sistemas,Fusagasugá,1,3.37,11,Fusagasugá,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+322,16,Masculino,Administración de Empresas,Chía,2,3.15,21,Otro,1.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+323,23,Masculino,Ingeniería Ambiental,Girardot,5,3.42,84,Facatativá,2.0,Activo,
+324,26,Femenino,Enfermería,Fusagasugá,3,2.04,27,Girardot,4.0,Activo,
+325,16,Masculino,Enfermería,Ubaté,2,2.34,25,Ubaté,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+326,24,Masculino,Psicología,Fusagasugá,1,3.66,9,Chía,1.0,Activo,
+327,28,Masculino,Contaduría Pública,Ubaté,10,3.92,129,Fusagasugá,3.0,Activo,
+328,17,Masculino,Contaduría Pública,Girardot,3,2.85,39,Ubaté,2.0,Activo,
+329,30,Femenino,Ingeniería Ambiental,Chía,1,3.22,12,Silvania,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+330,24,Femenino,Psicología,Chía,1,3.51,10,Facatativá,6.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+331,19,Femenino,Psicología,Girardot,1,3.73,12,Chía,4.0,Activo,
+332,22,Masculino,Psicología,Girardot,8,2.23,116,Otro,2.0,Activo,
+333,25,Femenino,Ingeniería Ambiental,Girardot,3,2.86,46,Ubaté,5.0,Activo,
+334,22,Femenino,Contaduría Pública,Chía,1,3.17,13,Soacha,3.0,Desertor,
+335,24,Femenino,Psicología,Girardot,7,3.74,97,Chía,3.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+336,18,Femenino,Ingeniería de Sistemas,Fusagasugá,10,4.7,105,Otro,1.0,Activo,
+337,23,Masculino,Enfermería,Fusagasugá,3,3.2,34,Melgar,1.0,Activo,
+338,16,Masculino,Enfermería,Girardot,8,2.58,81,Otro,3.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+339,21,Femenino,Administración de Empresas,Girardot,4,3.57,44,Otro,4.0,Activo,
+340,18,Femenino,Administración de Empresas,Chía,4,4.08,43,Chía,3.0,Activo,
+341,19,Femenino,Ingeniería Ambiental,Fusagasugá,5,3.38,66,Facatativá,1.0,Activo,
+342,28,Femenino,Ingeniería Ambiental,Girardot,6,2.83,81,Chía,1.0,Activo,
+343,27,Femenino,Enfermería,Chía,7,3.88,118,Bogotá,4.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+344,25,Femenino,Ingeniería de Sistemas,Chía,4,3.69,42,Girardot,1.0,Activo,
+345,17,Femenino,Contaduría Pública,Girardot,8,2.79,114,Facatativá,3.0,Activo,
+346,21,Masculino,Contaduría Pública,Girardot,6,3.53,94,Soacha,1.0,Desertor,
+347,27,Masculino,Ingeniería Ambiental,Fusagasugá,1,3.87,14,Facatativá,1.0,Activo,
+348,23,Femenino,Ingeniería de Sistemas,Soacha,1,4.0,11,Silvania,3.0,Activo,
+349,32,Femenino,Ingeniería Ambiental,Fusagasugá,9,3.31,99,Soacha,3.0,Desertor,
+350,24,Masculino,Contaduría Pública,Soacha,10,3.15,91,Melgar,2.0,Activo,
+351,23,Femenino,Ingeniería Ambiental,Chía,6,4.03,68,Chía,2.0,Activo,
+352,21,Masculino,Psicología,Girardot,10,2.68,151,Otro,4.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+353,23,Masculino,Ingeniería Ambiental,Fusagasugá,8,3.59,74,Chía,2.0,Activo,
+354,21,Femenino,Enfermería,Girardot,7,2.6,75,Silvania,3.0,Activo,
+355,25,Femenino,Ingeniería Ambiental,Girardot,6,3.94,89,Ubaté,5.0,Activo,
+356,26,Masculino,Enfermería,Fusagasugá,4,3.18,62,Silvania,1.0,Activo,
+357,18,Femenino,Ingeniería de Sistemas,Ubaté,7,,89,Bogotá,5.0,Activo,
+358,16,Masculino,Contaduría Pública,Soacha,9,3.62,132,Otro,2.0,Activo,
+359,16,Masculino,Administración de Empresas,Ubaté,10,2.68,121,Otro,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+360,24,Masculino,Administración de Empresas,Chía,10,4.13,102,Fusagasugá,,Activo,
+361,17,Femenino,Contaduría Pública,Fusagasugá,7,4.2,85,Ubaté,5.0,Activo,
+362,16,Masculino,Administración de Empresas,Girardot,1,3.84,14,Fusagasugá,2.0,Activo,
+363,24,Femenino,Ingeniería Ambiental,Fusagasugá,10,2.93,168,Melgar,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+364,33,Masculino,Ingeniería de Sistemas,Ubaté,9,3.18,84,,5.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+365,22,Masculino,Ingeniería de Sistemas,Soacha,4,3.43,52,Girardot,3.0,Activo,
+366,26,Femenino,Contaduría Pública,Ubaté,3,2.96,35,Chía,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+367,22,Masculino,Administración de Empresas,Fusagasugá,4,4.28,52,Girardot,2.0,Activo,
+368,22,Masculino,Ingeniería Ambiental,Girardot,4,3.43,36,Otro,3.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+369,26,Femenino,Ingeniería de Sistemas,Ubaté,10,1.84,115,Silvania,1.0,Desertor,
+370,21,Femenino,Ingeniería de Sistemas,Girardot,2,3.51,32,Ubaté,1.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+371,23,Femenino,Psicología,Chía,1,3.16,13,Chía,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+372,23,Femenino,Psicología,Chía,10,3.31,126,Chía,2.0,Activo,
+373,19,Femenino,Ingeniería de Sistemas,Ubaté,1,3.15,11,Ubaté,5.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+374,26,Masculino,Contaduría Pública,Girardot,8,3.79,91,Otro,4.0,Activo,
+375,21,Femenino,Enfermería,Fusagasugá,2,3.97,24,Melgar,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+376,19,Femenino,Enfermería,Fusagasugá,10,3.51,159,Melgar,4.0,Activo,
+377,24,Masculino,Ingeniería Ambiental,Girardot,5,3.16,85,Chía,3.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+378,18,Femenino,Ingeniería de Sistemas,Girardot,4,3.3,50,Melgar,1.0,Activo,
+379,22,Masculino,Ingeniería de Sistemas,Ubaté,8,3.36,97,Otro,3.0,Activo,
+380,22,Femenino,Ingeniería de Sistemas,Ubaté,2,2.91,32,Bogotá,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+381,27,Femenino,Contaduría Pública,Fusagasugá,10,3.67,124,Bogotá,2.0,Activo,
+382,24,Masculino,Psicología,Girardot,9,3.6,121,Fusagasugá,4.0,Activo,
+383,22,Masculino,Ingeniería de Sistemas,Fusagasugá,7,4.2,75,Facatativá,3.0,Activo,
+384,26,Masculino,Ingeniería de Sistemas,Fusagasugá,7,4.04,106,Soacha,4.0,Activo,
+385,28,Masculino,Administración de Empresas,Chía,1,2.97,13,,2.0,Desertor,
+386,25,Masculino,Contaduría Pública,Fusagasugá,2,3.8,31,Melgar,3.0,Activo,
+387,22,Femenino,Ingeniería Ambiental,Girardot,4,2.8,62,Bogotá,1.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+388,16,Femenino,Ingeniería de Sistemas,Fusagasugá,4,3.73,42,Silvania,3.0,Activo,
+389,17,Masculino,Administración de Empresas,Soacha,3,3.07,45,Ubaté,3.0,Activo,
+390,21,Masculino,Enfermería,Ubaté,7,2.79,109,Facatativá,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+391,19,No informa,Ingeniería Ambiental,Fusagasugá,8,3.5,94,Fusagasugá,2.0,Activo,
+392,21,Femenino,Ingeniería de Sistemas,Girardot,2,1.85,21,Soacha,1.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+393,22,Femenino,Ingeniería de Sistemas,Chía,4,2.36,35,Bogotá,1.0,Activo,
+394,24,Masculino,Administración de Empresas,Soacha,3,3.25,38,Fusagasugá,3.0,Activo,
+395,22,Femenino,Contaduría Pública,Fusagasugá,2,3.4,24,Facatativá,4.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+396,24,Masculino,Ingeniería de Sistemas,Soacha,6,3.15,81,Ubaté,2.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+397,22,Masculino,Enfermería,Soacha,4,2.48,42,Girardot,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+398,16,Femenino,Ingeniería de Sistemas,Soacha,6,2.9,97,Bogotá,4.0,Activo,
+399,18,Masculino,Enfermería,Ubaté,2,3.57,22,Ubaté,3.0,Activo,
+400,21,Masculino,Ingeniería Ambiental,Ubaté,4,3.67,43,Soacha,3.0,Activo,
+401,17,Femenino,Ingeniería Ambiental,Girardot,6,3.34,77,Melgar,4.0,Activo,
+402,25,Masculino,Psicología,Chía,5,3.99,65,Facatativá,2.0,Desertor,
+403,29,Femenino,Psicología,Girardot,3,3.57,32,Soacha,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+404,27,Masculino,Enfermería,Ubaté,8,2.91,89,Girardot,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+405,21,Femenino,Contaduría Pública,Girardot,7,3.2,72,Ubaté,5.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+406,29,Masculino,Ingeniería de Sistemas,Chía,3,2.58,45,Otro,4.0,Activo,
+407,23,Femenino,Ingeniería de Sistemas,Chía,6,3.29,92,Girardot,3.0,Activo,
+408,20,Femenino,Psicología,Fusagasugá,4,,51,Chía,1.0,Activo,
+409,19,Masculino,Enfermería,Chía,5,3.73,74,Bogotá,2.0,Activo,
+410,21,Femenino,Ingeniería de Sistemas,Ubaté,5,4.1,75,Melgar,1.0,Activo,
+411,20,Femenino,Ingeniería de Sistemas,Chía,7,3.16,70,Facatativá,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+412,23,Masculino,Contaduría Pública,Girardot,5,4.09,85,Silvania,3.0,Activo,
+413,23,Masculino,Administración de Empresas,Girardot,3,,47,Ubaté,5.0,Activo,
+414,22,Masculino,Psicología,Soacha,10,4.16,105,Otro,4.0,Activo,
+415,24,Masculino,Psicología,Fusagasugá,5,3.34,52,Silvania,3.0,Activo,
+416,27,Femenino,Administración de Empresas,Chía,7,3.71,69,Bogotá,1.0,Desertor,
+417,26,Femenino,Ingeniería de Sistemas,Girardot,5,4.16,50,Bogotá,2.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+418,16,Femenino,Contaduría Pública,Girardot,5,3.24,76,Facatativá,2.0,Desertor,
+419,16,Masculino,Contaduría Pública,Fusagasugá,9,3.47,115,Otro,3.0,Activo,
+420,26,Masculino,Psicología,Ubaté,3,4.06,46,Bogotá,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+421,16,Masculino,Contaduría Pública,Girardot,6,3.28,91,Silvania,,Activo,
+422,21,Masculino,Ingeniería Ambiental,Fusagasugá,1,2.62,14,Otro,2.0,Activo,
+423,17,Femenino,Administración de Empresas,Fusagasugá,10,4.5,146,Silvania,1.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+424,16,Femenino,Ingeniería de Sistemas,Fusagasugá,5,3.09,45,Girardot,2.0,Activo,
+425,24,Femenino,Ingeniería Ambiental,Soacha,8,3.44,92,Soacha,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+426,25,Masculino,Administración de Empresas,Soacha,5,3.96,71,Otro,1.0,Activo,
+427,19,Femenino,Enfermería,Girardot,9,3.02,80,Fusagasugá,2.0,Activo,
+428,16,Masculino,Psicología,Chía,6,2.8,54,Soacha,4.0,Activo,
+429,20,Femenino,Contaduría Pública,Girardot,8,3.49,128,Soacha,3.0,Activo,
+430,24,Femenino,Enfermería,Ubaté,10,2.34,146,Otro,1.0,Activo,
+431,16,Femenino,Contaduría Pública,Chía,8,3.19,88,Melgar,2.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+432,23,Masculino,Ingeniería Ambiental,Soacha,3,,44,Bogotá,2.0,Activo,
+433,22,Masculino,Ingeniería de Sistemas,Girardot,7,3.2,109,Girardot,2.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+434,25,Femenino,Ingeniería de Sistemas,Chía,7,2.5,80,Melgar,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+435,23,Femenino,Ingeniería de Sistemas,Fusagasugá,10,4.23,91,Melgar,3.0,Activo,
+436,18,Masculino,Contaduría Pública,Soacha,6,3.41,100,Fusagasugá,3.0,Activo,
+437,27,Femenino,Enfermería,Fusagasugá,7,4.14,82,Ubaté,3.0,Activo,
+438,21,Masculino,Ingeniería de Sistemas,Ubaté,2,3.21,19,Otro,2.0,Activo,
+439,22,Masculino,Enfermería,Ubaté,9,2.87,117,Silvania,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+440,18,Femenino,Contaduría Pública,Chía,10,3.5,153,Bogotá,2.0,Activo,
+441,20,Femenino,Ingeniería Ambiental,Fusagasugá,10,3.21,107,Melgar,1.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+442,18,No informa,Enfermería,Soacha,1,2.7,11,Girardot,,Activo,
+443,21,Femenino,Ingeniería Ambiental,Fusagasugá,1,4.16,11,Ubaté,3.0,Activo,
+444,30,Femenino,Contaduría Pública,Ubaté,3,3.01,52,Fusagasugá,4.0,Activo,
+445,16,Masculino,Contaduría Pública,Fusagasugá,3,2.34,31,Chía,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+446,16,Masculino,Psicología,Fusagasugá,1,4.08,14,Bogotá,4.0,Activo,
+447,29,No informa,Contaduría Pública,Ubaté,7,3.07,117,Chía,4.0,Activo,
+448,21,Masculino,Contaduría Pública,Girardot,4,3.02,40,Soacha,3.0,Activo,
+449,19,Femenino,Administración de Empresas,Fusagasugá,10,2.38,170,Melgar,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+450,27,Femenino,Ingeniería de Sistemas,Fusagasugá,2,4.31,34,Facatativá,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+451,19,Masculino,Psicología,Girardot,10,2.64,163,Bogotá,5.0,Activo,
+452,30,Masculino,Psicología,Chía,5,3.38,53,Silvania,3.0,Desertor,
+453,25,Femenino,Psicología,Soacha,6,3.83,85,Ubaté,1.0,Activo,
+454,20,Masculino,Administración de Empresas,Fusagasugá,9,3.58,137,Girardot,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+455,32,Femenino,Ingeniería Ambiental,Girardot,4,3.32,69,Bogotá,2.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+456,19,Femenino,Contaduría Pública,Fusagasugá,2,2.41,21,Silvania,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+457,25,Femenino,Ingeniería de Sistemas,Fusagasugá,5,2.9,76,Otro,2.0,Activo,
+458,23,Femenino,Enfermería,Ubaté,3,3.45,35,Chía,3.0,Activo,
+459,28,Femenino,Ingeniería Ambiental,Ubaté,2,,21,Otro,4.0,Activo,
+460,29,Femenino,Contaduría Pública,Fusagasugá,1,3.46,12,Ubaté,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+461,22,Femenino,Administración de Empresas,Fusagasugá,10,3.7,155,Fusagasugá,1.0,Activo,
+462,19,Masculino,Contaduría Pública,Fusagasugá,2,3.88,25,Melgar,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+463,24,Masculino,Contaduría Pública,Chía,6,2.68,80,Bogotá,3.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+464,19,Masculino,Administración de Empresas,Soacha,8,4.56,138,Facatativá,,Activo,
+465,31,Masculino,Psicología,Fusagasugá,3,3.77,37,Chía,2.0,Activo,
+466,23,Femenino,Psicología,Fusagasugá,9,3.35,126,Chía,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+467,20,Femenino,Ingeniería de Sistemas,Soacha,9,3.95,107,Bogotá,3.0,Activo,
+468,23,Masculino,Ingeniería de Sistemas,Soacha,2,4.65,24,Soacha,2.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+469,16,Femenino,Psicología,Girardot,8,,118,Otro,3.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+470,18,Masculino,Ingeniería Ambiental,Fusagasugá,10,3.2,168,,1.0,Activo,
+471,27,Femenino,Enfermería,Fusagasugá,5,2.04,67,Silvania,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+472,19,Masculino,Contaduría Pública,Ubaté,4,3.46,61,Girardot,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+473,17,Femenino,Enfermería,Girardot,10,3.55,96,Melgar,2.0,Activo,
+474,24,Masculino,Contaduría Pública,Fusagasugá,5,3.33,53,Chía,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+475,27,Masculino,Psicología,Ubaté,4,2.99,52,Silvania,3.0,Activo,
+476,25,No informa,Ingeniería de Sistemas,Fusagasugá,8,2.22,72,Ubaté,5.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+477,26,Femenino,Ingeniería Ambiental,Chía,4,3.56,44,Ubaté,4.0,Activo,
+478,19,Masculino,Ingeniería de Sistemas,Fusagasugá,10,4.15,132,Melgar,3.0,Activo,
+479,16,Masculino,Enfermería,Fusagasugá,6,3.02,54,Soacha,2.0,Activo,
+480,29,Masculino,Ingeniería de Sistemas,Ubaté,2,3.59,22,Facatativá,4.0,Activo,
+481,21,Masculino,Psicología,Girardot,5,2.49,66,Melgar,3.0,Activo,
+482,21,Masculino,Ingeniería Ambiental,Soacha,6,3.6,82,Fusagasugá,2.0,Activo,
+483,28,Femenino,Enfermería,Ubaté,5,3.13,83,Soacha,4.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+484,25,Masculino,Ingeniería Ambiental,Fusagasugá,2,2.93,29,Chía,2.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+485,24,Masculino,Contaduría Pública,Chía,7,2.93,86,Melgar,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+486,32,Masculino,Ingeniería de Sistemas,Fusagasugá,4,,67,Otro,2.0,Activo,
+487,19,Femenino,Ingeniería Ambiental,Soacha,8,3.56,124,Ubaté,2.0,Activo,
+488,26,Femenino,Administración de Empresas,Girardot,7,2.63,73,Silvania,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+489,22,Masculino,Ingeniería de Sistemas,Ubaté,7,3.13,69,Melgar,2.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+490,23,Masculino,Contaduría Pública,Fusagasugá,9,3.3,131,Otro,1.0,Activo,
+491,29,Femenino,Ingeniería Ambiental,Girardot,1,2.72,14,Soacha,1.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+492,24,Masculino,Enfermería,Chía,10,4.34,155,Fusagasugá,3.0,Activo,
+493,24,Femenino,Contaduría Pública,Chía,6,,90,Silvania,3.0,Activo,
+494,27,Femenino,Administración de Empresas,Fusagasugá,6,2.98,85,Girardot,2.0,Activo,
+495,20,Femenino,Ingeniería Ambiental,Fusagasugá,6,2.79,103,Fusagasugá,1.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+496,18,Femenino,Psicología,Chía,6,4.31,80,,1.0,Activo,
+497,17,Masculino,Ingeniería de Sistemas,Soacha,10,3.65,98,Otro,4.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+498,16,Femenino,Enfermería,Fusagasugá,7,2.83,111,Melgar,3.0,Activo,
+499,31,Masculino,Psicología,Girardot,10,3.96,109,Melgar,2.0,Activo,
+500,17,No informa,Ingeniería Ambiental,Girardot,6,3.44,92,Bogotá,1.0,Activo,
+501,21,Masculino,Ingeniería Ambiental,Soacha,1,3.49,17,Ubaté,3.0,Activo,
+502,21,Masculino,Contaduría Pública,Fusagasugá,3,3.16,44,Chía,3.0,Activo,
+503,23,Femenino,Ingeniería Ambiental,Fusagasugá,2,2.94,28,Otro,2.0,Activo,
+504,26,Masculino,Enfermería,Chía,6,3.51,76,Melgar,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+505,26,Masculino,Psicología,Fusagasugá,8,3.05,95,,2.0,Activo,
+506,19,Femenino,Enfermería,Girardot,3,4.35,35,Silvania,4.0,Activo,
+507,21,Masculino,Administración de Empresas,Girardot,10,2.65,142,Chía,4.0,Activo,
+508,23,Masculino,Administración de Empresas,Girardot,8,4.19,121,Soacha,3.0,Activo,
+509,21,Masculino,Ingeniería de Sistemas,Girardot,8,3.29,116,Girardot,3.0,Activo,
+510,29,Masculino,Ingeniería de Sistemas,Girardot,5,3.49,52,Silvania,1.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+511,24,Masculino,Administración de Empresas,Fusagasugá,8,3.81,104,Facatativá,3.0,Activo,
+512,25,Femenino,Ingeniería Ambiental,Ubaté,6,3.0,93,Ubaté,3.0,Activo,
+513,25,Masculino,Enfermería,Chía,5,3.83,64,Chía,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+514,27,Masculino,Administración de Empresas,Chía,9,1.86,120,Otro,4.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+515,23,Femenino,Ingeniería de Sistemas,Fusagasugá,7,2.95,107,Fusagasugá,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+516,16,Femenino,Administración de Empresas,Fusagasugá,8,2.84,115,Silvania,2.0,Activo,
+517,24,Femenino,Ingeniería Ambiental,Fusagasugá,1,2.66,12,Soacha,3.0,Activo,
+518,19,Masculino,Administración de Empresas,Girardot,2,3.23,33,Melgar,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+519,20,No informa,Enfermería,Girardot,8,3.56,81,Fusagasugá,3.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+520,25,Femenino,Psicología,Ubaté,9,3.71,155,Girardot,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+521,28,Masculino,Ingeniería Ambiental,Fusagasugá,4,3.48,39,Ubaté,4.0,Desertor,
+522,22,Femenino,Ingeniería de Sistemas,Fusagasugá,10,2.98,89,Otro,3.0,Activo,
+523,23,Masculino,Enfermería,Girardot,10,3.55,163,Fusagasugá,2.0,Activo,
+524,30,Masculino,Administración de Empresas,Chía,9,3.42,98,Soacha,5.0,Activo,
+525,23,Masculino,Administración de Empresas,Fusagasugá,4,3.86,60,Silvania,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+526,34,Femenino,Psicología,Ubaté,10,3.75,157,Otro,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+527,25,Femenino,Ingeniería de Sistemas,Fusagasugá,10,3.37,161,Facatativá,3.0,Activo,
+528,16,Femenino,Ingeniería de Sistemas,Soacha,10,2.83,172,Melgar,1.0,Activo,
+529,25,Femenino,Contaduría Pública,Soacha,9,2.97,102,Ubaté,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+530,24,Masculino,Ingeniería de Sistemas,Fusagasugá,7,3.05,104,Fusagasugá,2.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+531,28,Masculino,Psicología,Fusagasugá,2,3.18,20,Ubaté,6.0,Activo,
+532,25,No informa,Contaduría Pública,Girardot,9,3.5,110,Ubaté,2.0,Activo,
+533,21,No informa,Contaduría Pública,Fusagasugá,4,3.74,64,Ubaté,3.0,Activo,
+534,16,Masculino,Administración de Empresas,Ubaté,8,3.32,95,Silvania,2.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+535,21,Masculino,Administración de Empresas,Chía,7,3.36,97,Ubaté,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+536,18,Masculino,Ingeniería de Sistemas,Ubaté,7,3.43,92,Facatativá,3.0,Activo,
+537,19,Masculino,Contaduría Pública,Chía,8,3.07,114,Girardot,3.0,Activo,
+538,25,Femenino,Administración de Empresas,Girardot,1,,17,Soacha,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+539,30,Femenino,Psicología,Fusagasugá,5,2.38,46,Otro,3.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+540,24,Femenino,Administración de Empresas,Chía,2,2.97,27,Facatativá,6.0,Activo,
+541,17,Masculino,Ingeniería Ambiental,Girardot,2,3.61,32,Otro,3.0,Activo,
+542,24,Masculino,Ingeniería Ambiental,Ubaté,1,2.96,13,Soacha,3.0,Activo,
+543,27,Femenino,Administración de Empresas,Fusagasugá,5,3.22,47,Girardot,4.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+544,19,Masculino,Contaduría Pública,Fusagasugá,2,3.58,27,Chía,1.0,Activo,
+545,21,Masculino,Contaduría Pública,Soacha,4,3.64,46,Otro,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+546,22,Femenino,Enfermería,Fusagasugá,3,2.76,30,Otro,4.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+547,18,Femenino,Ingeniería Ambiental,Soacha,3,3.87,48,Girardot,1.0,Activo,
+548,25,Masculino,Psicología,Soacha,2,3.97,26,Fusagasugá,2.0,Activo,
+549,21,Masculino,Contaduría Pública,Chía,6,2.73,100,Facatativá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+550,24,Masculino,Ingeniería de Sistemas,Ubaté,2,2.9,31,Fusagasugá,3.0,Activo,
+551,18,Masculino,Ingeniería Ambiental,Ubaté,8,4.01,117,Fusagasugá,,Activo,
+552,20,Masculino,Psicología,Soacha,8,3.27,71,Fusagasugá,2.0,Activo,
+553,25,Masculino,Psicología,Fusagasugá,5,2.13,62,Ubaté,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+554,20,Masculino,Contaduría Pública,Girardot,10,,105,Melgar,2.0,Activo,
+555,30,Masculino,Psicología,Ubaté,7,3.21,116,Otro,2.0,Activo,
+556,20,Femenino,Contaduría Pública,Girardot,4,2.71,41,Fusagasugá,2.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+557,23,Femenino,Administración de Empresas,Girardot,1,3.12,11,Facatativá,4.0,Activo,
+558,26,Femenino,Ingeniería Ambiental,Girardot,2,3.34,26,Melgar,1.0,Activo,
+559,16,Masculino,Enfermería,Ubaté,10,4.15,110,Melgar,4.0,Activo,
+560,16,Masculino,Administración de Empresas,Chía,10,3.19,106,Fusagasugá,3.0,Activo,
+561,16,Masculino,Ingeniería Ambiental,Fusagasugá,4,3.94,56,Silvania,2.0,Activo,
+562,28,Femenino,Contaduría Pública,Soacha,1,4.14,10,Fusagasugá,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+563,20,Femenino,Ingeniería Ambiental,Chía,8,4.14,74,Silvania,3.0,Activo,
+564,34,Femenino,Contaduría Pública,Chía,9,3.51,108,Fusagasugá,3.0,Activo,
+565,19,Femenino,Administración de Empresas,Ubaté,4,2.25,60,Facatativá,1.0,Desertor,
+566,23,Masculino,Ingeniería de Sistemas,Chía,10,3.6,135,Silvania,2.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+567,29,Femenino,Ingeniería de Sistemas,Fusagasugá,3,3.93,37,Ubaté,2.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+568,31,Femenino,Ingeniería Ambiental,Chía,2,3.28,27,Melgar,1.0,Activo,
+569,31,Masculino,Ingeniería de Sistemas,Fusagasugá,5,4.31,59,Fusagasugá,,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+570,27,Femenino,Contaduría Pública,Soacha,3,3.8,50,Melgar,1.0,Activo,
+571,27,Femenino,Psicología,Soacha,10,3.66,93,Fusagasugá,2.0,Activo,
+572,25,Masculino,Contaduría Pública,Fusagasugá,7,3.92,102,Otro,1.0,Activo,
+573,26,Femenino,Psicología,Fusagasugá,6,3.51,98,Otro,1.0,Activo,
+574,20,Masculino,Administración de Empresas,Chía,1,1.98,16,Bogotá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+575,18,Masculino,Enfermería,Fusagasugá,8,3.08,83,Fusagasugá,6.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+576,22,Masculino,Psicología,Soacha,2,3.98,23,Bogotá,1.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+577,21,Femenino,Ingeniería de Sistemas,Fusagasugá,5,2.91,74,Girardot,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+578,20,Masculino,Contaduría Pública,Fusagasugá,9,3.2,86,Girardot,1.0,Activo,
+579,25,Femenino,Administración de Empresas,Soacha,8,2.78,125,Melgar,4.0,Activo,
+580,26,Femenino,Ingeniería de Sistemas,Ubaté,2,4.31,30,Silvania,1.0,Activo,
+581,22,Femenino,Administración de Empresas,Chía,9,4.27,135,Fusagasugá,5.0,Activo,
+582,29,No informa,Enfermería,Girardot,5,2.86,48,Soacha,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+583,17,Femenino,Contaduría Pública,Ubaté,10,3.41,149,Fusagasugá,1.0,Activo,
+584,21,Femenino,Ingeniería Ambiental,Ubaté,6,2.98,87,Fusagasugá,4.0,Activo,
+585,19,Masculino,Contaduría Pública,Ubaté,3,3.69,48,Soacha,3.0,Activo,
+586,16,Femenino,Enfermería,Chía,3,3.63,27,Girardot,2.0,Activo,
+587,22,Femenino,Contaduría Pública,Ubaté,10,3.8,90,Bogotá,3.0,Activo,
+588,21,Femenino,Ingeniería Ambiental,Girardot,8,3.53,96,Melgar,4.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+589,29,Femenino,Psicología,Fusagasugá,10,4.96,101,Girardot,2.0,Activo,
+590,25,Femenino,Administración de Empresas,Chía,10,2.78,135,Soacha,2.0,Activo,
+591,17,Femenino,Ingeniería Ambiental,Fusagasugá,2,2.41,33,Fusagasugá,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+592,30,Masculino,Ingeniería de Sistemas,Chía,2,3.13,24,Girardot,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+593,27,Femenino,Enfermería,Fusagasugá,5,2.49,80,Facatativá,4.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+594,25,Femenino,Psicología,Ubaté,6,2.53,53,Otro,3.0,Desertor,
+595,21,Masculino,Ingeniería de Sistemas,Chía,2,2.8,20,Fusagasugá,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+596,18,Femenino,Ingeniería de Sistemas,Fusagasugá,5,2.84,45,Chía,4.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+597,20,Masculino,Enfermería,Fusagasugá,7,2.8,81,Soacha,1.0,Activo,
+598,27,Femenino,Psicología,Fusagasugá,10,3.64,165,Ubaté,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+599,30,Femenino,Ingeniería de Sistemas,Ubaté,10,3.07,96,Silvania,3.0,Activo,
+600,29,Femenino,Ingeniería de Sistemas,Chía,8,3.25,112,Ubaté,3.0,Activo,
+601,20,Femenino,Psicología,Fusagasugá,7,3.82,88,Girardot,1.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+602,17,Femenino,Contaduría Pública,Chía,8,2.93,134,Fusagasugá,3.0,Activo,
+603,23,Femenino,Ingeniería de Sistemas,Girardot,9,3.2,89,Silvania,2.0,Activo,
+604,16,Femenino,Administración de Empresas,Girardot,5,3.55,53,Silvania,2.0,Desertor,
+605,23,Femenino,Psicología,Soacha,5,2.28,45,Melgar,3.0,Activo,
+606,21,Femenino,Ingeniería de Sistemas,Girardot,10,2.04,125,Ubaté,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+607,20,Femenino,Enfermería,Girardot,4,3.52,45,Fusagasugá,1.0,Activo,
+608,16,Femenino,Ingeniería Ambiental,Fusagasugá,9,3.62,146,Melgar,2.0,Activo,
+609,24,Femenino,Administración de Empresas,Fusagasugá,5,4.49,70,Bogotá,5.0,Activo,
+610,20,Masculino,Ingeniería Ambiental,Fusagasugá,2,3.41,28,Ubaté,1.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+611,17,Femenino,Ingeniería Ambiental,Fusagasugá,10,3.8,133,Otro,2.0,Activo,
+612,16,Masculino,Ingeniería de Sistemas,Ubaté,8,3.24,77,Otro,3.0,Activo,
+613,22,Masculino,Administración de Empresas,Girardot,7,,88,Melgar,3.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+614,30,Femenino,Administración de Empresas,Ubaté,8,4.24,138,Bogotá,1.0,Activo,
+615,29,Masculino,Contaduría Pública,Fusagasugá,3,2.18,48,Facatativá,3.0,Activo,
+616,20,Masculino,Ingeniería Ambiental,Fusagasugá,4,3.58,66,Facatativá,2.0,Activo,
+617,19,Femenino,Administración de Empresas,Ubaté,5,4.52,79,Otro,5.0,Activo,
+618,24,Femenino,Contaduría Pública,Soacha,6,3.51,58,Chía,2.0,Activo,
+619,18,Masculino,Psicología,Fusagasugá,1,4.26,11,Soacha,2.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+620,23,Masculino,Contaduría Pública,Soacha,4,3.0,35,Soacha,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+621,25,Femenino,Enfermería,Ubaté,10,3.33,114,Chía,2.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+622,28,Femenino,Ingeniería de Sistemas,Ubaté,5,3.37,49,Melgar,3.0,Activo,
+623,22,Femenino,Psicología,Girardot,7,2.13,90,Soacha,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+624,21,Femenino,Psicología,Fusagasugá,5,2.71,73,Soacha,2.0,Activo,
+625,18,Masculino,Enfermería,Fusagasugá,1,2.75,16,Ubaté,3.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+626,18,Femenino,Contaduría Pública,Ubaté,7,3.8,106,Ubaté,3.0,Activo,
+627,21,Femenino,Ingeniería de Sistemas,Girardot,8,3.83,134,Chía,2.0,Activo,
+628,24,Masculino,Contaduría Pública,Soacha,7,3.53,65,,2.0,Activo,
+629,26,Femenino,Administración de Empresas,Girardot,4,,36,Bogotá,2.0,Activo,
+630,18,Femenino,Contaduría Pública,Fusagasugá,8,3.23,115,Melgar,1.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+631,29,Masculino,Psicología,Chía,5,3.99,56,Ubaté,1.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+632,21,Masculino,Ingeniería de Sistemas,Fusagasugá,10,3.35,109,Ubaté,,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+633,22,Femenino,Contaduría Pública,Girardot,9,3.38,104,Facatativá,4.0,Activo,
+634,19,Masculino,Ingeniería de Sistemas,Chía,10,3.2,111,Bogotá,2.0,Activo,
+635,16,Femenino,Ingeniería de Sistemas,Soacha,5,3.73,66,Facatativá,2.0,Activo,
+636,26,Femenino,Administración de Empresas,Chía,1,3.09,13,Fusagasugá,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+637,25,Masculino,Administración de Empresas,Ubaté,9,3.89,118,Bogotá,2.0,Activo,
+638,21,Femenino,Psicología,Ubaté,5,2.7,73,Soacha,1.0,Activo,
+639,22,Femenino,Enfermería,Soacha,6,2.75,72,Facatativá,4.0,Activo,
+640,24,Femenino,Ingeniería de Sistemas,Fusagasugá,4,3.73,44,Otro,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+641,16,Femenino,Enfermería,Fusagasugá,6,3.3,61,Melgar,6.0,Activo,
+642,20,Femenino,Psicología,Fusagasugá,8,3.1,94,Soacha,4.0,Activo,
+643,26,Femenino,Ingeniería de Sistemas,Fusagasugá,3,3.84,45,Bogotá,2.0,Activo,
+644,16,Femenino,Ingeniería de Sistemas,Ubaté,5,3.02,76,Otro,3.0,Activo,
+645,23,Femenino,Ingeniería Ambiental,Ubaté,2,3.24,29,Fusagasugá,2.0,Activo,
+646,16,Masculino,Enfermería,Ubaté,2,,22,Otro,2.0,Activo,
+647,24,Masculino,Contaduría Pública,Fusagasugá,7,4.2,97,Ubaté,4.0,Activo,
+648,22,Masculino,Administración de Empresas,Chía,10,4.19,136,Chía,1.0,Desertor,
+649,16,Masculino,Contaduría Pública,Girardot,10,3.19,129,Otro,4.0,Activo,
+650,27,Femenino,Enfermería,Ubaté,10,4.03,135,Silvania,2.0,Activo,
+651,19,Femenino,Administración de Empresas,Ubaté,6,2.83,78,Fusagasugá,4.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+652,18,Masculino,Contaduría Pública,Girardot,4,2.85,54,Soacha,5.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+653,23,Masculino,Ingeniería Ambiental,Fusagasugá,5,2.06,74,Facatativá,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+654,27,Masculino,Administración de Empresas,Fusagasugá,1,4.27,10,Girardot,3.0,Activo,
+655,17,Femenino,Ingeniería de Sistemas,Chía,7,2.87,106,Fusagasugá,2.0,Activo,
+656,22,Femenino,Contaduría Pública,Soacha,8,3.28,80,Silvania,4.0,Activo,
+657,24,Femenino,Administración de Empresas,Ubaté,9,2.85,84,Ubaté,5.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+658,25,Femenino,Ingeniería Ambiental,Fusagasugá,8,3.73,137,Facatativá,3.0,Activo,
+659,23,Masculino,Administración de Empresas,Girardot,5,3.14,85,Melgar,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+660,20,Masculino,Administración de Empresas,Chía,3,2.63,28,Girardot,3.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+661,18,Femenino,Ingeniería Ambiental,Chía,10,3.59,126,Otro,4.0,Activo,
+662,22,No informa,Contaduría Pública,Fusagasugá,9,2.56,93,,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+663,17,Masculino,Psicología,Fusagasugá,6,2.89,77,Otro,3.0,Activo,
+664,16,Femenino,Contaduría Pública,Chía,5,2.19,79,Melgar,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+665,24,Femenino,Enfermería,Girardot,3,2.54,51,Fusagasugá,1.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+666,26,Femenino,Ingeniería Ambiental,Fusagasugá,6,3.45,85,Chía,2.0,Activo,
+667,16,Femenino,Contaduría Pública,Fusagasugá,3,2.27,35,Silvania,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+668,17,Femenino,Administración de Empresas,Ubaté,10,2.51,139,Bogotá,1.0,Activo,
+669,25,Femenino,Ingeniería Ambiental,Chía,6,3.32,69,Soacha,1.0,Activo,
+670,31,Femenino,Ingeniería de Sistemas,Soacha,4,3.05,66,Bogotá,3.0,Activo,
+671,22,Femenino,Contaduría Pública,Ubaté,2,4.42,32,Chía,1.0,Activo,
+672,19,Masculino,Ingeniería Ambiental,Girardot,8,4.36,108,Melgar,2.0,Activo,
+673,21,Femenino,Contaduría Pública,Fusagasugá,4,2.87,46,Bogotá,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+674,28,Masculino,Ingeniería Ambiental,Ubaté,9,3.66,102,Ubaté,5.0,Activo,
+675,19,Femenino,Administración de Empresas,Girardot,7,3.76,64,Silvania,3.0,Activo,
+676,18,No informa,Ingeniería de Sistemas,Ubaté,2,3.02,31,Ubaté,6.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+677,20,Femenino,Ingeniería de Sistemas,Girardot,4,2.53,50,Girardot,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+678,18,Femenino,Enfermería,Fusagasugá,5,3.34,58,Chía,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+679,23,Masculino,Ingeniería Ambiental,Fusagasugá,3,3.25,38,Girardot,3.0,Activo,
+680,29,Masculino,Contaduría Pública,Fusagasugá,9,3.11,142,Girardot,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+681,23,Masculino,Ingeniería de Sistemas,Fusagasugá,5,3.59,49,Girardot,2.0,Desertor,
+682,21,Femenino,Ingeniería de Sistemas,Fusagasugá,2,2.91,32,Fusagasugá,1.0,Activo,
+683,21,Femenino,Psicología,Soacha,3,2.72,49,Fusagasugá,3.0,Activo,
+684,16,Masculino,Psicología,Girardot,9,3.38,151,Chía,1.0,Activo,
+685,26,Masculino,Ingeniería de Sistemas,Girardot,7,3.56,85,Facatativá,3.0,Activo,
+686,22,Masculino,Ingeniería Ambiental,Soacha,2,,21,Bogotá,2.0,Activo,
+687,21,Masculino,Enfermería,Soacha,9,3.86,108,Fusagasugá,3.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+688,36,Femenino,Ingeniería de Sistemas,Ubaté,4,2.38,46,Otro,3.0,Desertor,
+689,23,Masculino,Administración de Empresas,Chía,9,3.01,93,Ubaté,1.0,Desertor,
+690,19,Femenino,Contaduría Pública,Girardot,2,3.21,28,Fusagasugá,,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+691,20,Femenino,Enfermería,Fusagasugá,10,3.0,128,Melgar,3.0,Activo,
+692,27,Femenino,Administración de Empresas,Girardot,4,3.04,65,Girardot,4.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+693,23,Femenino,Enfermería,Ubaté,5,4.38,45,Fusagasugá,4.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+694,16,Femenino,Administración de Empresas,Chía,2,2.88,29,Chía,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+695,26,Femenino,Contaduría Pública,Fusagasugá,10,4.69,153,Ubaté,3.0,Activo,
+696,19,Masculino,Contaduría Pública,Fusagasugá,1,3.59,15,Ubaté,2.0,Activo,
+697,30,Femenino,Psicología,Ubaté,7,3.4,114,Facatativá,2.0,Activo,
+698,27,Masculino,Ingeniería Ambiental,Fusagasugá,10,3.61,150,Soacha,2.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+699,20,Femenino,Administración de Empresas,Ubaté,1,4.74,17,Soacha,3.0,Activo,
+700,28,Femenino,Psicología,Chía,8,2.8,93,Bogotá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+701,22,Masculino,Administración de Empresas,Chía,3,2.71,39,Otro,1.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+702,26,Femenino,Psicología,Chía,10,2.93,89,Silvania,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+703,24,Femenino,Contaduría Pública,Soacha,6,3.37,53,Chía,3.0,Activo,
+704,18,Femenino,Enfermería,Girardot,7,2.4,76,Melgar,2.0,Activo,
+705,19,Femenino,Psicología,Chía,10,3.34,97,Fusagasugá,1.0,Activo,
+706,27,No informa,Administración de Empresas,Ubaté,1,4.28,11,Chía,2.0,Activo,
+707,20,Femenino,Administración de Empresas,Fusagasugá,6,3.43,62,Otro,2.0,Activo,
+708,20,Masculino,Ingeniería Ambiental,Fusagasugá,7,3.19,63,Soacha,3.0,Activo,
+709,18,Femenino,Contaduría Pública,Fusagasugá,6,3.01,99,Chía,2.0,Activo,
+710,24,Masculino,Administración de Empresas,Girardot,4,3.84,35,Fusagasugá,,Desertor,
+711,31,Masculino,Ingeniería de Sistemas,Ubaté,1,2.9,15,Facatativá,4.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+712,17,Masculino,Enfermería,Chía,9,4.37,91,Bogotá,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+713,22,Femenino,Psicología,Fusagasugá,4,4.41,66,Facatativá,5.0,Activo,
+714,28,Femenino,Ingeniería Ambiental,Fusagasugá,7,3.49,115,Soacha,2.0,Activo,
+715,22,Femenino,Enfermería,Soacha,7,3.34,100,Girardot,2.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+716,24,Masculino,Contaduría Pública,Fusagasugá,2,3.92,29,Soacha,2.0,Activo,
+717,17,Masculino,Ingeniería Ambiental,Girardot,1,,9,Bogotá,1.0,Activo,
+718,24,Masculino,Psicología,Ubaté,8,2.88,137,Fusagasugá,1.0,Desertor,
+719,21,Femenino,Psicología,Ubaté,8,3.06,130,Otro,2.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+720,26,Masculino,Ingeniería de Sistemas,Fusagasugá,7,2.62,115,Silvania,3.0,Activo,
+721,27,Masculino,Contaduría Pública,Fusagasugá,8,3.57,115,Facatativá,4.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+722,34,Femenino,Ingeniería Ambiental,Fusagasugá,3,3.72,35,Soacha,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+723,25,Femenino,Ingeniería Ambiental,Ubaté,2,2.58,33,Otro,1.0,Activo,
+724,23,Masculino,Administración de Empresas,Ubaté,7,,79,Facatativá,3.0,Activo,
+725,23,Masculino,Ingeniería de Sistemas,Fusagasugá,8,2.61,109,Soacha,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+726,20,Masculino,Ingeniería de Sistemas,Ubaté,1,2.86,10,Bogotá,,Activo,
+727,24,Femenino,Ingeniería Ambiental,Chía,10,3.65,166,Facatativá,4.0,Activo,
+728,21,Masculino,Ingeniería Ambiental,Fusagasugá,9,2.95,90,Soacha,4.0,Activo,
+729,23,Femenino,Enfermería,Girardot,4,3.18,43,Fusagasugá,2.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+730,28,Femenino,Enfermería,Chía,4,2.45,54,Bogotá,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+731,17,Femenino,Enfermería,Fusagasugá,3,3.45,46,Otro,2.0,Activo,
+732,27,Masculino,Ingeniería de Sistemas,Fusagasugá,6,3.33,84,Otro,6.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+733,28,Masculino,Administración de Empresas,Ubaté,1,2.95,11,Silvania,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+734,21,Masculino,Psicología,Soacha,6,3.22,53,Chía,1.0,Activo,
+735,16,Femenino,Enfermería,Chía,2,3.42,30,,1.0,Activo,
+736,19,Masculino,Administración de Empresas,Ubaté,9,2.9,154,Fusagasugá,3.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+737,28,Femenino,Contaduría Pública,Chía,2,2.54,31,Bogotá,2.0,Activo,
+738,22,Masculino,Enfermería,Girardot,7,4.34,89,Facatativá,2.0,Activo,
+739,18,Femenino,Psicología,Ubaté,1,3.0,16,Otro,5.0,Activo,
+740,20,Femenino,Contaduría Pública,Girardot,7,3.3,86,Fusagasugá,4.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+741,26,Femenino,Contaduría Pública,Fusagasugá,5,3.91,66,Bogotá,2.0,Activo,
+742,24,Femenino,Psicología,Chía,8,5.0,103,Bogotá,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+743,21,Masculino,Enfermería,Ubaté,4,2.67,50,Facatativá,4.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+744,20,Femenino,Ingeniería de Sistemas,Girardot,10,3.6,154,Bogotá,4.0,Activo,
+745,20,Femenino,Psicología,Soacha,7,2.96,93,Melgar,3.0,Activo,
+746,18,Masculino,Psicología,Fusagasugá,6,3.05,69,Fusagasugá,3.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+747,29,Femenino,Psicología,Fusagasugá,5,2.95,55,Soacha,2.0,Activo,
+748,21,Masculino,Contaduría Pública,Fusagasugá,4,,36,Otro,3.0,Activo,
+749,27,Masculino,Administración de Empresas,Chía,7,3.33,96,Otro,3.0,Activo,
+750,29,Masculino,Ingeniería de Sistemas,Chía,5,2.54,54,Soacha,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+751,26,Femenino,Enfermería,Girardot,5,3.85,50,Fusagasugá,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+752,20,Masculino,Enfermería,Ubaté,1,3.38,14,Girardot,4.0,Activo,
+753,24,Masculino,Administración de Empresas,Girardot,2,3.58,29,Fusagasugá,3.0,Activo,
+754,22,Femenino,Psicología,Chía,5,3.09,76,Ubaté,2.0,Activo,
+755,18,Femenino,Ingeniería de Sistemas,Girardot,3,3.15,39,Bogotá,3.0,Activo,
+756,23,Masculino,Enfermería,Girardot,2,3.51,33,Chía,3.0,Activo,
+757,17,Masculino,Ingeniería Ambiental,Soacha,4,2.71,67,Facatativá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+758,27,Masculino,Enfermería,Fusagasugá,4,3.15,63,Melgar,3.0,Activo,
+759,20,Masculino,Psicología,Fusagasugá,4,2.88,57,Chía,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+760,23,Masculino,Ingeniería Ambiental,Ubaté,4,2.86,46,Soacha,5.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+761,23,Femenino,Administración de Empresas,Soacha,3,2.16,51,,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+762,21,Femenino,Ingeniería de Sistemas,Girardot,7,4.06,78,Facatativá,1.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+763,25,Femenino,Administración de Empresas,Fusagasugá,9,2.97,95,Facatativá,2.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+764,20,Masculino,Administración de Empresas,Girardot,5,3.99,63,Otro,3.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+765,26,Femenino,Ingeniería de Sistemas,Girardot,4,3.94,37,Melgar,3.0,Activo,
+766,16,Masculino,Ingeniería de Sistemas,Fusagasugá,2,2.64,34,Otro,4.0,Activo,
+767,23,Masculino,Enfermería,Ubaté,2,2.75,28,Bogotá,3.0,Activo,
+768,31,Masculino,Enfermería,Soacha,5,4.76,68,Ubaté,3.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+769,17,Femenino,Ingeniería de Sistemas,Girardot,7,4.31,101,Silvania,6.0,Activo,
+770,19,Masculino,Ingeniería Ambiental,Girardot,10,3.33,130,Melgar,2.0,Activo,
+771,24,Femenino,Contaduría Pública,Girardot,10,3.49,91,Chía,4.0,Activo,
+772,23,Masculino,Enfermería,Fusagasugá,9,3.0,126,Bogotá,2.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+773,24,Femenino,Contaduría Pública,Soacha,7,3.59,104,Fusagasugá,3.0,Activo,
+774,24,Femenino,Ingeniería Ambiental,Girardot,5,2.96,62,Soacha,3.0,Activo,
+775,25,Masculino,Ingeniería de Sistemas,Girardot,10,2.23,152,Ubaté,3.0,Activo,
+776,27,Femenino,Ingeniería Ambiental,Ubaté,10,2.6,107,Bogotá,1.0,Desertor,
+777,24,Femenino,Enfermería,Girardot,10,3.36,107,Fusagasugá,,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+778,21,Masculino,Administración de Empresas,Ubaté,6,2.73,61,Ubaté,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+779,25,Masculino,Ingeniería de Sistemas,Fusagasugá,3,3.31,36,Fusagasugá,,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+780,31,Masculino,Psicología,Chía,5,2.76,80,Melgar,2.0,Desertor,
+781,21,Masculino,Contaduría Pública,Soacha,8,2.92,127,Fusagasugá,4.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+782,18,Masculino,Ingeniería Ambiental,Ubaté,1,3.82,12,Ubaté,2.0,Activo,
+783,27,Femenino,Ingeniería de Sistemas,Soacha,1,3.49,14,Fusagasugá,3.0,Activo,
+784,21,Femenino,Ingeniería Ambiental,Fusagasugá,7,3.34,104,Chía,,Activo,
+785,16,Femenino,Ingeniería de Sistemas,Girardot,5,3.83,54,Bogotá,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+786,26,Masculino,Enfermería,Ubaté,5,3.61,51,Ubaté,5.0,Activo,
+787,20,Masculino,Enfermería,Ubaté,1,4.15,17,Chía,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+788,22,Femenino,Enfermería,Girardot,9,3.1,126,Fusagasugá,3.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+789,23,Femenino,Ingeniería Ambiental,Girardot,1,3.09,17,Fusagasugá,,Activo,
+790,23,Masculino,Psicología,Fusagasugá,5,2.63,58,Facatativá,2.0,Activo,
+791,25,Femenino,Enfermería,Girardot,10,3.11,148,Ubaté,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+792,20,Masculino,Ingeniería de Sistemas,Fusagasugá,9,3.88,96,Melgar,3.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+793,24,Femenino,Enfermería,Chía,4,4.06,44,Fusagasugá,2.0,Activo,
+794,21,Masculino,Administración de Empresas,Fusagasugá,8,3.88,105,Soacha,2.0,Activo,
+795,25,Femenino,Enfermería,Fusagasugá,6,2.36,69,Otro,2.0,Activo,
+796,25,Masculino,Ingeniería Ambiental,Ubaté,3,3.92,31,Silvania,1.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+797,18,Masculino,Psicología,Ubaté,4,2.34,44,Otro,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+798,27,Masculino,Administración de Empresas,Soacha,2,3.84,18,Melgar,4.0,Activo,
+799,20,Masculino,Ingeniería Ambiental,Ubaté,1,3.15,15,Bogotá,3.0,Activo,
+800,26,Masculino,Ingeniería Ambiental,Girardot,8,3.74,104,Girardot,3.0,Activo,
+801,24,Masculino,Ingeniería Ambiental,Chía,1,2.62,10,Soacha,3.0,Activo,
+802,30,Femenino,Ingeniería de Sistemas,Ubaté,1,3.99,10,Girardot,,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+803,21,Masculino,Ingeniería Ambiental,Fusagasugá,4,2.54,39,Fusagasugá,4.0,Activo,
+804,20,Masculino,Ingeniería de Sistemas,Ubaté,10,2.96,140,Bogotá,1.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+805,22,Femenino,Ingeniería Ambiental,Soacha,10,2.8,96,Chía,2.0,Desertor,
+806,21,Masculino,Contaduría Pública,Girardot,6,2.39,91,Fusagasugá,3.0,Activo,
+807,26,Masculino,Administración de Empresas,Fusagasugá,9,3.38,81,Girardot,1.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+808,16,Masculino,Contaduría Pública,Fusagasugá,1,4.34,11,Fusagasugá,3.0,Activo,
+809,17,Femenino,Ingeniería Ambiental,Fusagasugá,7,4.82,114,Silvania,2.0,Activo,
+810,17,Femenino,Administración de Empresas,Girardot,10,3.4,149,Facatativá,3.0,Activo,
+811,26,No informa,Administración de Empresas,Ubaté,5,3.96,47,Silvania,,Activo,
+812,30,Masculino,Psicología,Fusagasugá,8,3.48,126,Bogotá,2.0,Desertor,
+813,22,Femenino,Contaduría Pública,Soacha,7,3.62,91,Chía,3.0,Activo,
+814,21,Masculino,Psicología,Chía,4,3.16,64,Silvania,2.0,Activo,
+815,22,Masculino,Administración de Empresas,Ubaté,4,3.46,56,Ubaté,3.0,Activo,
+816,27,Femenino,Ingeniería de Sistemas,Chía,6,3.62,87,Chía,1.0,Desertor,
+817,18,Masculino,Administración de Empresas,Fusagasugá,6,3.03,103,Girardot,3.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+818,23,Femenino,Psicología,Girardot,9,3.31,97,Silvania,3.0,Activo,
+819,26,Femenino,Contaduría Pública,Ubaté,5,3.32,70,Facatativá,2.0,Activo,
+820,24,Femenino,Ingeniería Ambiental,Chía,8,3.8,102,Chía,5.0,Activo,
+821,23,Masculino,Ingeniería Ambiental,Chía,5,2.76,46,Fusagasugá,4.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+822,27,Femenino,Contaduría Pública,Fusagasugá,2,3.32,18,Facatativá,3.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+823,16,Femenino,Ingeniería Ambiental,Soacha,6,4.4,59,Fusagasugá,3.0,Activo,
+824,25,Femenino,Ingeniería Ambiental,Fusagasugá,9,3.99,129,Silvania,2.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+825,19,Masculino,Psicología,Soacha,3,4.09,41,Soacha,3.0,Activo,
+826,16,Masculino,Contaduría Pública,Soacha,1,3.36,13,,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+827,24,Femenino,Enfermería,Fusagasugá,1,3.5,9,Girardot,1.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+828,28,Femenino,Ingeniería de Sistemas,Chía,3,3.9,38,Facatativá,6.0,Activo,
+829,21,Masculino,Ingeniería de Sistemas,Fusagasugá,10,4.21,166,,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+830,26,Femenino,Ingeniería Ambiental,Girardot,5,2.28,61,Melgar,2.0,Desertor,
+831,29,Femenino,Ingeniería de Sistemas,Girardot,3,2.63,42,Facatativá,2.0,Activo,
+832,28,Femenino,Contaduría Pública,Ubaté,9,4.07,139,Ubaté,3.0,Activo,
+833,29,Femenino,Contaduría Pública,Soacha,8,3.17,124,Girardot,1.0,Activo,
+834,25,Femenino,Administración de Empresas,Ubaté,3,2.96,40,Otro,1.0,Activo,
+835,22,Femenino,Administración de Empresas,Girardot,9,2.64,145,Otro,1.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+836,16,Femenino,Ingeniería de Sistemas,Chía,6,3.04,73,Fusagasugá,3.0,Desertor,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+837,21,Masculino,Enfermería,Soacha,7,2.58,114,Soacha,3.0,Activo,
+838,18,Femenino,Administración de Empresas,Fusagasugá,4,4.48,43,Chía,1.0,Activo,
+839,32,Masculino,Administración de Empresas,Soacha,4,,45,Ubaté,3.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+840,21,Masculino,Contaduría Pública,Fusagasugá,2,3.32,19,Otro,2.0,Activo,
+841,23,Femenino,Enfermería,Chía,5,3.67,78,Fusagasugá,3.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+842,24,Masculino,Ingeniería Ambiental,Fusagasugá,8,3.88,99,Fusagasugá,5.0,Activo,
+843,22,Femenino,Ingeniería de Sistemas,Fusagasugá,7,3.87,75,Silvania,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+844,30,Masculino,Administración de Empresas,Girardot,7,3.94,75,Soacha,4.0,Activo,
+845,19,Femenino,Enfermería,Ubaté,6,3.0,99,Facatativá,5.0,Activo,
+846,23,Femenino,Enfermería,Girardot,3,3.19,48,Chía,2.0,Activo,
+847,19,Femenino,Ingeniería de Sistemas,Fusagasugá,5,3.77,67,Silvania,3.0,Activo,
+848,16,No informa,Enfermería,Ubaté,1,3.06,14,Otro,4.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+849,19,Femenino,Enfermería,Soacha,7,,90,Chía,2.0,Activo,
+850,22,Masculino,Enfermería,Girardot,9,3.57,109,Girardot,2.0,Activo,
+851,20,Femenino,Administración de Empresas,Fusagasugá,1,,17,Soacha,5.0,Activo,
+852,19,Masculino,Ingeniería de Sistemas,Girardot,2,2.37,20,Otro,3.0,Desertor,
+853,16,Femenino,Enfermería,Fusagasugá,3,3.74,37,Fusagasugá,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+854,22,Masculino,Enfermería,Chía,3,3.22,35,Otro,2.0,Activo,
+855,16,Femenino,Administración de Empresas,Chía,8,3.74,104,Melgar,3.0,Activo,
+856,25,Femenino,Ingeniería de Sistemas,Ubaté,7,3.78,89,Bogotá,3.0,Activo,
+857,22,Femenino,Contaduría Pública,Girardot,6,4.23,79,Bogotá,3.0,Activo,
+858,16,Femenino,Administración de Empresas,Chía,10,4.09,100,Otro,3.0,Activo,
+859,21,Masculino,Ingeniería de Sistemas,Ubaté,10,4.09,132,Melgar,3.0,Activo,
+860,19,Femenino,Enfermería,Chía,4,4.14,43,Otro,3.0,Activo,
+861,23,Masculino,Ingeniería de Sistemas,Ubaté,9,3.51,93,Bogotá,3.0,Activo,
+862,28,Femenino,Ingeniería de Sistemas,Chía,1,3.37,9,Silvania,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+863,16,Masculino,Ingeniería Ambiental,Ubaté,2,3.83,31,Girardot,3.0,Activo,
+864,23,Femenino,Ingeniería de Sistemas,Girardot,4,3.75,50,Bogotá,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+865,21,Femenino,Contaduría Pública,Soacha,3,3.18,42,Girardot,2.0,Activo,
+866,25,Masculino,Ingeniería de Sistemas,Ubaté,1,3.57,15,Fusagasugá,5.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+867,23,Femenino,Contaduría Pública,Ubaté,5,3.31,73,Girardot,1.0,Desertor,
+868,19,Femenino,Enfermería,Fusagasugá,7,2.88,90,Silvania,2.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+869,21,Masculino,Contaduría Pública,Ubaté,2,4.06,24,Melgar,3.0,Desertor,
+870,18,Masculino,Enfermería,Ubaté,5,3.38,60,Girardot,4.0,Activo,
+871,27,Femenino,Enfermería,Fusagasugá,6,4.48,85,Chía,2.0,Activo,
+872,22,Femenino,Contaduría Pública,Fusagasugá,7,2.46,91,Facatativá,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+873,31,Masculino,Administración de Empresas,Ubaté,1,3.02,16,Bogotá,1.0,Activo,
+874,22,Femenino,Psicología,Chía,7,3.37,114,Melgar,3.0,Activo,
+875,19,Femenino,Ingeniería de Sistemas,Girardot,4,3.98,41,Ubaté,2.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+876,16,Femenino,Ingeniería Ambiental,Fusagasugá,8,3.57,80,Fusagasugá,2.0,Activo,
+877,16,Masculino,Psicología,Ubaté,4,3.52,57,Facatativá,2.0,Activo,
+878,16,Masculino,Ingeniería de Sistemas,Fusagasugá,6,2.73,68,Chía,4.0,Desertor,
+879,23,Femenino,Ingeniería de Sistemas,Girardot,9,2.71,81,Soacha,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+880,24,Femenino,Enfermería,Fusagasugá,5,3.5,82,Silvania,1.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+881,16,Femenino,Ingeniería de Sistemas,Fusagasugá,4,2.6,43,Otro,3.0,Activo,
+882,26,Masculino,Ingeniería Ambiental,Fusagasugá,8,3.06,133,Facatativá,5.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+883,20,Femenino,Ingeniería de Sistemas,Girardot,9,3.63,134,Melgar,3.0,Activo,Tuve problemas de salud emocional y no sabía a quién acudir.
+884,23,Femenino,Contaduría Pública,Fusagasugá,4,2.81,61,Melgar,5.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+885,29,Masculino,Psicología,Girardot,3,4.23,32,Melgar,4.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+886,26,Femenino,Contaduría Pública,Girardot,8,4.0,86,Fusagasugá,1.0,Activo,
+887,21,Masculino,Ingeniería Ambiental,Girardot,5,2.49,66,Girardot,3.0,Activo,
+888,18,Femenino,Ingeniería de Sistemas,Girardot,2,2.84,21,Bogotá,2.0,Activo,
+889,16,Femenino,Ingeniería Ambiental,Chía,10,2.09,114,Soacha,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+890,19,Femenino,Enfermería,Fusagasugá,9,2.92,104,Otro,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+891,21,Masculino,Contaduría Pública,Girardot,3,3.77,30,Melgar,2.0,Activo,
+892,18,Masculino,Contaduría Pública,Fusagasugá,2,3.12,21,Otro,4.0,Activo,
+893,21,Masculino,Administración de Empresas,Fusagasugá,1,3.6,15,Ubaté,2.0,Activo,
+894,22,Femenino,Ingeniería de Sistemas,Ubaté,8,2.51,82,Fusagasugá,4.0,Activo,
+895,21,Masculino,Enfermería,Ubaté,3,3.76,27,Melgar,1.0,Activo,
+896,19,Femenino,Contaduría Pública,Soacha,7,3.02,99,Ubaté,1.0,Activo,
+897,23,Femenino,Contaduría Pública,Ubaté,1,3.36,17,Soacha,4.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+898,24,Masculino,Enfermería,Soacha,1,3.3,12,Soacha,3.0,Activo,
+899,17,Femenino,Ingeniería Ambiental,Fusagasugá,9,2.65,88,Bogotá,3.0,Activo,
+900,28,Femenino,Ingeniería Ambiental,Fusagasugá,8,2.72,109,Chía,2.0,Desertor,
+901,22,Femenino,Ingeniería de Sistemas,Fusagasugá,3,3.88,49,Bogotá,3.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+902,22,Femenino,Administración de Empresas,Fusagasugá,6,3.57,93,Girardot,3.0,Activo,
+903,25,Femenino,Contaduría Pública,Ubaté,3,3.93,42,Otro,3.0,Desertor,
+904,23,Masculino,Administración de Empresas,Ubaté,4,3.53,46,Silvania,2.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+905,26,Femenino,Ingeniería Ambiental,Fusagasugá,1,3.43,13,Soacha,5.0,Activo,
+906,23,Masculino,Ingeniería Ambiental,Soacha,5,2.4,48,Silvania,3.0,Desertor,
+907,19,Masculino,Psicología,Chía,1,3.2,15,Fusagasugá,4.0,Activo,
+908,24,Femenino,Ingeniería de Sistemas,Fusagasugá,1,3.33,15,Facatativá,3.0,Activo,
+909,17,Femenino,Psicología,Fusagasugá,10,4.42,170,,3.0,Activo,
+910,22,Femenino,Psicología,Fusagasugá,7,3.7,77,Fusagasugá,1.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+911,22,Masculino,Psicología,Fusagasugá,6,4.19,54,Soacha,,Desertor,
+912,21,Femenino,Ingeniería de Sistemas,Fusagasugá,2,3.68,27,Ubaté,4.0,Activo,
+913,21,Masculino,Ingeniería de Sistemas,Girardot,2,2.96,30,Otro,2.0,Activo,
+914,16,Femenino,Enfermería,Fusagasugá,7,3.39,109,Silvania,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+915,20,Masculino,Administración de Empresas,Girardot,1,3.48,10,Bogotá,2.0,Activo,
+916,22,Femenino,Administración de Empresas,Soacha,2,2.83,22,Facatativá,2.0,Activo,
+917,23,Femenino,Enfermería,Chía,8,3.14,105,Chía,4.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+918,17,Masculino,Enfermería,Soacha,6,3.24,70,Fusagasugá,4.0,Activo,
+919,28,Masculino,Ingeniería Ambiental,Fusagasugá,2,4.23,32,Chía,3.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+920,18,Femenino,Psicología,Girardot,7,2.18,90,Silvania,1.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+921,26,Masculino,Enfermería,Ubaté,4,4.01,62,Silvania,3.0,Activo,
+922,24,Femenino,Contaduría Pública,Fusagasugá,2,2.83,27,Melgar,3.0,Activo,
+923,19,Masculino,Administración de Empresas,Fusagasugá,6,2.6,92,Ubaté,5.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+924,30,Masculino,Enfermería,Ubaté,9,4.0,105,Ubaté,3.0,Activo,
+925,17,Femenino,Contaduría Pública,Ubaté,9,3.75,143,Girardot,2.0,Activo,
+926,26,Femenino,Contaduría Pública,Girardot,8,4.04,89,Bogotá,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+927,27,Femenino,Contaduría Pública,Girardot,3,3.79,40,Soacha,5.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+928,19,Masculino,Ingeniería Ambiental,Girardot,3,4.48,32,Soacha,3.0,Activo,
+929,28,Masculino,Ingeniería Ambiental,Fusagasugá,2,3.66,26,Silvania,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+930,21,Femenino,Contaduría Pública,Girardot,5,3.26,57,Fusagasugá,2.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+931,23,Femenino,Ingeniería Ambiental,Fusagasugá,4,3.54,44,Otro,3.0,Activo,
+932,23,Masculino,Psicología,Fusagasugá,7,4.03,119,Soacha,3.0,Activo,
+933,21,No informa,Contaduría Pública,Soacha,4,2.92,41,Soacha,2.0,Desertor,
+934,26,Masculino,Psicología,Ubaté,9,2.99,139,Fusagasugá,2.0,Activo,
+935,26,Femenino,Psicología,Chía,2,3.18,34,Bogotá,2.0,Activo,
+936,16,Femenino,Contaduría Pública,Fusagasugá,6,2.19,54,Facatativá,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+937,28,Femenino,Administración de Empresas,Girardot,7,3.4,103,Ubaté,1.0,Activo,
+938,16,Masculino,Contaduría Pública,Fusagasugá,4,2.31,44,Melgar,2.0,Activo,
+939,27,Femenino,Contaduría Pública,Fusagasugá,6,3.38,55,Melgar,3.0,Activo,
+940,27,Masculino,Ingeniería Ambiental,Fusagasugá,7,3.8,86,Melgar,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+941,17,Femenino,Contaduría Pública,Chía,4,3.09,67,Fusagasugá,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+942,20,Masculino,Administración de Empresas,Ubaté,8,4.27,71,Melgar,4.0,Activo,
+943,17,Masculino,Ingeniería Ambiental,Ubaté,9,2.55,124,Silvania,3.0,Activo,
+944,21,Masculino,Ingeniería de Sistemas,Girardot,1,4.01,13,Girardot,,Activo,
+945,21,Femenino,Ingeniería de Sistemas,Soacha,7,3.72,113,Fusagasugá,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+946,26,Femenino,Psicología,Fusagasugá,9,2.41,86,Fusagasugá,3.0,Activo,
+947,28,Femenino,Psicología,Fusagasugá,10,4.84,146,Ubaté,2.0,Activo,
+948,28,Masculino,Administración de Empresas,Girardot,5,3.31,73,Melgar,4.0,Activo,
+949,19,Masculino,Enfermería,Chía,2,2.84,29,Chía,1.0,Activo,
+950,21,Masculino,Ingeniería de Sistemas,Soacha,10,2.58,168,Facatativá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+951,16,Masculino,Psicología,Fusagasugá,6,,95,Girardot,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+952,18,Masculino,Ingeniería de Sistemas,Soacha,7,3.28,64,Fusagasugá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+953,26,Femenino,Administración de Empresas,Chía,2,,26,Girardot,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+954,29,Masculino,Administración de Empresas,Fusagasugá,2,3.19,24,Fusagasugá,2.0,Activo,
+955,16,Femenino,Enfermería,Girardot,10,3.7,114,Bogotá,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+956,19,Femenino,Enfermería,Girardot,10,3.14,126,Ubaté,3.0,Activo,
+957,22,Femenino,Ingeniería Ambiental,Soacha,1,2.29,12,Silvania,5.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+958,23,Femenino,Administración de Empresas,Fusagasugá,4,,50,Bogotá,4.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+959,18,Femenino,Psicología,Chía,7,2.02,120,Otro,1.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+960,24,Masculino,Ingeniería de Sistemas,Girardot,9,3.54,86,Melgar,2.0,Activo,
+961,20,Femenino,Contaduría Pública,Chía,3,2.81,50,Otro,4.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+962,22,Masculino,Enfermería,Girardot,7,3.44,90,Facatativá,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+963,24,Femenino,Contaduría Pública,Ubaté,7,4.07,99,Chía,3.0,Activo,
+964,22,Femenino,Psicología,Chía,7,2.83,111,Silvania,4.0,Activo,
+965,20,Femenino,Enfermería,Chía,2,3.93,24,Bogotá,4.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+966,22,Femenino,Contaduría Pública,Soacha,6,3.11,75,Girardot,3.0,Activo,
+967,22,Masculino,Psicología,Fusagasugá,2,4.31,25,Girardot,2.0,Activo,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+968,20,Femenino,Ingeniería de Sistemas,Chía,6,3.15,72,Facatativá,2.0,Activo,
+969,21,Masculino,Psicología,Fusagasugá,10,2.89,166,Fusagasugá,3.0,Activo,
+970,29,Femenino,Ingeniería Ambiental,Girardot,3,3.73,47,Girardot,2.0,Activo,
+971,25,Masculino,Enfermería,Ubaté,2,3.11,19,Melgar,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+972,21,Masculino,Administración de Empresas,Girardot,6,2.89,58,Chía,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+973,25,Masculino,Ingeniería de Sistemas,Girardot,2,3.09,25,Ubaté,,Activo,
+974,20,Femenino,Contaduría Pública,Soacha,5,3.33,48,Melgar,3.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+975,27,Femenino,Enfermería,Fusagasugá,2,4.09,28,Chía,3.0,Activo,
+976,24,Femenino,Administración de Empresas,Ubaté,3,2.29,30,Facatativá,2.0,Activo,
+977,22,Masculino,Psicología,Girardot,3,3.36,40,Melgar,2.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+978,24,Femenino,Administración de Empresas,Fusagasugá,6,3.69,53,,4.0,Activo,
+979,16,Femenino,Enfermería,Fusagasugá,6,3.43,69,Ubaté,1.0,Activo,
+980,17,Masculino,Enfermería,Soacha,10,4.07,145,Soacha,3.0,Activo,
+981,17,Femenino,Ingeniería Ambiental,Soacha,3,3.31,39,Fusagasugá,4.0,Activo,
+982,23,Masculino,Ingeniería Ambiental,Soacha,3,3.25,51,Facatativá,2.0,Activo,
+983,30,Femenino,Administración de Empresas,Soacha,1,3.68,16,Melgar,3.0,Activo,
+984,32,Femenino,Psicología,Fusagasugá,7,3.4,83,Silvania,5.0,Activo,
+985,25,Masculino,Administración de Empresas,Girardot,8,3.14,73,Silvania,2.0,Activo,
+986,24,Femenino,Enfermería,Ubaté,2,3.63,32,Facatativá,3.0,Activo,
+987,16,Masculino,Enfermería,Girardot,4,2.99,66,Melgar,2.0,Activo,
+988,20,Femenino,Contaduría Pública,Girardot,10,3.01,158,Bogotá,2.0,Activo,
+989,18,Femenino,Ingeniería Ambiental,Girardot,7,3.06,69,Bogotá,4.0,Activo,No conseguí conexión estable a internet para las clases y actividades.
+990,19,Masculino,Contaduría Pública,Ubaté,8,4.09,138,Fusagasugá,4.0,Activo,
+991,21,Masculino,Ingeniería de Sistemas,Ubaté,1,1.58,11,Melgar,3.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+992,20,Masculino,Enfermería,Fusagasugá,4,3.57,60,Ubaté,2.0,Activo,
+993,16,Femenino,Contaduría Pública,Girardot,6,3.34,99,Girardot,1.0,Activo,
+994,25,Masculino,Administración de Empresas,Ubaté,3,2.43,32,Silvania,3.0,Activo,
+995,17,Femenino,Ingeniería Ambiental,Ubaté,5,3.5,83,Melgar,,Activo,
+996,23,Femenino,Ingeniería Ambiental,Fusagasugá,10,3.61,114,Melgar,3.0,Activo,
+997,31,Masculino,Psicología,Chía,9,3.67,154,Girardot,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+998,18,Femenino,Administración de Empresas,Fusagasugá,3,1.89,34,Girardot,3.0,Activo,
+999,16,Masculino,Psicología,Girardot,5,4.1,84,Chía,3.0,Activo,
+1000,21,Femenino,Contaduría Pública,Chía,8,2.94,74,Soacha,2.0,Activo,
+1001,27,Femenino,Ingeniería de Sistemas,Ubaté,6,3.73,89,Fusagasugá,2.0,Activo,
+1002,31,Masculino,Administración de Empresas,Fusagasugá,4,3.76,53,Silvania,2.0,Activo,
+1003,16,Masculino,Administración de Empresas,Chía,8,2.87,103,Girardot,3.0,Desertor,
+1004,24,Masculino,Administración de Empresas,Ubaté,3,3.71,32,Bogotá,3.0,Activo,
+1005,20,Masculino,Psicología,Chía,3,3.14,44,,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+1006,22,Masculino,Contaduría Pública,Chía,4,2.21,42,Bogotá,3.0,Activo,
+1007,34,Masculino,Administración de Empresas,Ubaté,9,3.99,121,Chía,5.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+1008,16,Masculino,Administración de Empresas,Girardot,5,2.92,55,Chía,2.0,Activo,
+1009,23,Femenino,Ingeniería Ambiental,Fusagasugá,8,2.86,135,Girardot,1.0,Activo,
+1010,24,Femenino,Ingeniería de Sistemas,Fusagasugá,6,3.13,54,Chía,2.0,Activo,
+1011,27,Femenino,Ingeniería Ambiental,Girardot,3,3.5,31,Ubaté,3.0,Activo,
+1012,22,No informa,Ingeniería Ambiental,Ubaté,8,3.32,87,Otro,2.0,Activo,
+1013,23,Masculino,Ingeniería de Sistemas,Girardot,9,3.65,111,Melgar,4.0,Activo,
+1014,20,Femenino,Contaduría Pública,Fusagasugá,8,2.61,86,Melgar,3.0,Activo,
+1015,23,Masculino,Ingeniería Ambiental,Fusagasugá,4,2.94,52,Girardot,4.0,Desertor,
+1016,20,Masculino,Contaduría Pública,Girardot,6,3.29,97,Chía,5.0,Activo,
+1017,25,Femenino,Ingeniería Ambiental,Fusagasugá,1,4.37,15,Facatativá,1.0,Activo,
+1018,20,Masculino,Enfermería,Chía,4,3.29,55,Ubaté,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1019,24,Masculino,Ingeniería de Sistemas,Fusagasugá,8,3.95,76,Fusagasugá,3.0,Activo,
+1020,22,Femenino,Ingeniería Ambiental,Ubaté,1,3.37,15,Chía,2.0,Activo,
+1021,27,Masculino,Enfermería,Soacha,3,3.08,31,Ubaté,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1022,22,Femenino,Psicología,Fusagasugá,1,3.21,15,Soacha,3.0,Activo,
+1023,16,Masculino,Enfermería,Girardot,9,3.26,98,Fusagasugá,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1024,28,Masculino,Administración de Empresas,Fusagasugá,2,3.68,25,Melgar,3.0,Activo,
+1025,18,Masculino,Ingeniería Ambiental,Ubaté,9,4.11,106,Soacha,3.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+1026,19,Femenino,Enfermería,Ubaté,4,3.52,64,Girardot,1.0,Activo,
+1027,19,Masculino,Contaduría Pública,Girardot,2,4.0,20,Silvania,3.0,Activo,
+1028,28,Masculino,Psicología,Girardot,4,2.82,54,Girardot,2.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1029,16,Femenino,Ingeniería Ambiental,Soacha,10,3.12,100,Facatativá,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1030,36,Masculino,Administración de Empresas,Fusagasugá,6,2.95,89,Ubaté,2.0,Activo,
+1031,27,Femenino,Enfermería,Fusagasugá,7,3.52,115,Silvania,4.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1032,23,Masculino,Psicología,Soacha,3,3.15,37,Fusagasugá,2.0,Activo,
+1033,22,Femenino,Ingeniería Ambiental,Ubaté,3,3.75,39,Fusagasugá,,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+1034,23,Femenino,Psicología,Soacha,10,2.84,167,Soacha,2.0,Desertor,
+1035,24,Femenino,Administración de Empresas,Ubaté,8,3.37,106,Facatativá,2.0,Activo,
+1036,25,Masculino,Enfermería,Chía,5,3.73,65,Melgar,2.0,Activo,
+1037,25,Femenino,Psicología,Girardot,4,2.21,55,Chía,3.0,Activo,
+1038,22,Masculino,Psicología,Chía,7,4.52,103,Chía,3.0,Activo,
+1039,21,Femenino,Ingeniería de Sistemas,Soacha,7,3.17,68,Silvania,1.0,Activo,
+1040,21,Femenino,Psicología,Ubaté,9,2.21,142,Facatativá,1.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+1041,21,Masculino,Ingeniería de Sistemas,Fusagasugá,9,3.44,112,Facatativá,3.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+1042,27,Masculino,Enfermería,Fusagasugá,5,3.37,47,Fusagasugá,3.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+1043,25,Femenino,Ingeniería Ambiental,Fusagasugá,8,3.3,124,Melgar,2.0,Activo,
+1044,16,Masculino,Ingeniería Ambiental,Fusagasugá,10,3.9,120,Ubaté,3.0,Activo,
+1045,25,Masculino,Enfermería,Fusagasugá,1,3.76,10,Melgar,2.0,Activo,
+1046,23,Masculino,Enfermería,Ubaté,9,3.51,128,Bogotá,3.0,Activo,
+1047,22,Femenino,Contaduría Pública,Ubaté,8,3.6,130,Facatativá,2.0,Activo,
+1048,20,Femenino,Enfermería,Girardot,6,3.27,98,Girardot,1.0,Activo,
+1049,27,Masculino,Psicología,Ubaté,3,4.33,51,Otro,4.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+1050,26,Femenino,Ingeniería Ambiental,Fusagasugá,3,2.54,48,Facatativá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1051,19,Masculino,Administración de Empresas,Fusagasugá,8,3.43,71,Silvania,3.0,Activo,
+1052,24,Masculino,Ingeniería Ambiental,Fusagasugá,5,3.39,60,Girardot,2.0,Activo,
+1053,18,Masculino,Ingeniería de Sistemas,Girardot,10,3.8,157,Silvania,3.0,Activo,
+1054,16,Masculino,Ingeniería Ambiental,Fusagasugá,7,2.89,83,Soacha,4.0,Activo,
+1055,19,No informa,Contaduría Pública,Fusagasugá,5,2.37,70,Otro,1.0,Activo,
+1056,26,Femenino,Enfermería,Girardot,8,3.44,112,Otro,4.0,Activo,
+1057,26,Masculino,Enfermería,Chía,10,3.5,119,Fusagasugá,3.0,Activo,Me costaba comprender algunas materias y no recibí tutorías a tiempo.
+1058,24,Femenino,Ingeniería Ambiental,Fusagasugá,10,4.17,165,Facatativá,3.0,Activo,
+1059,25,Femenino,Administración de Empresas,Ubaté,4,2.65,52,Fusagasugá,3.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+1060,24,Masculino,Administración de Empresas,Ubaté,2,3.99,25,Chía,4.0,Activo,
+1061,19,Masculino,Contaduría Pública,Chía,3,4.63,52,Silvania,1.0,Activo,
+1062,24,No informa,Ingeniería de Sistemas,Soacha,8,3.14,104,Bogotá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1063,26,Masculino,Ingeniería Ambiental,Fusagasugá,7,2.64,72,Bogotá,4.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1064,25,Femenino,Enfermería,Fusagasugá,2,3.13,26,Chía,3.0,Activo,
+1065,27,Femenino,Ingeniería Ambiental,Soacha,6,3.33,94,Soacha,1.0,Activo,
+1066,25,Masculino,Contaduría Pública,Girardot,9,3.66,138,Bogotá,3.0,Activo,
+1067,24,Femenino,Psicología,Ubaté,4,3.02,62,Silvania,3.0,Activo,
+1068,27,Femenino,Psicología,Ubaté,9,4.21,133,Bogotá,2.0,Activo,
+1069,22,Femenino,Contaduría Pública,Ubaté,2,2.74,22,Chía,2.0,Desertor,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+1070,18,Femenino,Enfermería,Soacha,2,2.39,32,Girardot,3.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+1071,21,Femenino,Contaduría Pública,Soacha,9,3.96,147,Fusagasugá,2.0,Activo,
+1072,19,Femenino,Enfermería,Chía,7,2.1,73,Ubaté,3.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1073,19,Femenino,Administración de Empresas,Fusagasugá,7,3.24,69,Silvania,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1074,21,Femenino,Contaduría Pública,Soacha,1,5.0,17,Fusagasugá,2.0,Activo,
+1075,18,No informa,Enfermería,Fusagasugá,6,3.34,97,Otro,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1076,21,Femenino,Contaduría Pública,Fusagasugá,7,2.73,115,Melgar,2.0,Activo,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+1077,16,Femenino,Contaduría Pública,Soacha,6,3.32,98,Bogotá,2.0,Activo,
+1078,23,Masculino,Enfermería,Fusagasugá,6,3.32,80,Bogotá,3.0,Activo,
+1079,22,Femenino,Enfermería,Fusagasugá,2,3.44,29,Soacha,2.0,Activo,
+1080,18,Masculino,Ingeniería de Sistemas,Fusagasugá,6,3.71,81,Fusagasugá,3.0,Activo,
+1081,25,Masculino,Contaduría Pública,Chía,4,2.78,37,Melgar,2.0,Activo,
+1082,26,Femenino,Psicología,Girardot,9,4.28,136,Bogotá,2.0,Activo,
+1083,16,Femenino,Contaduría Pública,Ubaté,1,3.46,13,Otro,1.0,Activo,
+1084,19,Masculino,Contaduría Pública,Fusagasugá,8,3.72,114,Soacha,1.0,Activo,
+1085,19,Masculino,Enfermería,Chía,5,3.0,65,Fusagasugá,2.0,Activo,
+1086,18,Femenino,Contaduría Pública,Chía,1,4.06,13,Soacha,2.0,Activo,
+1087,26,Masculino,Ingeniería Ambiental,Fusagasugá,4,3.21,41,Fusagasugá,4.0,Activo,
+1088,21,Femenino,Contaduría Pública,Girardot,1,3.5,11,Facatativá,3.0,Activo,
+1089,21,No informa,Ingeniería Ambiental,Fusagasugá,6,2.84,61,Facatativá,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1090,16,Femenino,Psicología,Soacha,2,2.8,21,Chía,2.0,Activo,
+1091,25,Masculino,Enfermería,Ubaté,5,3.73,85,Silvania,2.0,Desertor,
+1092,16,Masculino,Contaduría Pública,Soacha,7,3.11,71,Soacha,2.0,Activo,
+1093,22,Masculino,Ingeniería Ambiental,Fusagasugá,2,2.88,22,Chía,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1094,23,Femenino,Ingeniería Ambiental,Chía,6,3.0,83,,2.0,Activo,
+1095,28,Femenino,Ingeniería Ambiental,Chía,6,3.73,84,Bogotá,2.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+1096,16,Femenino,Administración de Empresas,Chía,5,2.98,51,Ubaté,1.0,Activo,
+1097,16,Femenino,Ingeniería de Sistemas,Soacha,5,3.26,78,Soacha,1.0,Activo,
+1098,23,Femenino,Psicología,Girardot,3,3.36,46,,2.0,Activo,
+1099,30,Masculino,Contaduría Pública,Fusagasugá,10,2.3,108,Melgar,3.0,Desertor,
+1100,28,Femenino,Administración de Empresas,Ubaté,10,2.54,112,Facatativá,2.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+1101,23,Femenino,Contaduría Pública,Chía,2,3.53,34,Chía,,Desertor,
+1102,20,Masculino,Contaduría Pública,Ubaté,7,2.94,111,Ubaté,3.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1103,26,Masculino,Enfermería,Fusagasugá,1,3.93,15,Otro,4.0,Activo,
+1104,18,Masculino,Enfermería,Girardot,6,3.88,57,Facatativá,4.0,Activo,
+1105,24,No informa,Enfermería,Fusagasugá,6,3.75,74,Chía,3.0,Activo,
+1106,24,Femenino,Administración de Empresas,Girardot,3,4.33,41,Ubaté,1.0,Activo,
+1107,27,Femenino,Contaduría Pública,Ubaté,2,,21,Otro,3.0,Activo,
+1108,34,Masculino,Ingeniería de Sistemas,Chía,2,3.71,25,Girardot,3.0,Activo,
+1109,24,Masculino,Psicología,Fusagasugá,9,3.0,125,Bogotá,1.0,Activo,
+1110,20,Femenino,Enfermería,Girardot,5,4.7,58,Girardot,3.0,Activo,
+1111,22,Masculino,Enfermería,Fusagasugá,7,4.44,108,Bogotá,4.0,Activo,
+1112,16,Femenino,Contaduría Pública,Fusagasugá,5,3.36,80,Fusagasugá,,Activo,
+1113,19,Femenino,Contaduría Pública,Chía,7,3.54,81,Silvania,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1114,20,Masculino,Administración de Empresas,Soacha,4,,64,,1.0,Activo,
+1115,20,Masculino,Administración de Empresas,Girardot,8,3.27,77,Girardot,2.0,Activo,
+1116,23,Masculino,Enfermería,Chía,10,2.99,159,Silvania,2.0,Activo,
+1117,18,Femenino,Contaduría Pública,Soacha,10,3.83,101,Ubaté,3.0,Activo,
+1118,27,Masculino,Ingeniería de Sistemas,Chía,7,3.39,67,Chía,3.0,Activo,
+1119,22,Femenino,Psicología,Fusagasugá,10,3.45,142,Fusagasugá,2.0,Activo,
+1120,22,Femenino,Contaduría Pública,Soacha,5,2.89,64,Chía,4.0,Activo,
+1121,21,Masculino,Contaduría Pública,Girardot,6,2.41,99,Bogotá,2.0,Activo,
+1122,23,Masculino,Ingeniería Ambiental,Girardot,5,3.45,59,,1.0,Activo,
+1123,26,Masculino,Administración de Empresas,Fusagasugá,7,3.85,79,Ubaté,3.0,Activo,
+1124,18,Masculino,Psicología,Girardot,2,3.23,26,Soacha,3.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1125,19,Masculino,Enfermería,Fusagasugá,5,4.14,63,Silvania,3.0,Activo,
+1126,21,Masculino,Contaduría Pública,Fusagasugá,10,,117,Melgar,4.0,Activo,
+1127,16,Femenino,Enfermería,Fusagasugá,3,2.77,44,Otro,3.0,Activo,
+1128,18,Femenino,Contaduría Pública,Chía,9,3.31,137,Girardot,4.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1129,20,Femenino,Enfermería,Soacha,6,3.3,96,Ubaté,2.0,Activo,
+1130,26,Femenino,Psicología,Fusagasugá,10,3.77,170,Facatativá,3.0,Activo,
+1131,23,Masculino,Administración de Empresas,Chía,3,2.92,33,Facatativá,6.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1132,23,Femenino,Psicología,Chía,7,4.1,104,Otro,3.0,Activo,
+1133,26,Femenino,Ingeniería Ambiental,Chía,4,4.41,49,Bogotá,1.0,Activo,
+1134,21,Femenino,Ingeniería de Sistemas,Fusagasugá,3,3.33,44,Silvania,3.0,Activo,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1135,24,Masculino,Administración de Empresas,Chía,8,4.04,103,Silvania,3.0,Activo,
+1136,22,Femenino,Psicología,Soacha,4,2.77,69,Facatativá,2.0,Activo,Tuve dificultades familiares y no encontraba horarios flexibles.
+1137,23,Masculino,Ingeniería Ambiental,Chía,1,3.94,15,Silvania,5.0,Activo,
+1138,19,Femenino,Ingeniería de Sistemas,Girardot,6,3.93,101,Otro,2.0,Activo,
+1139,16,Femenino,Ingeniería Ambiental,Girardot,10,3.82,159,,2.0,Activo,
+1140,21,Masculino,Contaduría Pública,Ubaté,1,3.34,16,Bogotá,4.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+1141,28,Masculino,Contaduría Pública,Girardot,5,1.73,79,Girardot,2.0,Desertor,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1142,26,Femenino,Enfermería,Fusagasugá,7,2.97,89,Melgar,1.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1143,26,Masculino,Administración de Empresas,Fusagasugá,6,3.01,66,Girardot,3.0,Desertor,
+1144,28,Masculino,Contaduría Pública,Chía,2,2.81,24,Melgar,,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1145,22,Femenino,Ingeniería Ambiental,Soacha,4,3.39,36,Soacha,1.0,Activo,
+1146,23,Masculino,Administración de Empresas,Fusagasugá,2,3.12,26,Girardot,5.0,Activo,
+1147,19,Masculino,Contaduría Pública,Soacha,1,2.9,13,Otro,3.0,Activo,
+1148,21,Masculino,Enfermería,Girardot,3,2.77,40,Fusagasugá,3.0,Activo,
+1149,25,Masculino,Psicología,Ubaté,3,2.96,51,Soacha,3.0,Activo,
+1150,27,Masculino,Enfermería,Chía,7,3.97,116,Melgar,3.0,Activo,
+1151,21,Masculino,Ingeniería de Sistemas,Chía,1,2.99,10,Melgar,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1152,20,Masculino,Contaduría Pública,Soacha,9,3.07,107,Soacha,2.0,Activo,
+1153,22,Masculino,Ingeniería de Sistemas,Fusagasugá,6,3.1,74,Melgar,3.0,Activo,
+1154,25,Masculino,Ingeniería de Sistemas,Chía,4,3.54,47,Ubaté,3.0,Activo,
+1155,16,Masculino,Ingeniería Ambiental,Fusagasugá,3,3.58,47,Fusagasugá,1.0,Activo,
+1156,16,Masculino,Administración de Empresas,Chía,3,1.68,40,Otro,3.0,Activo,
+1157,20,Femenino,Ingeniería Ambiental,Chía,2,3.91,27,Ubaté,3.0,Activo,
+1158,17,Masculino,Contaduría Pública,Ubaté,2,4.14,32,Melgar,2.0,Activo,
+1159,20,Masculino,Ingeniería de Sistemas,Fusagasugá,10,2.75,156,Girardot,,Activo,
+1160,21,Femenino,Psicología,Soacha,5,2.82,50,Ubaté,2.0,Activo,
+1161,20,Masculino,Ingeniería de Sistemas,Fusagasugá,9,3.1,134,Girardot,3.0,Activo,
+1162,29,Femenino,Psicología,Fusagasugá,2,2.91,25,Soacha,1.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+1163,23,Femenino,Ingeniería Ambiental,Chía,2,3.47,23,Silvania,2.0,Activo,
+1164,23,Masculino,Ingeniería Ambiental,Girardot,6,2.28,55,Chía,3.0,Activo,
+1165,25,Femenino,Administración de Empresas,Chía,10,2.74,129,Melgar,3.0,Desertor,El horario de clases chocaba con mi trabajo y mis responsabilidades.
+1166,17,Masculino,Ingeniería de Sistemas,Girardot,2,4.2,24,Chía,2.0,Activo,
+1167,27,Masculino,Enfermería,Fusagasugá,4,2.84,44,Fusagasugá,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1168,22,Femenino,Ingeniería Ambiental,Chía,6,4.03,88,Girardot,3.0,Desertor,No conseguí conexión estable a internet para las clases y actividades.
+1169,25,Femenino,Ingeniería Ambiental,Ubaté,5,3.55,77,Ubaté,5.0,Activo,"Los costos de matrícula, materiales y alimentación se volvieron difíciles de cubrir."
+1170,17,Femenino,Administración de Empresas,Fusagasugá,1,2.35,11,Chía,4.0,Activo,
+1171,16,Masculino,Psicología,Chía,6,3.7,55,Bogotá,3.0,Activo,
+1172,26,No informa,Administración de Empresas,Girardot,1,3.29,16,Melgar,2.0,Activo,
+1173,24,Masculino,Ingeniería de Sistemas,Ubaté,3,3.1,27,Chía,2.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1174,18,Femenino,Contaduría Pública,Girardot,10,3.46,167,Ubaté,1.0,Activo,
+1175,18,Masculino,Contaduría Pública,Chía,5,3.59,71,Ubaté,1.0,Activo,Me faltó orientación para entender los trámites y los apoyos disponibles.
+1176,27,Masculino,Psicología,Chía,10,3.74,115,Fusagasugá,3.0,Desertor,Tuve dificultades familiares y no encontraba horarios flexibles.
+1177,17,Masculino,Ingeniería Ambiental,Chía,5,4.0,54,Facatativá,2.0,Desertor,Tuve problemas de salud emocional y no sabía a quién acudir.
+1178,29,Femenino,Psicología,Fusagasugá,10,3.57,89,Otro,2.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1179,18,Masculino,Ingeniería Ambiental,Chía,6,2.59,65,Bogotá,6.0,Activo,
+1180,25,Masculino,Ingeniería Ambiental,Ubaté,10,3.09,100,Chía,2.0,Activo,
+1181,21,Masculino,Contaduría Pública,Chía,8,4.94,112,Otro,1.0,Activo,
+1182,25,Femenino,Psicología,Girardot,5,3.72,51,Bogotá,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1183,20,Masculino,Administración de Empresas,Soacha,1,4.65,13,Facatativá,3.0,Activo,
+1184,21,Masculino,Ingeniería Ambiental,Chía,5,4.12,69,Chía,3.0,Activo,
+1185,22,Femenino,Enfermería,Fusagasugá,3,3.48,34,Bogotá,2.0,Activo,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1186,17,Masculino,Enfermería,Girardot,4,3.52,36,Otro,3.0,Activo,
+1187,25,Masculino,Administración de Empresas,Soacha,8,3.33,73,Girardot,3.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1188,20,Femenino,Enfermería,Fusagasugá,7,2.39,63,Ubaté,4.0,Desertor,Sentía mucho estrés por las evaluaciones y necesitaba apoyo académico.
+1189,21,Femenino,Ingeniería de Sistemas,Soacha,5,3.36,75,Silvania,5.0,Activo,
+1190,18,Masculino,Ingeniería Ambiental,Ubaté,2,4.02,23,Soacha,4.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1191,16,Femenino,Administración de Empresas,Ubaté,6,3.02,93,Melgar,3.0,Activo,
+1192,21,Masculino,Psicología,Fusagasugá,6,3.58,75,Silvania,2.0,Activo,
+1193,33,Femenino,Ingeniería Ambiental,Fusagasugá,10,3.79,126,Chía,1.0,Desertor,
+1194,26,Masculino,Administración de Empresas,Soacha,10,2.82,131,Chía,1.0,Desertor,El transporte era costoso y los trayectos largos me hacían llegar tarde.
+1195,22,Femenino,Contaduría Pública,Fusagasugá,6,3.1,89,Bogotá,3.0,Activo,
+1196,21,Masculino,Psicología,Chía,9,2.79,100,Ubaté,3.0,Desertor,Tuve que trabajar más horas y no me alcanzaba el tiempo para estudiar.
+1197,22,Masculino,Contaduría Pública,Girardot,8,2.9,79,Facatativá,3.0,Activo,
+1198,24,Masculino,Ingeniería Ambiental,Fusagasugá,8,2.62,108,Fusagasugá,,Activo,
+1199,17,Masculino,Psicología,Fusagasugá,1,2.85,12,Bogotá,3.0,Activo,
+1200,27,Femenino,Enfermería,Ubaté,5,4.13,63,Fusagasugá,4.0,Activo,
