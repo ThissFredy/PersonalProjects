@@ -1,0 +1,785 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Informe técnico del proceso de análisis exploratorio, validación estadística y análisis textual de deserción estudiantil universitaria."
+    />
+    <meta name="theme-color" content="#07150e" />
+    <title>Deserción estudiantil | Informe técnico</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#documento">Saltar al informe</a>
+
+    <header class="hero" id="inicio">
+      <div class="container masthead">
+        <a class="brand" href="#inicio" aria-label="Inicio del informe">
+          <span class="logo-frame">
+            <img
+              class="university-logo"
+              src="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/escudo-color.png"
+              alt="Escudo de la Universidad de Cundinamarca"
+              width="1002"
+              height="1500"
+            />
+          </span>
+          <span class="brand-copy">
+            <strong>Universidad de Cundinamarca</strong>
+            <small>Informe técnico · Deserción estudiantil</small>
+          </span>
+        </a>
+        <a class="masthead-link" href="#indice"
+          >Ver temario <span aria-hidden="true">↓</span></a
+        >
+      </div>
+
+      <div class="container hero-intro">
+        <p class="eyebrow eyebrow-light">
+          Análisis exploratorio · Validación estadística · PLN
+        </p>
+        <h1>Deserción Estudiantil</h1>
+        <div class="authors" aria-label="Autores">
+          <span>Juan David Rodriguez Real</span>
+          <span class="author-separator" aria-hidden="true"></span>
+          <span>Fredy Alejandro Zarate Abril</span>
+        </div>
+        <p class="hero-purpose">
+          <strong>Propósito.</strong> Organizar la evidencia exploratoria y
+          estadística como base para nuevas preguntas institucionales sobre
+          permanencia y acompañamiento.
+        </p>
+      </div>
+    </header>
+
+    <section
+      class="container notebook-cta"
+      id="notebook"
+      aria-labelledby="notebook-title"
+    >
+      <div class="colab-emblem" aria-hidden="true">
+        <svg viewBox="0 0 48 48" role="img" aria-label="Google Colab">
+          <path
+            d="M9 17.5A9.5 9.5 0 0 1 25.4 11l12 12A9.5 9.5 0 0 1 24 36.4l-4.5-4.5"
+            fill="none"
+            stroke="#f9ab00"
+            stroke-linecap="round"
+            stroke-width="6.5"
+          />
+          <path
+            d="M39 30.5A9.5 9.5 0 0 1 22.6 37l-12-12A9.5 9.5 0 0 1 24 11.6l4.5 4.5"
+            fill="none"
+            stroke="#e37400"
+            stroke-linecap="round"
+            stroke-width="6.5"
+          />
+        </svg>
+      </div>
+      <div class="notebook-copy">
+        <div class="notebook-topline">
+          <p class="notebook-eyebrow">Ejecuta y explora el análisis</p>
+          <span class="notebook-brand">Google Colab</span>
+        </div>
+        <h2 id="notebook-title">Ir al notebook</h2>
+        <p class="notebook-description">
+          Abre el análisis interactivo en Google Colab para revisar y ejecutar
+          el flujo de trabajo.
+        </p>
+        <div class="run-instructions">
+          <span class="shortcut"
+            ><kbd>Ctrl</kbd><span>+</span><kbd>F9</kbd></span
+          >
+          <span class="shortcut-copy">
+            <strong>Ejecutar todas las celdas</strong>
+            <small>
+              1. Abre el enlace en Colab. 2. Si lo solicita, conecta un entorno
+              de ejecución. 3. Pulsa el atajo desde el notebook.
+            </small>
+          </span>
+        </div>
+        <p class="notebook-attachment">
+          El archivo <code>.ipynb</code> está adjunto a la entrega.
+        </p>
+      </div>
+      <a
+        class="notebook-action"
+        href="https://colab.research.google.com/drive/1UmSW8rvl-22Ibx9z5n8JE6jorzp9WzFF?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span>Abrir en Colab</span><span aria-hidden="true">↗</span>
+      </a>
+    </section>
+
+    <dl
+      class="container dataset-facts"
+      aria-label="Ficha del conjunto de datos"
+    >
+      <div>
+        <dt>Muestra</dt>
+        <dd>1.200 registros</dd>
+      </div>
+      <div>
+        <dt>Estructura</dt>
+        <dd>12 variables · 6 numéricas · 6 categóricas</dd>
+      </div>
+      <div>
+        <dt>Campos con faltantes</dt>
+        <dd>4 de 12 variables</dd>
+      </div>
+      <div>
+        <dt>Tras el tratamiento</dt>
+        <dd>0 valores nulos reportados</dd>
+      </div>
+    </dl>
+
+    <main class="container document-layout" id="documento">
+      <aside class="outline" id="indice" aria-label="Temario del informe">
+        <p class="outline-title">Contenido</p>
+        <nav aria-label="Secciones del documento">
+          <ol class="outline-list">
+            <li>
+              <a href="#proceso"
+                ><span>01</span><span>Contexto y proceso</span></a
+              >
+            </li>
+            <li>
+              <a href="#calidad"
+                ><span>02</span><span>Calidad y preparación</span></a
+              >
+            </li>
+            <li>
+              <a href="#eda"
+                ><span>03</span><span>Exploración de datos</span></a
+              >
+            </li>
+            <li>
+              <a href="#estadistica"
+                ><span>04</span><span>Pruebas estadísticas</span></a
+              >
+            </li>
+            <li>
+              <a href="#pln"><span>05</span><span>Análisis textual</span></a>
+            </li>
+            <li>
+              <a href="#propuesta"><span>06</span><span>Propuestas</span></a>
+            </li>
+          </ol>
+        </nav>
+      </aside>
+
+      <article
+        class="document"
+        aria-label="Informe de análisis de deserción estudiantil"
+      >
+        <section
+          class="document-section"
+          id="proceso"
+          aria-labelledby="proceso-title"
+        >
+          <header class="section-heading">
+            <span class="section-index">01</span>
+            <div>
+              <p class="section-kicker">Diseño del análisis</p>
+              <h2 id="proceso-title">Contexto y recorrido</h2>
+            </div>
+          </header>
+          <p>
+            El análisis parte de <strong>1.200 registros</strong> con
+            información estructurada —académica, demográfica y socioeconómica— y
+            texto libre. El propósito fue comparar estudiantes activos y
+            desertores, revisar asociaciones estadísticas y resumir los temas
+            presentes en los comentarios disponibles.
+          </p>
+          <p>
+            El flujo se organizó en etapas sucesivas. Cada una aporta una
+            lectura distinta; la descripción visual, las pruebas de hipótesis y
+            el análisis de texto no deben confundirse con una explicación
+            causal.
+          </p>
+
+          <h3 class="subheading">Secuencia de trabajo</h3>
+          <ol class="process-list">
+            <li>
+              <span class="list-index">01</span>
+              <div>
+                <strong>Inspección inicial</strong>
+                <p>
+                  Revisar dimensiones, tipos de variables y patrones de datos
+                  faltantes.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">02</span>
+              <div>
+                <strong>Preparación</strong>
+                <p>
+                  Imputar valores ausentes y construir la variable
+                  <code>dejo_comentario</code>.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">03</span>
+              <div>
+                <strong>Exploración</strong>
+                <p>
+                  Comparar distribuciones, dispersión y proporciones según el
+                  estado del estudiante.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">04</span>
+              <div>
+                <strong>Contraste estadístico</strong>
+                <p>
+                  Comprobar supuestos y seleccionar pruebas para variables
+                  numéricas y categóricas.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">05</span>
+              <div>
+                <strong>Procesamiento de lenguaje natural</strong>
+                <p>
+                  Limpiar y lematizar comentarios; ordenar términos con TF-IDF.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">06</span>
+              <div>
+                <strong>Propuestas</strong>
+                <p>
+                  Convertir las señales observadas en preguntas y líneas de
+                  validación posteriores.
+                </p>
+              </div>
+            </li>
+          </ol>
+        </section>
+
+        <section
+          class="document-section"
+          id="calidad"
+          aria-labelledby="calidad-title"
+        >
+          <header class="section-heading">
+            <span class="section-index">02</span>
+            <div>
+              <p class="section-kicker">Preparación de datos</p>
+              <h2 id="calidad-title">Calidad e imputación</h2>
+            </div>
+          </header>
+          <p>
+            La revisión identificó valores ausentes en cuatro campos. La mayor
+            concentración está en <code>comentario_abierto</code>, con
+            <strong>778 registros (64,83%)</strong>; los otros tres campos
+            presentan 30 faltantes cada uno (2,50%).
+          </p>
+
+          <div
+            class="table-scroll"
+            role="region"
+            aria-label="Valores faltantes y tratamiento aplicado"
+            tabindex="0"
+          >
+            <table class="data-table">
+              <caption>
+                Valores faltantes antes del tratamiento y estrategia aplicada
+              </caption>
+              <thead>
+                <tr>
+                  <th scope="col">Variable</th>
+                  <th scope="col">Faltantes</th>
+                  <th scope="col">Tratamiento</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row"><code>promedio_acumulado</code></th>
+                  <td>30 · 2,50%</td>
+                  <td>Mediana agrupada por <code>programa_academico</code>.</td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>municipio_residencia</code></th>
+                  <td>30 · 2,50%</td>
+                  <td>Moda agrupada por <code>sede</code>.</td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>estrato_socioeconomico</code></th>
+                  <td>30 · 2,50%</td>
+                  <td>Moda global.</td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>comentario_abierto</code></th>
+                  <td>778 · 64,83%</td>
+                  <td>
+                    Crear <code>dejo_comentario</code> (1/0) y asignar «Sin
+                    comentario» al texto faltante.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <p class="editorial-note">
+            <strong>Resultado reportado:</strong> después del tratamiento, el
+            conjunto quedó con 0 valores nulos. La variable
+            <code>dejo_comentario</code> registra la presencia de texto.
+          </p>
+          <p>
+            La proporción alta de comentarios faltantes hace importante conocer
+            cómo y cuándo se solicitó esa información. Por eso, la asociación
+            encontrada para <code>dejo_comentario</code> se interpreta con
+            cautela y no como evidencia de que comentar cause o evite la
+            deserción.
+          </p>
+        </section>
+
+        <section class="document-section" id="eda" aria-labelledby="eda-title">
+          <header class="section-heading">
+            <span class="section-index">03</span>
+            <div>
+              <p class="section-kicker">Análisis exploratorio de datos</p>
+              <h2 id="eda-title">Distribuciones, dispersión y proporciones</h2>
+            </div>
+          </header>
+          <p>
+            Las figuras comparan estudiantes activos y desertores desde tres
+            perspectivas.
+          </p>
+
+          <figure class="document-figure">
+            <div class="figure-heading">
+              <span class="figure-label">Figura 1 · Distribuciones</span>
+              <h3>Forma y concentración de las variables</h3>
+            </div>
+            <img
+              src="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/image.png"
+              alt="Histogramas y curvas de densidad comparan activos y desertores en edad, semestre actual, promedio acumulado, créditos aprobados y estrato socioeconómico."
+              width="1384"
+              height="1532"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>
+              Se comparan edad, semestre actual, promedio acumulado, créditos
+              aprobados y estrato socioeconómico. La escala vertical representa
+              densidad, no conteo de estudiantes. El promedio acumulado muestra
+              una separación visual; semestre y créditos tienen mayor
+              solapamiento.
+            </figcaption>
+            <p class="figure-note">
+              Semestre y estrato son discretos u ordinales. Las curvas KDE
+              suavizan esos valores y deben leerse como apoyo exploratorio, no
+              como distribuciones continuas literales.
+            </p>
+          </figure>
+
+          <figure class="document-figure">
+            <div class="figure-heading">
+              <span class="figure-label">Figura 2 · Dispersión</span>
+              <h3>Medianas, rangos intercuartílicos y casos extremos</h3>
+            </div>
+            <img
+              src="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/image-1.png"
+              alt="Diagramas de caja comparan activos y desertores para edad, semestre actual, promedio acumulado, créditos aprobados y estrato socioeconómico."
+              width="1384"
+              height="1532"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>
+              Los diagramas de caja resumen mediana y rango intercuartílico por
+              estado. Los puntos aislados son casos extremos marcados por la
+              figura.
+            </figcaption>
+            <p class="figure-note">
+              El estrato socioeconómico es ordinal. Su boxplot sirve como
+              resumen, pero no sustituye una comparación de frecuencias por
+              nivel.
+            </p>
+          </figure>
+
+          <figure class="document-figure">
+            <div class="figure-heading">
+              <span class="figure-label">Figura 3 · Variables categóricas</span>
+              <h3>Composición por estado dentro de cada categoría</h3>
+            </div>
+            <img
+              src="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/image-2.png"
+              alt="Barras apiladas al 100 por ciento muestran activo y desertor por género, sede, programa académico, semestre actual y presencia de comentario."
+              width="1484"
+              height="1531"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>
+              Las barras estandarizadas al 100% comparan la proporción de
+              estudiantes activos y desertores por género, sede, programa
+              académico, semestre y presencia de comentario.
+            </figcaption>
+          </figure>
+
+          <h3 class="subheading">Lectura exploratoria</h3>
+          <ul class="reading-list">
+            <li>
+              <strong>Promedio acumulado:</strong> las distribuciones aparecen
+              desplazadas entre los grupos; la prueba reportada también indica
+              diferencia significativa.
+            </li>
+            <li>
+              <strong>Semestre y créditos aprobados:</strong> muestran
+              solapamiento y no alcanzaron significancia en las pruebas
+              informadas.
+            </li>
+            <li>
+              <strong>Género, sede y programa:</strong> las proporciones varían
+              visualmente, sin que las pruebas Chi-cuadrado reporten asociación
+              significativa.
+            </li>
+          </ul>
+        </section>
+
+        <section
+          class="document-section"
+          id="estadistica"
+          aria-labelledby="estadistica-title"
+        >
+          <header class="section-heading">
+            <span class="section-index">04</span>
+            <div>
+              <p class="section-kicker">Contraste de hipótesis</p>
+              <h2 id="estadistica-title">Validación estadística</h2>
+            </div>
+          </header>
+          <p>
+            Para las variables numéricas se comprobó normalidad mediante
+            Shapiro–Wilk y homogeneidad de varianzas mediante Levene. Según los
+            supuestos descritos, se reportó t de Student para
+            <code>promedio_acumulado</code> y U de Mann–Whitney para las
+            variables que fallaron normalidad. Para variables categóricas se
+            reportó Chi-cuadrado.
+          </p>
+
+          <h3 class="subheading">Variables numéricas</h3>
+          <div
+            class="table-scroll"
+            role="region"
+            aria-label="Resultados estadísticos de variables numéricas"
+            tabindex="0"
+          >
+            <table class="data-table">
+              <caption>
+                Diferencias entre estudiantes activos y desertores
+              </caption>
+              <thead>
+                <tr>
+                  <th scope="col">Variable</th>
+                  <th scope="col">Supuestos reportados</th>
+                  <th scope="col">Prueba</th>
+                  <th scope="col">p-valor</th>
+                  <th scope="col">Resultado</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row"><code>promedio_acumulado</code></th>
+                  <td>Normalidad y homocedasticidad cumplidas</td>
+                  <td>t de Student</td>
+                  <td><code>3.2604e-22</code></td>
+                  <td>
+                    <span class="significance significance-yes"
+                      >Diferencia significativa</span
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>edad</code></th>
+                  <td>Falló normalidad</td>
+                  <td>U de Mann–Whitney</td>
+                  <td><code>1.6854e-05</code></td>
+                  <td>
+                    <span class="significance significance-yes"
+                      >Diferencia significativa</span
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>creditos_aprobados</code></th>
+                  <td>Falló normalidad</td>
+                  <td>U de Mann–Whitney</td>
+                  <td><code>5.0559e-01</code></td>
+                  <td><span class="significance">No significativa</span></td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>semestre_actual</code></th>
+                  <td>Falló normalidad</td>
+                  <td>U de Mann–Whitney</td>
+                  <td><code>6.7639e-01</code></td>
+                  <td><span class="significance">No significativa</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h3 class="subheading">Variables categóricas</h3>
+          <div
+            class="table-scroll"
+            role="region"
+            aria-label="Resultados Chi-cuadrado de variables categóricas"
+            tabindex="0"
+          >
+            <table class="data-table">
+              <caption>
+                Asociación estadística con el estado del estudiante
+              </caption>
+              <thead>
+                <tr>
+                  <th scope="col">Variable</th>
+                  <th scope="col">Prueba</th>
+                  <th scope="col">p-valor</th>
+                  <th scope="col">Resultado reportado</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row"><code>dejo_comentario</code></th>
+                  <td>Chi-cuadrado</td>
+                  <td><code>6.3607e-110</code></td>
+                  <td>
+                    <span class="significance significance-yes"
+                      >Asociación significativa</span
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>genero</code></th>
+                  <td>Chi-cuadrado</td>
+                  <td><code>5.1772e-01</code></td>
+                  <td><span class="significance">No significativa</span></td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>sede</code></th>
+                  <td>Chi-cuadrado</td>
+                  <td><code>3.8825e-01</code></td>
+                  <td><span class="significance">No significativa</span></td>
+                </tr>
+                <tr>
+                  <th scope="row"><code>programa_academico</code></th>
+                  <td>Chi-cuadrado</td>
+                  <td><code>4.9373e-01</code></td>
+                  <td><span class="significance">No significativa</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="document-section" id="pln" aria-labelledby="pln-title">
+          <header class="section-heading">
+            <span class="section-index">05</span>
+            <div>
+              <p class="section-kicker">Procesamiento de lenguaje natural</p>
+              <h2 id="pln-title">Comentarios y extracción de tópicos</h2>
+            </div>
+          </header>
+          <p>
+            El pipeline se aplicó a los comentarios disponibles de estudiantes
+            desertores. La secuencia documentada incluyó tokenización, limpieza,
+            eliminación de stop words y lematización; después se exploraron los
+            términos mediante nube de palabras y TF-IDF.
+          </p>
+          <ol class="text-pipeline">
+            <li><span>01</span>Comentarios</li>
+            <li><span>02</span>Tokenización</li>
+            <li><span>03</span>Limpieza</li>
+            <li><span>04</span>Stop words</li>
+            <li><span>05</span>Lematización</li>
+            <li><span>06</span>TF-IDF</li>
+          </ol>
+
+          <figure class="document-figure">
+            <div class="figure-heading">
+              <span class="figure-label"
+                >Figura 4 · Exploración cualitativa</span
+              >
+              <h3>Nube de palabras de comentarios lematizados</h3>
+            </div>
+            <img
+              src="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/image-3.png"
+              alt="Nube de palabras con términos destacados como apoyo, necesitar, evaluación, estrés, tiempo y trabajar."
+              width="944"
+              height="526"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>
+              Entre los términos visualmente destacados aparecen «apoyo»,
+              «necesitar», «evaluación», «estrés», «tiempo» y «trabajar».
+            </figcaption>
+          </figure>
+
+          <figure class="document-figure">
+            <div class="figure-heading">
+              <span class="figure-label">Figura 5 · Relevancia textual</span>
+              <h3>Quince términos con mayor peso medio TF-IDF</h3>
+            </div>
+            <img
+              src="https://cdn.jsdelivr.net/gh/ThissFredy/PersonalProjects@main/DataScience/Dise%C3%B1oEstadistico/5-DesercionEstudiantil/assets/image-4.png"
+              alt="Gráfico de barras horizontales con el Top 15 de términos por score TF-IDF medio; apoyo ocupa el primer lugar."
+              width="1184"
+              height="684"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>
+              «Apoyo» ocupa el primer lugar, seguido por «tiempo», «horario»,
+              «estudiar» y «hora». El informe fuente describe para «apoyo» un
+              score cercano a 0,08.
+            </figcaption>
+          </figure>
+
+          <p class="term-ranking">
+            <strong>Top 15 según la figura:</strong> apoyo, tiempo, horario,
+            estudiar, hora, alcanzar, trabajar, clase, evaluación, sentir,
+            necesitar, estrés, académico, hacer y tarde.
+          </p>
+
+          <h3 class="subheading">Lectura temática documentada</h3>
+          <dl class="theme-definitions">
+            <div>
+              <dt>Acompañamiento institucional</dt>
+              <dd>
+                «Apoyo» tiene el mayor peso TF-IDF reportado y «necesitar»
+                complementa la lectura de solicitudes o carencias de
+                acompañamiento.
+              </dd>
+            </div>
+            <div>
+              <dt>Tiempo y vida laboral</dt>
+              <dd>
+                «Tiempo», «horario», «hora», «tarde», «alcanzar» y «trabajar» se
+                relacionan en la interpretación fuente con el cruce de
+                responsabilidades académicas y laborales.
+              </dd>
+            </div>
+            <div>
+              <dt>Carga académica y emocional</dt>
+              <dd>
+                «Estudiar», «clase», «evaluación» y «académico» aparecen junto
+                con «sentir» y «estrés» en el Top 15 descrito.
+              </dd>
+            </div>
+          </dl>
+        </section>
+
+        <section
+          class="document-section"
+          id="propuesta"
+          aria-labelledby="propuesta-title"
+        >
+          <header class="section-heading">
+            <span class="section-index">06</span>
+            <div>
+              <p class="section-kicker">Iniciativas para la retención</p>
+              <h2 id="propuesta-title">Propuestas</h2>
+            </div>
+          </header>
+          <p>
+            A partir de los hallazgos estadísticos y del análisis de
+            Procesamiento de Lenguaje Natural, se plantean iniciativas para
+            fortalecer la retención. Dado el carácter exploratorio de los
+            resultados, se presentan como líneas de acción por evaluar, no como
+            causas confirmadas ni intervenciones de efectividad demostrada.
+          </p>
+          <ol class="proposal-list">
+            <li>
+              <span class="list-index">01</span>
+              <div>
+                <strong>Flexibilidad Académica y Modalidades Híbridas</strong>
+                <p>
+                  En los comentarios disponibles destacan los términos «tiempo»,
+                  «horario» y «apoyo». Se propone explorar mayor flexibilidad de
+                  horarios y modalidades virtuales o asincrónicas para facilitar
+                  la compatibilidad entre estudio, trabajo y responsabilidades
+                  personales.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">02</span>
+              <div>
+                <strong>Auditoría y Rediseño del Quinto Semestre</strong>
+                <p>
+                  La figura por semestre muestra en el quinto una proporción de
+                  deserción visualmente mayor que en los demás. Sin embargo, la
+                  prueba de <code>semestre_actual</code> no encontró una
+                  diferencia significativa (U de Mann–Whitney,
+                  <code>p = 6.7639e-01</code>). Se propone auditar materias de
+                  alta complejidad y factores psicosociales de ese periodo como
+                  hipótesis de trabajo, validando primero la tendencia con datos
+                  desagregados y su incertidumbre.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">03</span>
+              <div>
+                <strong
+                  >Evaluación focalizada en las sedes de Chía y Ubaté</strong
+                >
+                <p>
+                  En la gráfica, Chía y Ubaté presentan descriptivamente
+                  proporciones de deserción mayores que otras sedes. La prueba
+                  Chi-cuadrado para <code>sede</code> no encontró una asociación
+                  significativa (<code>p = 3.8825e-01</code>), por lo que no se
+                  deben caracterizar como sedes de mayor riesgo con la evidencia
+                  actual. Se propone una evaluación exploratoria de metodología
+                  docente, infraestructura y bienestar, junto con la validación
+                  de denominadores y variabilidad de las tasas.
+                </p>
+              </div>
+            </li>
+            <li>
+              <span class="list-index">04</span>
+              <div>
+                <strong
+                  >Fortalecimiento de Monitorías y Nivelación Académica</strong
+                >
+                <p>
+                  La figura muestra un desplazamiento hacia promedios acumulados
+                  menores en el grupo desertor y la prueba reporta una
+                  diferencia significativa (<code>p = 3.2604e-22</code>). Este
+                  resultado identifica una diferencia entre grupos, pero no
+                  valida por sí solo un predictor ni demuestra causalidad. Se
+                  propone evaluar alertas tempranas vinculadas a nivelación,
+                  monitorías y tutorías, además de acompañamiento psicosocial
+                  para estudiantes con dificultades, midiendo posteriormente sus
+                  resultados.
+                </p>
+              </div>
+            </li>
+          </ol>
+        </section>
+
+        <footer class="document-footer">
+          <p>Juan David Rodriguez Real · Fredy Alejandro Zarate Abril</p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="page-footer">
+      <div class="container">
+        <span>Universidad de Cundinamarca</span>
+        <a href="#inicio">Volver al inicio ↑</a>
+      </div>
+    </footer>
+  </body>
+</html>
