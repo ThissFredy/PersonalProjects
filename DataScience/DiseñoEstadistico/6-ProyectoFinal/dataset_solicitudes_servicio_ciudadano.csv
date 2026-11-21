@@ -1,0 +1,1516 @@
+﻿id_solicitud,fecha_radicacion,localidad,tipo_servicio,canal_atencion,tiempo_atencion_horas,edad_solicitante,satisfaccion_1_a_5,estado_solicitud
+SD-00001,2025-07-05,Antonio Nariño,Solicitud de información,Teléfono,29.1,53.0,3.0,Cerrada
+SD-00002,2025-06-16,Kennedy,Trámite,Presencial,35.2,50.0,5.0,Cerrada
+SD-00003,2025-01-27,La Candelaria,Queja,Web,23.2,22.0,4.0,Cerrada
+SD-00004,2025-02-13,Barrios Unidos,Queja,Teléfono,19.6,58.0,5.0,Cerrada
+SD-00005,2025-08-06,Chapinero,Solicitud de información,Web,48.6,47.0,4.0,Cerrada
+SD-00006,2025-07-27,Ciudad Bolívar,Reclamo,Teléfono,,44.0,3.0,Cerrada
+SD-00007,2025-07-22,Los Mártires,Solicitud de información,Presencial,15.9,25.0,5.0,Cerrada
+SD-00008,2025-02-27,Antonio Nariño,Queja,Web,26.5,52.0,4.0,Cerrada
+SD-00009,2025-07-06,Santa Fe,Petición,Web,34.4,57.0,4.0,En trámite
+SD-00010,2025-01-23,Fontibón,Solicitud de información,Teléfono,,25.0,,Cerrada
+SD-00011,2025-02-22,Kennedy,Petición,Web,46.5,61.0,2.0,Cerrada
+SD-00012,2025-07-02,Ciudad Bolívar,Petición,Correo electrónico,64.1,29.0,2.0,Cerrada
+SD-00013,2025-08-14,Suba,Reclamo,Teléfono,16.3,27.0,4.0,Pendiente
+SD-00014,2025-08-28,Puente Aranda,Solicitud de información,Presencial,17.4,45.0,4.0,Cerrada
+SD-00015,2025-12-25,Kennedy,Trámite,Web,21.6,44.0,3.0,Cerrada
+SD-00016,2025-11-08,Usme,Petición,Teléfono,23.2,80.0,2.0,Cerrada
+SD-00017,2025-05-19,Engativá,Petición,Correo electrónico,,22.0,3.0,Cerrada
+SD-00018,2025-10-13,Chapinero,Trámite,Web,66.6,41.0,4.0,Cerrada
+SD-00019,2025-02-04,Puente Aranda,Petición,Web,50.0,67.0,5.0,En trámite
+SD-00020,2025-11-09,Suba,Petición,Web,20.5,34.0,4.0,Cerrada
+SD-00021,2025-05-22,Los Mártires,Queja,Web,41.7,84.0,2.0,Cerrada
+SD-00022,2025-10-05,Bosa,Reclamo,Teléfono,30.5,68.0,4.0,Cerrada
+SD-00023,2025-12-21,Ciudad Bolívar,Trámite,Web,44.3,82.0,5.0,En trámite
+SD-00024,2025-09-14,Rafael Uribe Uribe,Solicitud de información,Presencial,9.4,82.0,5.0,Pendiente
+SD-00025,2025-12-02,Antonio Nariño,Solicitud de información,Web,23.1,25.0,5.0,En trámite
+SD-00026,2025-01-04,San Cristóbal,Petición,Web,24.7,49.0,5.0,Cerrada
+SD-00027,2025-03-04,Fontibón,Queja,Web,41.2,68.0,4.0,En trámite
+SD-00028,2025-08-17,Usaquén,Reclamo,Teléfono,16.1,18.0,5.0,En trámite
+SD-00029,2025-07-17,San Cristóbal,Petición,Presencial,4.0,48.0,1.0,Cerrada
+SD-00030,2025-02-13,Barrios Unidos,Petición,Web,11.5,64.0,5.0,Cerrada
+SD-00031,2025-09-20,Los Mártires,Queja,Teléfono,24.6,71.0,5.0,En trámite
+SD-00032,2025-01-22,Ciudad Bolívar,Petición,Web,27.1,46.0,5.0,Cerrada
+SD-00033,2025-12-28,Bosa,Reclamo,Web,91.2,76.0,4.0,Cerrada
+SD-00034,2025-02-27,Kennedy,Solicitud de información,Web,39.9,63.0,5.0,Cerrada
+SD-00035,2025-06-12,Fontibón,Petición,Correo electrónico,27.4,21.0,3.0,Cerrada
+SD-00036,2025-10-28,San Cristóbal,Reclamo,Teléfono,25.2,36.0,4.0,Cerrada
+SD-00037,2025-07-07,Santa Fe,Solicitud de información,Presencial,59.0,81.0,4.0,En trámite
+SD-00038,2025-09-29,Fontibón,Solicitud de información,Web,16.6,18.0,4.0,Pendiente
+SD-00039,2025-09-14,Usme,Solicitud de información,Web,23.2,25.0,4.0,Cerrada
+SD-00040,2025-12-13,Barrios Unidos,Queja,Presencial,11.4,41.0,4.0,Cerrada
+SD-00041,2025-06-19,Kennedy,Solicitud de información,Web,74.8,85.0,3.0,Cerrada
+SD-00042,2025-12-24,Puente Aranda,Petición,Correo electrónico,34.6,,3.0,Cerrada
+SD-00043,2025-07-08,Teusaquillo,Queja,Teléfono,15.2,28.0,4.0,Trasladada
+SD-00044,2025-11-23,Bosa,Petición,Web,23.7,,4.0,Cerrada
+SD-00045,2025-09-25,Puente Aranda,Reclamo,Teléfono,37.8,81.0,,Cerrada
+SD-00046,2025-02-18,,Queja,Correo electrónico,21.4,32.0,2.0,Cerrada
+SD-00047,2025-08-23,Kennedy,Petición,Web,17.3,57.0,5.0,Trasladada
+SD-00048,2025-11-17,Tunjuelito,Solicitud de información,Presencial,15.8,49.0,5.0,Cerrada
+SD-00049,2025-02-16,Barrios Unidos,Queja,Correo electrónico,33.3,69.0,1.0,En trámite
+SD-00050,fecha no registrada,Santa Fe,Petición,Web,19.7,69.0,3.0,Cerrada
+SD-00051,2025-02-08,San Cristóbal,Petición,Correo electrónico,18.4,74.0,4.0,Cerrada
+SD-00052,2025-11-14,Usaquén,Queja,Web,9.5,,4.0,En trámite
+SD-00053,2025-10-15,Antonio Nariño,Queja,Presencial,27.3,48.0,2.0,Cerrada
+SD-00054,2025-02-25,Barrios Unidos,Queja,Teléfono,22.5,65.0,3.0,En trámite
+SD-00055,2025-09-23,Teusaquillo,Petición,Presencial,20.3,46.0,1.0,Cerrada
+SD-00056,2025-02-12,Antonio Nariño,Solicitud de información,Presencial,29.9,63.0,2.0,En trámite
+SD-00057,2025-07-27,Fontibón,Trámite,Presencial,45.2,61.0,3.0,En trámite
+SD-00058,2025-12-04,Engativá,Reclamo,Web,43.6,43.0,5.0,En trámite
+SD-00059,2025-03-17,Santa Fe,Reclamo,Web,39.0,24.0,4.0,Cerrada
+SD-00060,2025-03-05,Santa Fe,Trámite,Web,21.5,83.0,4.0,En trámite
+SD-00061,2025-06-04,Barrios Unidos,Trámite,Presencial,16.9,74.0,4.0,Trasladada
+SD-00062,2025-05-15,Fontibón,Reclamo,Web,11.8,78.0,4.0,Cerrada
+SD-00063,2025-01-18,Engativá,Trámite, WEB ,16.5,38.0,2.0,Cerrada
+SD-00064,2025-06-16,Los Mártires,Trámite,Correo electrónico,26.2,39.0,3.0,En trámite
+SD-00065,2025-04-05,Suba,Solicitud de información,Web,14.3,,3.0,Cerrada
+SD-00066,2025-02-15,Engativá,Reclamo,Web,27.7,20.0,4.0,En trámite
+SD-00067,2025-04-11,Engativá,Petición,Web,12.5,29.0,4.0,En trámite
+SD-00068,2025-01-08,Bosa,Petición,Web,7.4,38.0,4.0,Cerrada
+SD-00069,2025-11-30,Usaquén,Reclamo,Teléfono,47.7,85.0,4.0,Cerrada
+SD-00070,2025-12-29,Kennedy,Reclamo,Web,18.1,31.0,5.0,Cerrada
+SD-00071,2025-05-15,Usme,Queja,Web,13.8,52.0,3.0,Cerrada
+SD-00072,2025-11-16,Kennedy,Reclamo,Correo electrónico,11.4,55.0,4.0,Pendiente
+SD-00073,2025-06-18,La Candelaria,Reclamo,Teléfono,35.4,42.0,4.0,Cerrada
+SD-00074,2025-11-30,Usme,Solicitud de información,Teléfono,72.3,80.0,5.0,Cerrada
+SD-00075,2025-03-05,Usaquén,Petición,Teléfono,19.1,24.0,5.0,Pendiente
+SD-00076,2025-04-14,Tunjuelito,Petición,Correo electrónico,21.9,77.0,5.0,Cerrada
+SD-00077,2025-09-28,Bosa,Solicitud de información,Web,57.6,68.0,3.0,En trámite
+SD-00078,2025-03-22,Barrios Unidos,Solicitud de información,Presencial,6.6,38.0,4.0,Cerrada
+SD-00079,2025-10-28,Engativá,Trámite,Presencial,112.7,70.0,5.0,Cerrada
+SD-00080,2025-06-05,Antonio Nariño,Trámite,Web,161.3,47.0,4.0,Cerrada
+SD-00081,2025-05-28,Barrios Unidos,Trámite,Web,3.4,84.0,5.0,En trámite
+SD-00082,2025-06-15,kennedy,Queja,Web,24.0,20.0,4.0,En trámite
+SD-00083,2025-10-19,Puente Aranda,Queja,Presencial,15.0,20.0,4.0,Pendiente
+SD-00084,2025-01-03,San Cristóbal,Petición,Teléfono,21.1,55.0,,Trasladada
+SD-00085,2025-10-02,Usaquén,Reclamo,Teléfono,18.8,81.0,4.0,En trámite
+SD-00086,2025-10-12,Chapinero,Trámite,Web,47.4,22.0,5.0,En trámite
+SD-00087,2025-10-27,Teusaquillo,Queja,Web,23.7,70.0,2.0,Cerrada
+SD-00088,2025-12-30,Fontibón,Reclamo,Web,13.0,81.0,4.0,Pendiente
+SD-00089,2025-10-13,San Cristóbal,Queja,Presencial,22.7,51.0,4.0,Cerrada
+SD-00090,2025-07-12,Engativá,Petición,Correo electrónico,37.9,76.0,5.0,Pendiente
+SD-00091,2025-06-20,San Cristóbal,Petición,Teléfono,10.6,69.0,4.0,Cerrada
+SD-00092,2025-05-22,Barrios Unidos,Petición,Correo electrónico,7.5,32.0,,Cerrada
+SD-00093,2025-10-29,Kennedy,Trámite,Teléfono,115.0,76.0,5.0,En trámite
+SD-00094,2025-05-24,Kennedy,Queja,Correo electrónico,15.9,65.0,4.0,Cerrada
+SD-00095,2025-07-29,Bosa,Solicitud de información,Web,23.3,18.0,5.0,Cerrada
+SD-00096,2025-02-05,Suba,Solicitud de información,Web,19.1,56.0,5.0,Trasladada
+SD-00097,2025-04-26,Kennedy,Petición,Web,38.9,62.0,3.0,Cerrada
+SD-00098,2025-04-08,Chapinero,Petición,Web,460.0,72.0,4.0,Cerrada
+SD-00099,2025-06-08,Santa Fe,Solicitud de información,Web,39.8,70.0,3.0,Cerrada
+SD-00100,2025-07-03,Ciudad Bolívar,Petición,Web,8.3,50.0,4.0,Cerrada
+SD-00101,2025-09-19,Rafael Uribe Uribe,Trámite,Correo electrónico,9.1,38.0,,Cerrada
+SD-00102,2025-06-07,Barrios Unidos,Petición,Web,19.1,31.0,5.0,Pendiente
+SD-00103,2025-02-24,Tunjuelito,Solicitud de información,Correo electrónico,21.1,24.0,,Trasladada
+SD-00104,2025-07-18,Ciudad Bolívar,Solicitud de información,Teléfono,7.1,61.0,4.0,Cerrada
+SD-00105,2025-01-20,Antonio Nariño,Petición,Presencial,47.7,83.0,1.0,En trámite
+SD-00106,2025-11-06,Teusaquillo,Petición,Presencial,519.6,23.0,5.0,Cerrada
+SD-00107,2025-10-09,Kennedy,Trámite, WEB ,79.0,65.0,4.0,Pendiente
+SD-00108,2025-03-24,Tunjuelito,Petición,Presencial,101.0,57.0,4.0,Cerrada
+SD-00109,2025-04-07,Chapinero,Queja,Web,21.4,29.0,3.0,Cerrada
+SD-00110,2025-01-11,Rafael Uribe Uribe,Queja,Correo electrónico,35.8,32.0,9.0,Trasladada
+SD-00111,2025-05-14,Fontibón,Petición,Web,10.2,37.0,4.0,Pendiente
+SD-00112,2025-01-14,Usme,Solicitud de información,Web,41.2,64.0,5.0,Cerrada
+SD-00113,2025-12-08,Bosa,Solicitud de información,Teléfono,17.7,38.0,3.0,En trámite
+SD-00114,2025-02-18,Suba,Queja,Presencial,11.4,74.0,4.0,Cerrada
+SD-00115,2025-08-29,San Cristóbal,Solicitud de información,Web,20.8,43.0,1.0,Cerrada
+SD-00116,2025-07-28,La Candelaria,Petición,Presencial,18.2,25.0,5.0,Cerrada
+SD-00117,2025-03-28,Los Mártires,Petición,Web,20.2,24.0,3.0,
+SD-00118,2025-10-22,Teusaquillo,Reclamo,Presencial,52.6,45.0,4.0,Cerrada
+SD-00119,2025-02-09,Kennedy,Trámite,Web,14.3,45.0,4.0,Cerrada
+SD-00120,2025-11-20,Suba,Petición,Web,94.8,67.0,2.0,Cerrada
+SD-00121,2025-09-28,Suba,Petición,Web,,50.0,4.0,Cerrada
+SD-00122,2025-08-20,Suba,Reclamo,Web,86.6,29.0,4.0,Pendiente
+SD-00123,2025-11-18,Chapinero,Solicitud de información,Web,12.0,32.0,4.0,Cerrada
+SD-00124,2025-05-28,Kennedy,Petición, WEB ,25.8,56.0,,Pendiente
+SD-00125,2025-04-13,Usaquén,Queja,Web,17.9,40.0,4.0,Cerrada
+SD-00126,2025-02-26,Fontibón,Solicitud de información,Web,19.9,63.0,5.0,
+SD-00127,2025-12-04,Bosa,Queja,Presencial,47.0,80.0,4.0,Pendiente
+SD-00128,2025-05-27,Santa Fe,Petición,Web,79.4,42.0,2.0,Cerrada
+SD-00129,2025-10-30,chapinero,Petición,Presencial,63.0,55.0,3.0,Cerrada
+SD-00130,2025-05-02,Suba,Queja,Correo electrónico,19.0,74.0,4.0,Cerrada
+SD-00131,2025-12-15,San Cristóbal,Reclamo,Web,29.6,32.0,3.0,Cerrada
+SD-00132,2025-11-14,Ciudad Bolívar,Trámite,Correo electrónico,14.3,52.0,5.0,Cerrada
+SD-00133,2025-04-23,Suba,Reclamo,Web,12.3,38.0,4.0,Cerrada
+SD-00134,2025-06-27,Bosa,Solicitud de información,Web,10.9,60.0,4.0,Cerrada
+SD-00135,2025-10-17,Suba,Trámite,Teléfono,18.6,68.0,4.0,Cerrada
+SD-00136,2025-03-24,Usaquén,Queja,Teléfono,31.1,27.0,4.0,Cerrada
+SD-00137,2025-01-09,Ciudad Bolívar,Queja,Teléfono,6.1,30.0,4.0,Cerrada
+SD-00138,2025-04-16,Fontibón,Trámite,Web,24.9,19.0,2.0,En trámite
+SD-00139,2025-08-04,Antonio Nariño,Petición,Teléfono,80.4,18.0,3.0,Cerrada
+SD-00140,2025-02-19,Chapinero,Solicitud de información,Web,59.8,21.0,3.0,Cerrada
+SD-00141,fecha no registrada,Fontibón,Solicitud de información,Web,16.6,66.0,3.0,Cerrada
+SD-00142,2025-12-02,Fontibón,Petición,Web,9.0,79.0,4.0,Cerrada
+SD-00143,2025-01-28,Ciudad Bolívar,Reclamo,Correo electrónico,36.4,45.0,1.0,Cerrada
+SD-00144,2025-01-19,Suba,Petición,Web,4.5,78.0,3.0,Cerrada
+SD-00145,2025-06-04,Fontibón,Petición,Teléfono,59.3,67.0,5.0,Cerrada
+SD-00146,2025-01-05,Tunjuelito,Reclamo,Presencial,22.0,72.0,5.0,Trasladada
+SD-00147,2025-01-11,Bosa,Queja,Teléfono,101.8,68.0,4.0,Pendiente
+SD-00148,2025-03-08,Engativá,Solicitud de información,Teléfono,7.1,31.0,,Cerrada
+SD-00149,2025-02-07,Kennedy,Trámite,Teléfono,51.3,53.0,5.0,Cerrada
+SD-00150,2025-10-23,Usaquén,Solicitud de información,Web,23.9,53.0,1.0,Cerrada
+SD-00151,2025-02-14,Puente Aranda,Petición,Web,20.1,61.0,4.0,Pendiente
+SD-00152,2025-07-11,Rafael Uribe Uribe,Petición,Presencial,9.2,72.0,,En trámite
+SD-00153,2025-09-15,Santa Fe,Petición,Web,40.3,25.0,4.0,Cerrada
+SD-00154,2025-08-17,,Petición,Web,42.8,63.0,5.0,Cerrada
+SD-00155,2025-08-27,Chapinero,Trámite,Web,98.4,74.0,5.0,Cerrada
+SD-00156,2025-05-11,Barrios Unidos,Queja,Web,54.9,25.0,5.0,Pendiente
+SD-00157,2025-11-21,Tunjuelito,Petición,Web,16.5,46.0,5.0,Pendiente
+SD-00158,2025-01-26,Suba,Solicitud de información,Web,12.1,78.0,4.0,Cerrada
+SD-00159,2025-02-09,Teusaquillo,Queja,Correo electrónico,9.2,19.0,5.0,Cerrada
+SD-00160,2025-11-09,Los Mártires,Petición,Web,77.9,28.0,4.0,
+SD-00161,2025-01-25,Chapinero,Petición,Correo electrónico,dato pendiente,72.0,4.0,En trámite
+SD-00162,2025-03-12,Ciudad Bolívar,Reclamo,Correo electrónico,78.3,29.0,3.0,Pendiente
+SD-00163,2025-03-05,Usme,Solicitud de información,Web,38.2,65.0,4.0,Cerrada
+SD-00164,2025-01-13,Usaquén,Petición,Teléfono,,,3.0,Cerrada
+SD-00165,2025-02-12,Engativá,Trámite,Presencial,20.5,51.0,4.0,Cerrada
+SD-00166,2025-07-29,Kennedy,Trámite,Presencial,42.3,50.0,2.0,Cerrada
+SD-00167,2025-08-30,Puente Aranda,Solicitud de información,Web,25.5,47.0,4.0,En trámite
+SD-00168,2025-01-31,Puente Aranda,Petición,Web,19.6,43.0,3.0,Cerrada
+SD-00169,2025-12-10,Bosa,Petición,Web,43.5,43.0,3.0,Pendiente
+SD-00170,2025-02-04,Ciudad Bolívar,Trámite,Presencial,23.2,55.0,4.0,Cerrada
+SD-00171,2025-09-08,Bosa,Queja,Correo electrónico,14.2,78.0,3.0,Cerrada
+SD-00172,2025-10-20,Engativá,Reclamo,Presencial,,84.0,5.0,Cerrada
+SD-00173,2025-07-10,,Solicitud de información,Teléfono,24.6,76.0,4.0,Cerrada
+SD-00174,2025-06-29,Ciudad Bolívar,Petición,Correo electrónico,37.2,26.0,4.0,Cerrada
+SD-00175,2025-02-09,San Cristóbal,Solicitud de información,Presencial,18.3,38.0,1.0,En trámite
+SD-00176,2025-03-30,Usaquén,Trámite,Web,10.4,69.0,5.0,Cerrada
+SD-00177,2025-11-07,Kennedy,Solicitud de información,Teléfono,94.8,55.0,4.0,Cerrada
+SD-00178,2025-05-08,Sumapaz,Queja,Web,82.3,40.0,4.0,Cerrada
+SD-00179,2025-01-13,Rafael Uribe Uribe,Trámite,Web,50.0,39.0,3.0,Cerrada
+SD-00180,2025-09-24,Los Mártires,Reclamo,Presencial,19.3,25.0,5.0,Pendiente
+SD-00181,2025-09-07,Rafael Uribe Uribe,Solicitud de información,Correo electrónico,20.6,40.0,5.0,Trasladada
+SD-00182,2025-01-25,Rafael Uribe Uribe,Solicitud de información,Web,72.7,,4.0,
+SD-00183,2025-01-19,Engativá,Solicitud de información,Presencial,19.8,46.0,2.0,En trámite
+SD-00184,2025-02-12,Bosa,Queja,Web,16.0,55.0,2.0,En trámite
+SD-00185,2025-01-19,Antonio Nariño,Petición,Web,105.0,36.0,1.0,Trasladada
+SD-00186,2025-08-13,Barrios Unidos,Petición,Web,24.9,32.0,5.0,Cerrada
+SD-00187,2025-02-18,Kennedy,Reclamo,Teléfono,97.2,78.0,5.0,Cerrada
+SD-00188,2025-08-10,Chapinero,Reclamo,Teléfono,9.0,45.0,5.0,Cerrada
+SD-00189,2025-03-06,Los Mártires,Reclamo,Web,38.0,35.0,5.0,Pendiente
+SD-00190,2025-12-21,Tunjuelito,Queja,Web,121.9,61.0,3.0,En trámite
+SD-00191,2025-09-22,Ciudad Bolívar,Solicitud de información,Web,26.4,54.0,5.0,
+SD-00192,2025-05-17,Usme,Trámite,Web,21.2,57.0,3.0,Cerrada
+SD-00193,2025-06-06,Santa Fe,Petición,Presencial,10.7,33.0,3.0,En trámite
+SD-00194,2025-01-24,Puente Aranda,Solicitud de información,Presencial,58.1,67.0,5.0,Pendiente
+SD-00195,2025-01-21, San Cristóbal ,Solicitud de información,Presencial,14.5,31.0,1.0,Cerrada
+SD-00196,2025-07-16,,Reclamo,Web,24.0,74.0,5.0,En trámite
+SD-00197,2025-01-09,Suba,Petición,Presencial,10.2,46.0,5.0,Cerrada
+SD-00198,2025-08-21,Rafael Uribe Uribe,Solicitud de información,Web,467.7,45.0,5.0,Cerrada
+SD-00199,2025-05-20,San Cristóbal,Trámite,Web,61.3,44.0,5.0,Cerrada
+SD-00200,2025-02-20,Bosa,Solicitud de información,Correo electrónico,dato pendiente,46.0,4.0,En trámite
+SD-00201,2025-07-15,Antonio Nariño,Trámite,Teléfono,10.9,63.0,2.0,Trasladada
+SD-00202,2025-07-21,Ciudad Bolívar,Trámite,Correo electrónico,81.6,51.0,,Cerrada
+SD-00203,2025-09-30,Engativá,Queja,Correo electrónico,19.6,26.0,4.0,Cerrada
+SD-00204,2025-03-14,Santa Fe,Reclamo,Presencial,11.3,56.0,5.0,Cerrada
+SD-00205,2025-07-19,Usaquén,Reclamo,Correo electrónico,6.9,36.0,2.0,Cerrada
+SD-00206,2025-11-05,Usme,Trámite,Web,15.9,25.0,3.0,Cerrada
+SD-00207,2025-04-09,Santa Fe,Petición,Web,8.7,75.0,4.0,Cerrada
+SD-00208,2025-11-01,Barrios Unidos,Queja,Web,16.2,39.0,5.0,Cerrada
+SD-00209,2025-09-22,Santa Fe,Trámite,Web,45.1,58.0,5.0,Cerrada
+SD-00210,2025-06-06,Engativá,Queja,Web,19.5,29.0,5.0,Cerrada
+SD-00211,2025-11-19,Barrios Unidos,Solicitud de información,Web,33.7,41.0,3.0,En trámite
+SD-00212,2025-12-19,Suba,Queja,Teléfono,,44.0,4.0,Cerrada
+SD-00213,2025-03-28,San Cristóbal,Trámite,Teléfono,27.1,27.0,1.0,Cerrada
+SD-00214,2025-12-24,puente aranda,Trámite,Presencial,108.9,84.0,6.0,Pendiente
+SD-00215,2025-01-01,Teusaquillo,Queja,Web,19.9,39.0,4.0,Cerrada
+SD-00216,2025-02-17,Teusaquillo,Solicitud de información,Teléfono,34.4,57.0,4.0,Cerrada
+SD-00217,2025-01-16,Santa Fe,Queja,Web,8.0,56.0,,Cerrada
+SD-00218,2025-05-15,Santa Fe,Reclamo,Web,80.6,47.0,4.0,Cerrada
+SD-00219,2025-12-08,Ciudad Bolívar,Reclamo,Web,18.0,57.0,4.0,Cerrada
+SD-00220,2025-08-08,Kennedy,Solicitud de información,Web,56.7,130.0,5.0,Cerrada
+SD-00221,2025-08-14,Bosa,Petición,Web,23.5,23.0,,Cerrada
+SD-00222,2025-01-31,Fontibón,Petición,Teléfono,40.8,63.0,4.0,Cerrada
+SD-00223,2025-07-08,Barrios Unidos,Solicitud de información,Teléfono,42.7,25.0,5.0,Cerrada
+SD-00224,2025-05-20,Ciudad Bolívar,Reclamo,Presencial,18.4,47.0,5.0,Cerrada
+SD-00225,2025-06-24,Tunjuelito,Reclamo,Web,58.5,42.0,5.0,Cerrada
+SD-00226,2025-04-06,Ciudad Bolívar,Petición,Teléfono,14.6,48.0,3.0,Cerrada
+SD-00227,2025-03-15,Usaquén,Queja,Presencial,46.2,22.0,4.0,En trámite
+SD-00228,2025-12-14,Engativá,Trámite,Web,19.2,65.0,5.0,Cerrada
+SD-00229,2025-07-23,Suba,Petición,Presencial,33.5,46.0,4.0,Cerrada
+SD-00230,2025-05-31,Chapinero,Queja,Presencial,18.2,22.0,4.0,Cerrada
+SD-00231,2025-01-27,Santa Fe,Trámite,Web,26.8,18.0,5.0,Cerrada
+SD-00232,2025-10-06,Kennedy,Petición,Web,11.5,54.0,2.0,Pendiente
+SD-00233,2025-06-22,Ciudad Bolívar,Solicitud de información,Presencial,31.1,63.0,5.0,Cerrada
+SD-00234,2025-05-22,Suba,Petición,Web,26.7,55.0,5.0,Cerrada
+SD-00235,2025-09-01,Ciudad Bolívar,Trámite,Web,635.1,66.0,2.0,Pendiente
+SD-00236,2025-02-18,Puente Aranda,Solicitud de información,Web,24.7,69.0,5.0,En trámite
+SD-00237,2025-07-14,Fontibón,Trámite,Correo electrónico,28.5,77.0,4.0,En trámite
+SD-00238,2025-11-12,Antonio Nariño,Petición,Web,16.2,84.0,5.0,Cerrada
+SD-00239,2025-06-19,Usaquén,Reclamo,Web,23.4,,5.0,Cerrada
+SD-00240,2025-01-01,Chapinero,Solicitud de información,Web,12.1,72.0,5.0,Cerrada
+SD-00241,2025-03-25,Puente Aranda,Petición,Correo electrónico,149.8,47.0,2.0,Cerrada
+SD-00242,2025-01-21,Antonio Nariño,Petición,Presencial,57.1,52.0,5.0,Cerrada
+SD-00243,2025-07-02,Usme,Petición,Correo electrónico,31.7,59.0,5.0,En trámite
+SD-00244,2025-05-14,Engativá,Trámite,Web,62.1,29.0,4.0,Cerrada
+SD-00245,2025-02-18,Suba,Solicitud de información,Web,5.8,64.0,4.0,Cerrada
+SD-00246,2025-09-08,Rafael Uribe Uribe,Reclamo,Presencial,3.8,58.0,1.0,Cerrada
+SD-00247,2025-03-06,Suba,Solicitud de información,Web,19.1,53.0,5.0,Cerrada
+SD-00248,2025-05-05,Kennedy,Reclamo,Teléfono,9.2,74.0,1.0,Cerrada
+SD-00249,2025-12-27,Kennedy,Reclamo,Teléfono,21.6,64.0,3.0,Pendiente
+SD-00250,2025-01-25,Kennedy,Queja,Web,30.1,81.0,5.0,Cerrada
+SD-00251,2025-04-01,Suba,Reclamo,Correo electrónico,51.4,84.0,5.0,Cerrada
+SD-00252,2025-04-27,Rafael Uribe Uribe,Petición,Presencial,11.0,74.0,5.0,Cerrada
+SD-00253,2025-07-05,Fontibón,Trámite,Web,34.8,38.0,4.0,Cerrada
+SD-00254,2025-03-31,Usme,Solicitud de información,Presencial,392.8,30.0,3.0,Cerrada
+SD-00255,2025-12-21, Usme ,Queja,Web,33.5,38.0,4.0,Pendiente
+SD-00256,2025-01-02,Los Mártires,Reclamo,Teléfono,17.5,66.0,2.0,Cerrada
+SD-00257,2025-12-13,Puente Aranda,Petición,Web,72.8,76.0,5.0,Cerrada
+SD-00258,2025-07-15,Chapinero,Trámite,Web,23.9,77.0,,Trasladada
+SD-00259,2025-01-14,CHAPINERO,Trámite,Presencial,97.6,64.0,4.0,Cerrada
+SD-00260,2025-02-12,Suba,Trámite,Web,14.3,64.0,2.0,Pendiente
+SD-00261,2025-02-07,Santa Fe,Queja,Web,45.0,82.0,4.0,Cerrada
+SD-00262,2025-04-15,Puente Aranda,Petición,Presencial,24.7,64.0,5.0,Cerrada
+SD-00263,2025-05-02,Bosa,Petición,Web,20.2,27.0,5.0,Pendiente
+SD-00264,2025-08-23,Santa Fe,Petición,Web,41.4,52.0,2.0,Cerrada
+SD-00265,2025-04-24,Ciudad Bolívar,Petición,Web,20.6,42.0,2.0,Cerrada
+SD-00266,2025-09-22,San Cristóbal,Petición,Web,3.5,61.0,4.0,Cerrada
+SD-00267,2025-04-18,Tunjuelito,Trámite,Web,2.6,61.0,2.0,Cerrada
+SD-00268,2025-04-07,San Cristóbal,Petición,Teléfono,67.0,38.0,5.0,Cerrada
+SD-00269,2025-04-11,Santa Fe,Petición,Correo electrónico,64.9,38.0,4.0,Cerrada
+SD-00270,2025-05-01,,Solicitud de información,Web,,24.0,2.0,En trámite
+SD-00271,2025-11-02,Usaquén,Reclamo,Correo electrónico,25.5,37.0,5.0,Cerrada
+SD-00272,2025-04-01,San Cristóbal,Solicitud de información,Presencial,9.8,74.0,,Cerrada
+SD-00273,2025-04-10,Usaquén,Reclamo,Presencial,18.8,62.0,3.0,Cerrada
+SD-00274,2025-12-16,Suba,Trámite,Teléfono,26.0,82.0,4.0,Cerrada
+SD-00275,2025-08-27,Barrios Unidos,Reclamo,Teléfono,12.1,80.0,1.0,Cerrada
+SD-00276,2025-03-11,Kennedy,Reclamo,Teléfono,88.8,76.0,4.0,Cerrada
+SD-00277,2025-11-13,Bosa,Solicitud de información,Presencial,138.3,30.0,5.0,Cerrada
+SD-00278,2025-03-08,Engativá,Queja,Presencial,36.9,40.0,5.0,Cerrada
+SD-00279,2025-03-01,Rafael Uribe Uribe,Queja,Web,25.6,21.0,4.0,Cerrada
+SD-00280,2025-06-12,La Candelaria,Reclamo,Web,9.8,24.0,4.0,Cerrada
+SD-00281,2025-09-10,Usaquén,Petición,Presencial,82.3,33.0,3.0,Cerrada
+SD-00282,2025-03-11,San Cristóbal,Solicitud de información,Web,27.3,37.0,4.0,Trasladada
+SD-00283,2025-10-02,Usme,Petición, WEB ,20.8,19.0,3.0,Pendiente
+SD-00284,2025-02-27,Usme,Petición,Web,37.0,75.0,4.0,Cerrada
+SD-00285,2025-10-13,Suba,Petición,Web,16.6,53.0,3.0,Trasladada
+SD-00286,2025-02-04,Kennedy,Solicitud de información,Presencial,28.8,62.0,5.0,Pendiente
+SD-00287,2025-06-19,Usaquén,Queja,Presencial,8.7,62.0,5.0,Cerrada
+SD-00288,2025-08-22,Kennedy,Solicitud de información,Web,58.3,83.0,,En trámite
+SD-00289,2025-04-07,Engativá,Trámite,Web,23.8,28.0,5.0,Cerrada
+SD-00290,2025-08-12,Chapinero,Petición,Web,61.5,41.0,2.0,En trámite
+SD-00291,2025-09-09,Puente Aranda,Solicitud de información,Web,22.2,38.0,5.0,Cerrada
+SD-00292,2025-08-26,Usaquén,Queja,Teléfono,23.3,55.0,3.0,Cerrada
+SD-00293,2025-05-25,Ciudad Bolívar,Petición,Presencial,10.4,53.0,2.0,Cerrada
+SD-00294,2025-10-10,,Solicitud de información,Presencial,,71.0,4.0,Trasladada
+SD-00295,2025-09-25,La Candelaria,Trámite,Presencial,13.4,56.0,4.0,Cerrada
+SD-00296,2025-04-30,Rafael Uribe Uribe,Queja,Correo electrónico,17.9,33.0,4.0,Cerrada
+SD-00297,2025-09-25,Ciudad Bolívar,Reclamo,Teléfono,25.8,56.0,4.0,Cerrada
+SD-00298,2025-12-02,Puente Aranda,Queja,Presencial,28.2,83.0,,Cerrada
+SD-00299,2025-10-26,Antonio Nariño,Reclamo,Web,7.2,57.0,1.0,Pendiente
+SD-00300,2025-09-25,Suba,Reclamo,Web,21.7,58.0,4.0,En trámite
+SD-00301,2025-10-07,Antonio Nariño,Reclamo,Correo electrónico,46.8,29.0,4.0,Cerrada
+SD-00302,2025-10-21,Santa Fe,Reclamo,Web,19.4,18.0,1.0,Cerrada
+SD-00303,2025-04-16,Engativá,Petición,Web,21.8,32.0,4.0,Cerrada
+SD-00304,2025-09-21,Engativá,Solicitud de información,Correo electrónico,29.1,19.0,4.0,Cerrada
+SD-00305,2025-03-14,La Candelaria,Solicitud de información,Teléfono,23.5,48.0,4.0,En trámite
+SD-00306,2025-05-11,Fontibón,Solicitud de información,Web,11.9,77.0,5.0,En trámite
+SD-00307,,Kennedy,Petición,Web,25.1,48.0,4.0,Cerrada
+SD-00308,2025-04-14,Suba,Queja,Web,54.4,61.0,4.0,Cerrada
+SD-00309,2025-11-04,Tunjuelito,Queja,Presencial,11.7,76.0,4.0,Cerrada
+SD-00310,2025-06-04,Santa Fe,Petición,Web,19.5,69.0,3.0,Cerrada
+SD-00311,fecha no registrada,Fontibón,Petición,Correo electrónico,9.2,62.0,1.0,Cerrada
+SD-00312,2025-02-05,Kennedy,Queja,Correo electrónico,52.2,71.0,1.0,En trámite
+SD-00313,2025-07-20,Usme,Solicitud de información,Presencial,24.1,37.0,5.0,Cerrada
+SD-00314,2025-06-14,Kennedy,Petición,Presencial,13.6,46.0,3.0,Trasladada
+SD-00315,2025-07-06,Kennedy,Solicitud de información,Web,27.6,45.0,4.0,Cerrada
+SD-00316,2025-01-16,Bosa,Reclamo,Web,10.5,72.0,4.0,Cerrada
+SD-00317,2025-04-08,Kennedy,Solicitud de información,Teléfono,11.9,45.0,4.0,Cerrada
+SD-00318,2025-01-02,Barrios Unidos,Reclamo,Web,8.6,81.0,5.0,Cerrada
+SD-00319,2025-04-21,Bosa,Reclamo,Web,11.6,30.0,5.0,Cerrada
+SD-00320,2025-12-06,Ciudad Bolívar,Reclamo,Web,71.4,29.0,1.0,Cerrada
+SD-00321,2025-02-25,Ciudad Bolívar,Trámite,Web,14.9,66.0,5.0,En trámite
+SD-00322,2025-09-09,,Reclamo,Web,36.6,69.0,4.0,Cerrada
+SD-00323,2025-01-03,Bosa,Reclamo,Teléfono,13.8,64.0,4.0,En trámite
+SD-00324,2025-07-25,Engativá,Reclamo,Teléfono,45.6,38.0,5.0,En trámite
+SD-00325,fecha no registrada,La Candelaria,Solicitud de información,Presencial,679.4,18.0,5.0,Cerrada
+SD-00326,2025-05-05,Suba,Petición,Teléfono,26.6,39.0,3.0,Cerrada
+SD-00327,2025-03-13,Puente Aranda,Reclamo,Web,26.8,49.0,5.0,Cerrada
+SD-00328,2025-07-28,Engativá,Reclamo,Teléfono,147.8,46.0,4.0,Cerrada
+SD-00329,2025-04-12,Suba,Trámite,Presencial,41.4,80.0,4.0,En trámite
+SD-00330,2025-11-22,Tunjuelito,Reclamo,Web,,76.0,2.0,Pendiente
+SD-00331,2025-11-06,Teusaquillo,Reclamo,Correo electrónico,dato pendiente,70.0,3.0,Cerrada
+SD-00332,2025-08-27,,Trámite,Web,128.2,19.0,4.0,Cerrada
+SD-00333,2025-08-22,barrios unidos,Queja,Web,7.6,26.0,4.0,En trámite
+SD-00334,2025-08-08,Rafael Uribe Uribe,Petición,Web,13.7,47.0,4.0,En trámite
+SD-00335,2025-09-26,Santa Fe,Petición,Web,21.6,60.0,5.0,Cerrada
+SD-00336,2025-06-17,Suba,Petición,Web,18.9,64.0,3.0,En trámite
+SD-00337,2025-12-20,Chapinero,Petición,Presencial,20.1,38.0,5.0,Cerrada
+SD-00338,2025-05-07,Teusaquillo,Queja,Correo electrónico,9.7,25.0,5.0,Cerrada
+SD-00339,2025-01-04,Chapinero,Solicitud de información,Web,73.9,40.0,5.0,Cerrada
+SD-00340,2025-09-12,Ciudad Bolívar,Solicitud de información,Presencial,8.9,71.0,5.0,Cerrada
+SD-00341,2025-08-30,Santa Fe,Petición,Web,22.2,85.0,5.0,Pendiente
+SD-00342,2025-12-25,Ciudad Bolívar,Reclamo,Teléfono,56.5,82.0,2.0,Cerrada
+SD-00343,2025-05-25,Puente Aranda,Petición,Web,25.2,58.0,5.0,Cerrada
+SD-00344,2025-06-05,Suba,Trámite,Web,12.4,24.0,0.0,Cerrada
+SD-00345,2025-07-25,Antonio Nariño,Petición,Presencial,9.4,83.0,4.0,Cerrada
+SD-00346,2025-05-24,Antonio Nariño,Reclamo,Presencial,21.7,28.0,3.0,Cerrada
+SD-00347,2025-10-14,Ciudad Bolívar,Queja,Teléfono,14.6,36.0,5.0,Cerrada
+SD-00348,2025-06-06,Tunjuelito,Reclamo,Presencial,30.1,84.0,3.0,Cerrada
+SD-00349,2025-10-14,Suba,Queja,Teléfono,9.0,52.0,3.0,Cerrada
+SD-00350,2025-06-05,Chapinero,Solicitud de información,Web,47.5,31.0,3.0,En trámite
+SD-00351,2025-03-24,Suba,Petición,Web,28.1,52.0,4.0,Cerrada
+SD-00352,2025-12-28,San Cristóbal,Trámite,Web,29.7,23.0,4.0,En trámite
+SD-00353,2025-07-12,Engativá,Reclamo,Web,76.0,39.0,4.0,En trámite
+SD-00354,2025-09-15,Suba,Solicitud de información,Web,18.6,145.0,5.0,Cerrada
+SD-00355,2025-08-04,Fontibón,Solicitud de información,Presencial,15.0,38.0,4.0,Cerrada
+SD-00356,2025-05-12,Engativá,Trámite, WEB ,17.1,78.0,4.0,Trasladada
+SD-00357,2025-12-21,Los Mártires,Petición,Presencial,22.3,54.0,5.0,Cerrada
+SD-00358,2025-05-16,Antonio Nariño,Queja,Presencial,24.1,62.0,5.0,Cerrada
+SD-00359,2025-12-29,Fontibón,Petición,Presencial,13.8,65.0,3.0,Cerrada
+SD-00360,2025-06-07,Suba,Petición,Presencial,5.7,55.0,1.0,Cerrada
+SD-00361,2025-01-09,Ciudad Bolívar,Reclamo,Web,16.9,20.0,4.0,Cerrada
+SD-00362,2025-01-14,Santa Fe,Trámite,Web,33.8,,5.0,Pendiente
+SD-00363,2025-12-22,Santa Fe,Trámite,Presencial,28.6,50.0,4.0,Cerrada
+SD-00364,2025-07-12,Chapinero,Reclamo,Presencial,dato pendiente,62.0,3.0,En trámite
+SD-00365,2025-05-22,Suba,Reclamo,Web,111.8,55.0,,En trámite
+SD-00366,2025-10-24,Kennedy,Trámite,Web,45.6,62.0,4.0,Cerrada
+SD-00367,2025-08-14,Antonio Nariño,Trámite,Presencial,72.7,42.0,4.0,
+SD-00368,2025-08-30,Barrios Unidos,Petición,Presencial,45.8,75.0,5.0,Cerrada
+SD-00369,2025-09-08,Bosa,Reclamo,Web,283.7,33.0,5.0,Cerrada
+SD-00370,2025-03-14,Rafael Uribe Uribe,Solicitud de información,Web,dato pendiente,62.0,4.0,Cerrada
+SD-00371,2025-02-02,Los Mártires,Queja,Correo electrónico,52.6,57.0,4.0,Cerrada
+SD-00372,2025-09-23,Tunjuelito,Queja,Web,43.8,52.0,4.0,Cerrada
+SD-00373,2025-01-08,Kennedy,Trámite,Teléfono,22.1,19.0,,En trámite
+SD-00374,2025-09-20,Bosa,Trámite,Web,25.0,44.0,4.0,Cerrada
+SD-00375,2025-02-17,San Cristóbal,Trámite,Presencial,20.0,21.0,5.0,Cerrada
+SD-00376,2025-04-06,Santa Fe,Solicitud de información,Web,41.1,52.0,4.0,Cerrada
+SD-00377,2025-09-16,Ciudad Bolívar,Petición,Web,15.0,64.0,4.0,
+SD-00378,2025-08-16,Kennedy,Queja,Correo electrónico,22.3,53.0,,En trámite
+SD-00379,2025-10-13,Kennedy,Reclamo,Web,4.4,,5.0,Cerrada
+SD-00380,2025-08-11,Teusaquillo,Reclamo,Correo electrónico,93.9,42.0,4.0,Cerrada
+SD-00381,2025-01-18,ENGATIVÁ,Reclamo,Web,21.9,38.0,4.0,Cerrada
+SD-00382,2025-11-03,Ciudad Bolívar,Reclamo,Teléfono,36.3,48.0,4.0,Cerrada
+SD-00383,2025-03-20,Antonio Nariño,Queja,Correo electrónico,77.0,33.0,3.0,Cerrada
+SD-00384,2025-02-19,Fontibón,Solicitud de información,Presencial,32.3,72.0,5.0,Cerrada
+SD-00385,2025-11-17,Kennedy,Queja,Web,76.2,73.0,5.0,Pendiente
+SD-00386,2025-03-13,Sumapaz,Queja,Presencial,10.2,46.0,4.0,Pendiente
+SD-00387,2025-07-15,Teusaquillo,Petición,Presencial,155.7,71.0,4.0,Cerrada
+SD-00388,2025-06-27,CIUDAD BOLÍVAR,Petición,Correo electrónico,58.3,19.0,5.0,En trámite
+SD-00389,2025-10-08,Santa Fe,Trámite,Web,30.2,28.0,4.0,Cerrada
+SD-00390,2025-01-17,La Candelaria,Queja,Web,75.1,37.0,5.0,Trasladada
+SD-00391,2025-02-08, Suba ,Petición,Web,10.7,44.0,1.0,Cerrada
+SD-00392,2025-06-01,Santa Fe,Solicitud de información,Presencial,20.8,145.0,1.0,Cerrada
+SD-00393,2025-06-22,Suba,Reclamo,Correo electrónico,76.2,52.0,4.0,Cerrada
+SD-00394,2025-10-15,Barrios Unidos,Petición,Web,6.4,71.0,3.0,Cerrada
+SD-00395,2025-08-10,Usaquén,Queja,Teléfono,39.3,49.0,4.0,En trámite
+SD-00396,2025-02-24,Fontibón,Petición,Correo electrónico,38.4,48.0,5.0,Cerrada
+SD-00397,2025-12-24,Puente Aranda,Reclamo,Web,112.9,22.0,2.0,Cerrada
+SD-00398,2025-06-17,Bosa,Petición,Web,7.9,37.0,4.0,Cerrada
+SD-00399,2025-12-19,Fontibón,Petición,Presencial,86.2,72.0,5.0,Pendiente
+SD-00400,2025-12-28,Kennedy,Petición,Presencial,17.0,73.0,5.0,En trámite
+SD-00401,fecha no registrada,Bosa,Reclamo,Web,18.4,25.0,4.0,Cerrada
+SD-00402,2025-07-04,Ciudad Bolívar,Petición,Teléfono,10.3,19.0,3.0,Cerrada
+SD-00403,2025-06-04,Antonio Nariño,Solicitud de información,Presencial,11.4,74.0,4.0,Cerrada
+SD-00404,2025-07-01,Santa Fe,Petición,Correo electrónico,34.9,29.0,,Pendiente
+SD-00405,2025-04-24,Sumapaz,Reclamo,Teléfono,11.2,57.0,5.0,En trámite
+SD-00406,2025-07-23,Rafael Uribe Uribe,Queja,Teléfono,44.9,74.0,4.0,Cerrada
+SD-00407,2025-06-29,Tunjuelito,Queja,Presencial,15.7,71.0,3.0,Pendiente
+SD-00408,2025-03-09,Puente Aranda,Petición,Web,10.4,55.0,5.0,Cerrada
+SD-00409,2025-04-16,Chapinero,Solicitud de información,Presencial,dato pendiente,43.0,4.0,En trámite
+SD-00410,2025-02-23,Sumapaz,Trámite,Web,33.2,70.0,3.0,Cerrada
+SD-00411,2025-11-04,Barrios Unidos,Petición,Presencial,20.9,65.0,,Cerrada
+SD-00412,2025-09-05,Suba,Petición,Web,26.5,74.0,5.0,Cerrada
+SD-00413,2025-05-22,Chapinero,Trámite,Presencial,43.5,52.0,5.0,Cerrada
+SD-00414,2025-05-25,Rafael Uribe Uribe,Reclamo,Web,58.1,82.0,3.0,Trasladada
+SD-00415,2025-01-29,Usaquén,Petición,Web,20.4,70.0,5.0,Cerrada
+SD-00416,2025-04-16,Usme,Petición,Web,11.8,22.0,3.0,En trámite
+SD-00417,2025-12-04,Santa Fe,Reclamo,Presencial,,37.0,4.0,En trámite
+SD-00418,2025-01-12,Antonio Nariño,Solicitud de información,Teléfono,36.7,72.0,4.0,En trámite
+SD-00419,2025-02-23,San Cristóbal,Reclamo,Web,8.6,25.0,3.0,Pendiente
+SD-00420,2025-11-05,Ciudad Bolívar,Trámite,Teléfono,13.2,66.0,4.0,Cerrada
+SD-00421,2025-07-09,Suba,Reclamo,Teléfono,15.0,41.0,5.0,Cerrada
+SD-00422,2025-01-12,Usaquén,Queja,Web,22.1,32.0,3.0,Cerrada
+SD-00423,2025-06-28,Usaquén,Reclamo,Presencial,14.6,54.0,5.0,Cerrada
+SD-00424,2025-10-01,Usaquén,Queja,Web,43.8,81.0,4.0,Pendiente
+SD-00425,2025-05-06,Suba,Petición,Web,7.7,79.0,4.0,Cerrada
+SD-00426,2025-05-20,Puente Aranda,Petición,Presencial,7.9,45.0,2.0,Cerrada
+SD-00427,2025-08-19,Usme,Queja,Web,20.1,18.0,3.0,Cerrada
+SD-00428,2025-08-07,La Candelaria,Solicitud de información,Teléfono,22.6,78.0,3.0,Cerrada
+SD-00429,2025-11-26,Usaquén,Petición,Correo electrónico,8.7,79.0,4.0,En trámite
+SD-00430,2025-04-01,Puente Aranda,Queja,Teléfono,16.4,59.0,5.0,Cerrada
+SD-00431,2025-04-11,Ciudad Bolívar,Reclamo,Presencial,19.1,60.0,5.0,En trámite
+SD-00432,2025-02-26,Antonio Nariño,Reclamo,Presencial,19.2,53.0,1.0,Cerrada
+SD-00433,2025-08-31,Barrios Unidos,Solicitud de información,Correo electrónico,28.9,18.0,3.0,En trámite
+SD-00434,2025-07-14,Puente Aranda,Solicitud de información,Web,15.7,28.0,2.0,Cerrada
+SD-00435,2025-05-07,Usaquén,Solicitud de información,Web,78.1,27.0,5.0,Cerrada
+SD-00436,2025-09-11,Usme,Petición,Presencial,37.2,80.0,3.0,Cerrada
+SD-00437,2025-05-18,Santa Fe,Reclamo,Web,14.1,21.0,3.0,Cerrada
+SD-00438,2025-03-13,Engativá,Reclamo,Web,27.7,55.0,4.0,En trámite
+SD-00439,2025-07-17,Los Mártires,Petición,Web,28.3,42.0,4.0,Cerrada
+SD-00440,2025-06-09,Suba,Petición,Presencial,64.1,18.0,3.0,Cerrada
+SD-00441,2025-05-28,,Petición,Web,16.4,80.0,4.0,Pendiente
+SD-00442,2025-06-12,San Cristóbal,Queja,Web,45.9,19.0,2.0,Cerrada
+SD-00443,2025-11-30,Teusaquillo,Queja,Web,26.6,76.0,1.0,Cerrada
+SD-00444,2025-03-20,San Cristóbal,Petición,Web,78.9,70.0,2.0,Trasladada
+SD-00445,2025-04-11,Tunjuelito,Solicitud de información,Teléfono,67.9,71.0,4.0,Cerrada
+SD-00446,2025-07-26,Teusaquillo,Trámite,Web,29.9,29.0,5.0,En trámite
+SD-00447,2025-01-18,Sumapaz,Petición,Presencial,21.2,77.0,4.0,Cerrada
+SD-00448,2025-02-23,Suba,Trámite,Teléfono,37.7,58.0,5.0,En trámite
+SD-00449,2025-07-26,Usaquén,Petición,Web,22.5,45.0,3.0,Cerrada
+SD-00450,2025-07-06,Suba,Trámite,Teléfono,90.9,64.0,5.0,En trámite
+SD-00451,2025-08-27,Usaquén,Trámite,Presencial,27.4,41.0,5.0,Cerrada
+SD-00452,2025-02-11,Rafael Uribe Uribe,Petición,Presencial,19.0,36.0,4.0,En trámite
+SD-00453,2025-11-08,Teusaquillo,Solicitud de información,Web,18.3,37.0,5.0,Cerrada
+SD-00454,2025-06-27,San Cristóbal,Trámite,Web,10.4,,4.0,Trasladada
+SD-00455,2025-02-26,Chapinero,Trámite,Correo electrónico,39.2,58.0,5.0,Cerrada
+SD-00456,2025-04-24,San Cristóbal,Trámite,Teléfono,13.9,34.0,,Cerrada
+SD-00457,2025-03-25,Sumapaz,Reclamo,Correo electrónico,58.8,34.0,4.0,Pendiente
+SD-00458,2025-06-15,Fontibón,Petición,Correo electrónico,9.8,82.0,4.0,Cerrada
+SD-00459,2025-06-21,Antonio Nariño,Solicitud de información,Web,28.4,53.0,5.0,Cerrada
+SD-00460,2025-06-08,Suba,Reclamo,Teléfono,61.1,76.0,5.0,En trámite
+SD-00461,2025-06-18,Suba,Reclamo, WEB ,5.1,40.0,4.0,Cerrada
+SD-00462,2025-11-28,Santa Fe,Queja,Teléfono,117.2,37.0,5.0,Cerrada
+SD-00463,2025-12-17,Ciudad Bolívar,Reclamo,Web,18.7,37.0,5.0,Cerrada
+SD-00464,2025-06-28,Bosa,Petición,Web,28.7,53.0,4.0,Cerrada
+SD-00465,2025-12-18,Suba,Solicitud de información,Teléfono,39.6,70.0,2.0,Cerrada
+SD-00466,2025-10-26,Barrios Unidos,Petición,Teléfono,44.5,52.0,3.0,Cerrada
+SD-00467,2025-10-27,Suba,Solicitud de información,Presencial,31.7,38.0,2.0,Cerrada
+SD-00468,2025-03-24,Ciudad Bolívar,Solicitud de información,Web,54.5,83.0,2.0,Cerrada
+SD-00469,2025-06-10,Santa Fe,Reclamo,Web,38.1,56.0,5.0,Cerrada
+SD-00470,2025-05-09,Engativá,Reclamo,Correo electrónico,96.6,,3.0,Cerrada
+SD-00471,2025-02-05,Kennedy,Queja,Web,38.2,18.0,5.0,Cerrada
+SD-00472,2025-01-28,Fontibón,Trámite,Web,112.6,56.0,4.0,Cerrada
+SD-00473,2025-08-16,Santa Fe,Solicitud de información,Presencial,50.7,60.0,4.0,Cerrada
+SD-00474,2025-06-03,Santa Fe,Queja,Web,6.7,,3.0,Pendiente
+SD-00475,2025-10-29,TUNJUELITO,Petición,Presencial,182.8,33.0,4.0,Cerrada
+SD-00476,2025-09-02,Bosa,Petición,Web,16.8,,4.0,Cerrada
+SD-00477,2025-02-01,Kennedy,Reclamo,Teléfono,79.2,85.0,4.0,Cerrada
+SD-00478,2025-11-02,Suba,Trámite,Correo electrónico,26.3,55.0,3.0,Cerrada
+SD-00479,2025-07-01,Suba,Solicitud de información,Correo electrónico,57.2,19.0,5.0,En trámite
+SD-00480,2025-07-26,Kennedy,Petición,Presencial,15.4,25.0,2.0,Pendiente
+SD-00481,2025-12-19,Kennedy,Trámite,Web,41.2,50.0,4.0,Pendiente
+SD-00482,2025-08-22,Usme,Queja, TELÉFONO ,21.3,59.0,4.0,Cerrada
+SD-00483,2025-01-09,Suba,Trámite,Teléfono,84.3,34.0,3.0,Cerrada
+SD-00484,2025-03-06,Bosa,Petición,Presencial,35.8,42.0,,Cerrada
+SD-00485,2025-06-05,Usaquén,Reclamo,Presencial,52.0,68.0,3.0,Cerrada
+SD-00486,2025-01-14,Kennedy,Trámite,Teléfono,5.1,83.0,5.0,Cerrada
+SD-00487,2025-03-03,Fontibón,Petición,Presencial,24.2,51.0,5.0,Cerrada
+SD-00488,2025-10-16,Usme,Solicitud de información,Teléfono,35.1,46.0,4.0,Cerrada
+SD-00489,2025-02-22,Suba,Trámite,Web,30.5,42.0,3.0,
+SD-00490,2025-03-02,Engativá,Petición,Presencial,53.0,27.0,2.0,Cerrada
+SD-00491,2025-07-04,Teusaquillo,Petición,Presencial,19.6,21.0,5.0,Cerrada
+SD-00492,2025-02-03,Suba,Solicitud de información,Web,26.8,74.0,4.0,Pendiente
+SD-00493,2025-04-04,Suba,Queja,Teléfono,62.5,20.0,1.0,En trámite
+SD-00494,2025-12-09,Bosa,Petición,Presencial,4.7,73.0,4.0,Cerrada
+SD-00495,2025-08-19,Antonio Nariño,Reclamo,Web,40.1,34.0,2.0,Cerrada
+SD-00496,2025-12-18,Engativá,Solicitud de información,Teléfono,20.1,65.0,4.0,Cerrada
+SD-00497,2025-05-10,Kennedy,Queja,Teléfono,13.0,82.0,4.0,Cerrada
+SD-00498,2025-08-13,Suba,Queja,Teléfono,33.2,68.0,2.0,Cerrada
+SD-00499,2025-03-29,Kennedy,Solicitud de información,Web,64.8,67.0,5.0,Cerrada
+SD-00500,2025-05-19,Engativá,Reclamo,Teléfono,56.2,36.0,3.0,Cerrada
+SD-00501,2025-03-05,Teusaquillo,Solicitud de información,Web,23.3,58.0,4.0,Cerrada
+SD-00502,2025-11-01,Rafael Uribe Uribe,Queja,Presencial,49.7,61.0,4.0,En trámite
+SD-00503,2025-03-09,Ciudad Bolívar,Trámite,Web,49.5,46.0,5.0,En trámite
+SD-00504,2025-03-16,Engativá,Reclamo,Presencial,24.2,20.0,4.0,Cerrada
+SD-00505,2025-06-19,Engativá,Petición,Teléfono,15.3,80.0,5.0,Cerrada
+SD-00506,2025-06-06,,Trámite,Presencial,,31.0,4.0,Cerrada
+SD-00507,2025-04-25,Bosa,Reclamo,Presencial,48.3,84.0,5.0,En trámite
+SD-00508,2025-05-11,Puente Aranda,Petición,Teléfono,25.0,81.0,3.0,Cerrada
+SD-00509,2025-04-18,Fontibón,Petición,Presencial,11.8,19.0,5.0,En trámite
+SD-00510,2025-11-30,Santa Fe,Solicitud de información,Web,7.3,68.0,2.0,Cerrada
+SD-00511,2025-07-31,Chapinero,Petición,Correo electrónico,48.1,61.0,5.0,Cerrada
+SD-00512,2025-12-02,La Candelaria,Queja,Teléfono,17.1,33.0,5.0,Cerrada
+SD-00513,2025-12-27,Usaquén,Petición,Correo electrónico,676.6,73.0,4.0,Cerrada
+SD-00514,2025-08-26,Tunjuelito,Queja,Correo electrónico,65.4,25.0,4.0,
+SD-00515,2025-10-29,Bosa,Queja,Correo electrónico,9.7,34.0,4.0,Cerrada
+SD-00516,2025-02-10,San Cristóbal,Reclamo,Teléfono,24.9,82.0,3.0,Cerrada
+SD-00517,2025-12-13,Bosa,Petición,Presencial,22.7,68.0,4.0,Cerrada
+SD-00518,2025-06-26,Los Mártires,Petición,Web,34.3,25.0,5.0,Cerrada
+SD-00519,2025-09-18,Usaquén,Reclamo,Presencial,65.3,27.0,4.0,Cerrada
+SD-00520,2025-03-31,Puente Aranda,Queja,Teléfono,9.5,35.0,2.0,Cerrada
+SD-00521,2025-02-04,La Candelaria,Reclamo,Presencial,219.5,22.0,5.0,Pendiente
+SD-00522,2025-11-19,Kennedy,Petición,Teléfono,55.9,30.0,2.0,En trámite
+SD-00523,2025-06-14,San Cristóbal,Petición,Web,22.4,56.0,4.0,Pendiente
+SD-00524,2025-02-20,Suba,Petición,Web,23.3,18.0,2.0,Cerrada
+SD-00525,2025-08-29,Santa Fe,Queja,Presencial,35.3,37.0,2.0,Cerrada
+SD-00526,2025-01-20,Kennedy,Queja,Web,33.4,39.0,1.0,Cerrada
+SD-00527,2025-06-14,Ciudad Bolívar,Solicitud de información,Web,39.9,84.0,4.0,Cerrada
+SD-00528,2025-09-15,Sumapaz,Queja,Web,39.3,84.0,4.0,Cerrada
+SD-00529,2025-09-20,Antonio Nariño,Reclamo,Teléfono,12.3,75.0,4.0,Cerrada
+SD-00530,2025-06-15,Bosa,Reclamo,Presencial,54.2,41.0,4.0,Cerrada
+SD-00531,2025-05-16,Barrios Unidos,Petición,Web,61.9,53.0,4.0,Cerrada
+SD-00532,2025-11-03,Teusaquillo,Reclamo,Web,29.7,,2.0,Pendiente
+SD-00533,2025-03-09,Kennedy,Queja,Web,8.4,76.0,1.0,Cerrada
+SD-00534,2025-01-28,Suba,Queja,Web,23.7,68.0,4.0,Cerrada
+SD-00535,2025-02-27,Usaquén,Petición,Teléfono,29.8,79.0,4.0,Cerrada
+SD-00536,2025-10-20,Usme,Solicitud de información,Teléfono,10.9,55.0,4.0,Cerrada
+SD-00537,2025-06-21,Engativá,Trámite,Web,19.7,80.0,3.0,Pendiente
+SD-00538,2025-01-14,San Cristóbal,Petición,Presencial,9.0,68.0,5.0,Cerrada
+SD-00539,2025-03-03,San Cristóbal,Reclamo,Web,40.7,68.0,2.0,Pendiente
+SD-00540,2025-01-11,Puente Aranda,Solicitud de información,Web,29.2,62.0,4.0,En trámite
+SD-00541,2025-10-25,Sumapaz,Queja,Correo electrónico,7.5,40.0,2.0,Cerrada
+SD-00542,2025-06-18,Engativá,Solicitud de información,Presencial,33.6,59.0,4.0,Cerrada
+SD-00543,2025-01-25,Puente Aranda,Reclamo,Correo electrónico,24.7,42.0,4.0,Cerrada
+SD-00544,2025-03-22,Sumapaz,Trámite,Web,38.0,62.0,5.0,Cerrada
+SD-00545,2025-08-14,Santa Fe,Trámite,Web,19.2,35.0,1.0,Cerrada
+SD-00546,2025-08-05,Kennedy,Petición,Web,14.1,72.0,4.0,Trasladada
+SD-00547,2025-10-27,Kennedy,Queja,Presencial,14.5,56.0,2.0,Cerrada
+SD-00548,2025-01-10,Chapinero,Reclamo,Correo electrónico,17.2,66.0,,En trámite
+SD-00549,2025-01-26,Los Mártires,Petición,Web,26.2,33.0,2.0,Cerrada
+SD-00550,2025-01-13,Kennedy,Queja,Teléfono,28.8,71.0,2.0,Trasladada
+SD-00551,2025-05-24,Fontibón,Trámite,Teléfono,22.4,72.0,5.0,Cerrada
+SD-00552,2025-09-23,San Cristóbal,Petición,Presencial,18.8,27.0,2.0,Cerrada
+SD-00553,2025-08-30,San Cristóbal,Queja,Web,19.8,41.0,3.0,Cerrada
+SD-00554,2025-03-18,Rafael Uribe Uribe,Solicitud de información,Presencial,169.2,64.0,5.0,Cerrada
+SD-00555,2025-08-28,Usaquén,Queja,Web,14.5,77.0,5.0,En trámite
+SD-00556,2025-08-28,Usme,Reclamo,Teléfono,17.0,68.0,5.0,Cerrada
+SD-00557,2025-03-11,Bosa,Trámite,Presencial,305.0,50.0,3.0,Cerrada
+SD-00558,2025-10-01,Fontibón,Reclamo,Correo electrónico,35.4,38.0,4.0,Cerrada
+SD-00559,2025-06-04,Suba,Petición,Presencial,9.2,,5.0,Cerrada
+SD-00560,2025-01-22,Fontibón,Petición,Presencial,48.5,77.0,2.0,Cerrada
+SD-00561,2025-05-23,Chapinero,Trámite,Teléfono,13.0,78.0,5.0,Cerrada
+SD-00562,2025-10-08,Usme,Petición,Presencial,51.0,38.0,2.0,Cerrada
+SD-00563,2025-09-12,La Candelaria,Reclamo,Correo electrónico,22.0,47.0,5.0,Cerrada
+SD-00564,2025-04-08,Suba,Petición,Web,18.5,34.0,4.0,Cerrada
+SD-00565,2025-10-04,Suba,Queja,Correo electrónico,86.2,82.0,4.0,Pendiente
+SD-00566,2025-05-23,Barrios Unidos,Trámite,Teléfono,39.4,76.0,6.0,Cerrada
+SD-00567,2025-06-17,Los Mártires,Reclamo,Teléfono,53.5,29.0,3.0,Cerrada
+SD-00568,2025-02-01,Usaquén,Trámite,Presencial,35.7,34.0,4.0,Cerrada
+SD-00569,2025-12-30,Kennedy,Petición,Teléfono,18.5,55.0,5.0,Cerrada
+SD-00570,2025-11-03,Engativá,Reclamo,Web,40.8,46.0,4.0,Cerrada
+SD-00571,2025-03-13,Bosa,Trámite,Teléfono,63.9,49.0,4.0,Cerrada
+SD-00572,2025-07-24,La Candelaria,Queja,Web,28.5,43.0,3.0,Cerrada
+SD-00573,2025-10-12,Fontibón,Petición,Web,99.6,63.0,5.0,Cerrada
+SD-00574,2025-07-04, Los Mártires ,Trámite,Web,48.8,79.0,,Cerrada
+SD-00575,2025-03-18,La Candelaria,Queja,Web,30.2,80.0,3.0,Trasladada
+SD-00576,2025-12-20,Engativá,Reclamo,Web,31.1,,5.0,Cerrada
+SD-00577,2025-04-09,rafael uribe uribe,Trámite,Teléfono,28.6,74.0,4.0,Cerrada
+SD-00578,2025-05-03,Suba,Petición,Web,10.1,65.0,4.0,Cerrada
+SD-00579,2025-05-16,La Candelaria,Queja,Teléfono,24.1,31.0,5.0,Cerrada
+SD-00580,2025-11-22,Bosa,Petición,Web,30.4,71.0,4.0,En trámite
+SD-00581,2025-07-02,Fontibón,Queja,Teléfono,18.9,,5.0,Cerrada
+SD-00582,2025-09-20,Engativá,Petición,Teléfono,33.2,60.0,5.0,Cerrada
+SD-00583,2025-11-25, Chapinero ,Solicitud de información,Web,26.2,67.0,4.0,Cerrada
+SD-00584,2025-12-05,Kennedy,Petición,Teléfono,46.1,,3.0,Cerrada
+SD-00585,2025-11-09,Ciudad Bolívar,Solicitud de información,Correo electrónico,42.4,82.0,1.0,Pendiente
+SD-00586,2025-11-28,Suba,Petición,Teléfono,,72.0,4.0,Cerrada
+SD-00587,2025-12-13,San Cristóbal,Queja,Web,9.2,52.0,1.0,En trámite
+SD-00588,2025-12-28,Bosa,Queja,Presencial,98.8,45.0,2.0,Cerrada
+SD-00589,2025-08-23,San Cristóbal,Solicitud de información,Teléfono,23.2,48.0,4.0,Pendiente
+SD-00590,2025-02-18,USAQUÉN,Reclamo,Web,24.3,82.0,,Cerrada
+SD-00591,2025-02-11,Ciudad Bolívar,Queja,Teléfono,19.9,31.0,3.0,Cerrada
+SD-00592,2025-10-18,Kennedy,Trámite,Web,17.9,53.0,5.0,En trámite
+SD-00593,2025-04-26,Bosa,Reclamo,Teléfono,361.6,64.0,5.0,Cerrada
+SD-00594,2025-10-21,Suba,Petición,Web,72.9,19.0,5.0,Cerrada
+SD-00595,2025-12-08,Usaquén,Trámite,Web,36.0,61.0,5.0,Trasladada
+SD-00596,2025-08-24,Tunjuelito,Queja,Correo electrónico,23.8,35.0,5.0,Cerrada
+SD-00597,2025-10-06,Teusaquillo,Petición,Teléfono,41.0,37.0,3.0,En trámite
+SD-00598,2025-04-12,Suba,Reclamo,Correo electrónico,27.3,60.0,4.0,Cerrada
+SD-00599,2025-06-08,Sumapaz,Petición,Correo electrónico,22.4,18.0,5.0,En trámite
+SD-00600,2025-12-19,Suba,Petición,Web,33.2,28.0,4.0,Pendiente
+SD-00601,fecha no registrada,Fontibón,Solicitud de información,Web,18.5,48.0,5.0,Cerrada
+SD-00602,2025-03-16,Los Mártires,Petición,Web,31.2,57.0,5.0,Cerrada
+SD-00603,2025-12-08,Rafael Uribe Uribe,Solicitud de información,Presencial,30.1,25.0,3.0,Cerrada
+SD-00604,2025-07-02,Teusaquillo,Trámite,Web,40.5,42.0,3.0,Cerrada
+SD-00605,2025-11-05,Ciudad Bolívar,Reclamo,Correo electrónico,,38.0,4.0,En trámite
+SD-00606,2025-07-10,antonio nariño,Solicitud de información,Web,43.9,54.0,1.0,Cerrada
+SD-00607,2025-08-09,Rafael Uribe Uribe,Solicitud de información,Web,13.1,38.0,4.0,Cerrada
+SD-00608,2025-03-01,Santa Fe,Trámite,Web,16.8,18.0,5.0,Cerrada
+SD-00609,2025-05-04,Teusaquillo,Queja,Web,17.3,54.0,,Cerrada
+SD-00610,2025-09-21,Kennedy,Petición,Web,11.5,75.0,3.0,En trámite
+SD-00611,2025-11-04, Engativá ,Reclamo,Presencial,55.2,57.0,5.0,Cerrada
+SD-00612,2025-02-02,Suba,Reclamo,Web,12.5,42.0,2.0,Cerrada
+SD-00613,2025-01-29,Ciudad Bolívar,Petición,Presencial,15.3,50.0,5.0,En trámite
+SD-00614,2025-09-10,Sumapaz,Reclamo,Correo electrónico,66.1,27.0,2.0,Pendiente
+SD-00615,2025-06-13,Tunjuelito,Petición,Presencial,16.8,34.0,5.0,Cerrada
+SD-00616,2025-11-06,Teusaquillo,Trámite,Presencial,22.4,47.0,4.0,Pendiente
+SD-00617,2025-01-25,Los Mártires,Petición,Web,12.1,58.0,4.0,Cerrada
+SD-00618,2025-05-08,bosa,Petición,Web,48.2,51.0,4.0,En trámite
+SD-00619,2025-01-13,Santa Fe,Petición,Web,48.7,83.0,3.0,Cerrada
+SD-00620,2025-09-16,Usaquén,Petición,Correo electrónico,44.9,61.0,4.0,Cerrada
+SD-00621,2025-11-10,Antonio Nariño,Petición,Presencial,38.6,19.0,5.0,Cerrada
+SD-00622,2025-02-27,Fontibón,Petición,Web,27.3,53.0,5.0,Cerrada
+SD-00623,2025-04-29,SUMAPAZ,Petición,Web,17.4,57.0,3.0,Cerrada
+SD-00624,2025-11-05,FONTIBÓN,Petición,Teléfono,14.0,20.0,4.0,Cerrada
+SD-00625,2025-01-16,Ciudad Bolívar,Queja,Presencial,67.9,44.0,5.0,Cerrada
+SD-00626,2025-12-14,Kennedy,Queja,Presencial,45.8,77.0,5.0,Cerrada
+SD-00627,2025-11-20,Antonio Nariño,Queja,Correo electrónico,15.3,42.0,4.0,Cerrada
+SD-00628,2025-02-25,Chapinero,Queja,Presencial,26.6,49.0,1.0,Cerrada
+SD-00629,2025-02-20,Engativá,Petición,Presencial,20.6,33.0,5.0,
+SD-00630,2025-09-10,Puente Aranda,Petición,Web,11.1,23.0,4.0,Trasladada
+SD-00631,2025-01-04,Ciudad Bolívar,Petición,Web,29.5,39.0,4.0,Cerrada
+SD-00632,2025-07-04,Puente Aranda,Solicitud de información,Correo electrónico,18.9,70.0,5.0,Cerrada
+SD-00633,2025-01-25,,Trámite,Presencial,12.6,84.0,3.0,Cerrada
+SD-00634,2025-07-13,Kennedy,Trámite,Web,8.5,62.0,5.0,Cerrada
+SD-00635,2025-05-08,Usaquén,Reclamo,Presencial,8.0,74.0,2.0,Pendiente
+SD-00636,2025-09-15,Chapinero,Reclamo,Web,19.5,,5.0,Cerrada
+SD-00637,2025-11-18,Barrios Unidos,Queja,Teléfono,24.2,62.0,5.0,Cerrada
+SD-00638,2025-06-28,Teusaquillo,Solicitud de información,Web,13.4,47.0,5.0,Cerrada
+SD-00639,2025-08-23,Antonio Nariño,Solicitud de información,Teléfono,42.0,22.0,5.0,Cerrada
+SD-00640,2025-08-08,Rafael Uribe Uribe,Solicitud de información,Presencial,24.6,45.0,5.0,Pendiente
+SD-00641,2025-12-26,Teusaquillo,Trámite,Web,39.8,76.0,3.0,Cerrada
+SD-00642,2025-03-26,Puente Aranda,Queja,Web,22.5,54.0,5.0,Cerrada
+SD-00643,2025-03-29,Usaquén,Solicitud de información,Teléfono,14.3,69.0,5.0,Cerrada
+SD-00644,2025-05-19,Usme,Solicitud de información,Web,28.1,21.0,4.0,Pendiente
+SD-00645,2025-09-26,SUBA,Queja,Web,10.0,31.0,4.0,Cerrada
+SD-00646,2025-11-12,La Candelaria,Trámite,Teléfono,38.7,38.0,2.0,En trámite
+SD-00647,2025-04-12,Usaquén,Petición,Web,12.8,42.0,4.0,Pendiente
+SD-00648,2025-02-10,Engativá,Trámite,Web,51.4,85.0,5.0,Cerrada
+SD-00649,2025-08-11,Barrios Unidos,Solicitud de información,Web,20.0,49.0,4.0,Pendiente
+SD-00650,2025-08-07,Usaquén,Petición,Teléfono,57.2,63.0,4.0,Cerrada
+SD-00651,2025-05-17,Kennedy,Reclamo,Web,11.1,61.0,4.0,Cerrada
+SD-00652,2025-03-09,Rafael Uribe Uribe,Petición, WEB ,15.5,46.0,1.0,Cerrada
+SD-00653,2025-11-07,Barrios Unidos,Solicitud de información,Web,34.3,83.0,5.0,Cerrada
+SD-00654,2025-11-05,Usme,Solicitud de información,Web,62.0,33.0,3.0,Cerrada
+SD-00655,2025-09-30,La Candelaria,Reclamo,Web,90.0,20.0,2.0,Cerrada
+SD-00656,2025-07-31,Bosa,Trámite,Web,26.6,68.0,1.0,Cerrada
+SD-00657,2025-04-06,La Candelaria,Petición,Web,102.3,62.0,5.0,Cerrada
+SD-00658,2025-05-28,Bosa,Petición,Web,20.8,35.0,5.0,Cerrada
+SD-00659,2025-01-25,Suba,Queja,Teléfono,58.8,77.0,2.0,Cerrada
+SD-00660,2025-04-02,Kennedy,Petición,Web,12.7,29.0,2.0,Cerrada
+SD-00661,2025-06-14,Tunjuelito,Queja,Web,35.3,35.0,4.0,Trasladada
+SD-00662,2025-06-09,Rafael Uribe Uribe,Petición,Correo electrónico,4.5,28.0,3.0,Pendiente
+SD-00663,2025-01-30,San Cristóbal,Queja,Correo electrónico,11.1,30.0,5.0,Cerrada
+SD-00664,2025-12-16,Chapinero,Queja,Presencial,36.6,67.0,1.0,Cerrada
+SD-00665,2025-04-08,Bosa,Trámite,Web,9.6,65.0,4.0,Cerrada
+SD-00666,2025-07-05,Teusaquillo,Petición,Web,35.5,61.0,4.0,En trámite
+SD-00667,2025-06-19,Puente Aranda,Trámite,Web,50.9,76.0,4.0,Cerrada
+SD-00668,2025-06-21,Sumapaz,Queja,Web,17.7,22.0,4.0,En trámite
+SD-00669,2025-11-05,Bosa,Queja,Web,12.5,60.0,2.0,Cerrada
+SD-00670,2025-09-30,Kennedy,Reclamo,Presencial,18.1,25.0,3.0,Cerrada
+SD-00671,2025-11-13,Santa Fe,Queja,Web,12.5,82.0,2.0,En trámite
+SD-00672,2025-05-19,Suba,Petición,Presencial,23.9,61.0,2.0,Cerrada
+SD-00673,2025-04-07,Sumapaz,Reclamo,Web,27.8,69.0,5.0,En trámite
+SD-00674,2025-06-06,Teusaquillo,Petición,Web,20.5,56.0,3.0,Cerrada
+SD-00675,2025-07-24,Suba,Queja,Teléfono,90.5,44.0,3.0,Cerrada
+SD-00676,2025-05-03,Kennedy,Reclamo,Teléfono,15.0,64.0,,Cerrada
+SD-00677,2025-06-17,Ciudad Bolívar,Queja,Web,,74.0,5.0,Cerrada
+SD-00678,2025-02-25,FONTIBÓN,Solicitud de información,Presencial,11.8,30.0,5.0,Cerrada
+SD-00679,2025-08-02,Santa Fe,Petición,Web,27.2,77.0,5.0,Cerrada
+SD-00680,2025-09-18,Kennedy,Trámite,Web,62.6,67.0,4.0,Cerrada
+SD-00681,2025-07-12,Chapinero,Solicitud de información,Teléfono,60.3,,5.0,Cerrada
+SD-00682,2025-11-15,Usme,Trámite,Web,18.8,81.0,4.0,Cerrada
+SD-00683,2025-12-30,Usaquén,Solicitud de información,Web,39.1,30.0,5.0,Cerrada
+SD-00684,2025-11-27,Fontibón,Petición,Presencial,35.4,58.0,5.0,En trámite
+SD-00685,2025-02-03,Suba,Reclamo,Web,17.2,26.0,1.0,Cerrada
+SD-00686,2025-11-18,Bosa,Petición,Web,40.9,31.0,4.0,Pendiente
+SD-00687,2025-05-02,Kennedy,Solicitud de información,Web,104.3,61.0,3.0,Cerrada
+SD-00688,2025-06-14,Ciudad Bolívar,Reclamo,Correo electrónico,36.7,64.0,2.0,Cerrada
+SD-00689,2025-05-31,Los Mártires,Petición,Presencial,39.4,64.0,5.0,Pendiente
+SD-00690,2025-04-14,Engativá,Trámite,Web,42.7,41.0,,Cerrada
+SD-00691,2025-11-17,Tunjuelito,Petición,Web,8.6,73.0,5.0,Cerrada
+SD-00692,2025-08-21,Rafael Uribe Uribe,Reclamo,Presencial,36.4,21.0,5.0,En trámite
+SD-00693,2025-12-19,Usme,Solicitud de información,Web,,76.0,4.0,Cerrada
+SD-00694,2025-12-15,Bosa,Petición,Presencial,16.6,38.0,4.0,En trámite
+SD-00695,2025-06-03,Rafael Uribe Uribe,Reclamo,Teléfono,130.5,60.0,4.0,Pendiente
+SD-00696,2025-09-23,Engativá,Solicitud de información,Web,21.3,79.0,5.0,Trasladada
+SD-00697,2025-07-03,Los Mártires,Petición,Web,14.8,35.0,3.0,Cerrada
+SD-00698,2025-06-30,Suba,Reclamo,Web,61.2,45.0,3.0,Cerrada
+SD-00699,2025-09-27,Suba,Petición,Web,12.7,74.0,4.0,En trámite
+SD-00700,2025-09-09,Bosa,Solicitud de información,Web,18.4,76.0,5.0,Cerrada
+SD-00701,2025-11-29,usme,Petición,Correo electrónico,65.8,,3.0,Cerrada
+SD-00702,2025-10-09,Bosa,Trámite,Web,26.6,,4.0,Cerrada
+SD-00703,2025-08-16,San Cristóbal,Trámite,Presencial,8.0,40.0,,Cerrada
+SD-00704,2025-12-02,Rafael Uribe Uribe,Petición,Presencial,38.8,53.0,3.0,Cerrada
+SD-00705,2025-02-07,Tunjuelito,Queja,Web,19.2,43.0,2.0,Cerrada
+SD-00706,2025-10-06,Engativá,Reclamo,Web,81.9,18.0,4.0,Cerrada
+SD-00707,2025-05-24,Antonio Nariño,Solicitud de información,Web,16.4,80.0,1.0,Cerrada
+SD-00708,2025-06-08,Antonio Nariño,Queja,Presencial,56.7,61.0,3.0,Pendiente
+SD-00709,2025-10-13,Kennedy,Petición,Web,97.7,49.0,4.0,Cerrada
+SD-00710,2025-04-10,Fontibón,Petición,Teléfono,13.6,25.0,4.0,Cerrada
+SD-00711,2025-11-19,Sumapaz,Trámite,Teléfono,22.3,22.0,4.0,Cerrada
+SD-00712,2025-07-02,Barrios Unidos,Queja,Teléfono,34.5,50.0,4.0,Cerrada
+SD-00713,2025-05-08,Puente Aranda,Trámite,Correo electrónico,13.6,62.0,4.0,Trasladada
+SD-00714,2025-04-30,Rafael Uribe Uribe,Reclamo,Teléfono,31.6,35.0,4.0,Pendiente
+SD-00715,2025-06-03,Antonio Nariño,Trámite,Teléfono,21.8,68.0,5.0,Cerrada
+SD-00716,2025-12-11,San Cristóbal,Petición,Teléfono,21.5,44.0,5.0,Cerrada
+SD-00717,2025-02-07,Engativá,Petición,Teléfono,26.8,18.0,4.0,Cerrada
+SD-00718,2025-07-05,Chapinero,Trámite,Teléfono,27.2,54.0,5.0,Cerrada
+SD-00719,2025-11-01,Suba,Trámite,Correo electrónico,29.2,30.0,5.0,Cerrada
+SD-00720,2025-06-22,Ciudad Bolívar,Queja,Web,16.5,18.0,2.0,Cerrada
+SD-00721,2025-07-26,Engativá,Queja,Presencial,17.0,26.0,5.0,Cerrada
+SD-00722,2025-05-08,Kennedy,Queja,Presencial,23.6,37.0,5.0,Cerrada
+SD-00723,2025-02-19,Usaquén,Queja,Teléfono,24.9,53.0,3.0,Cerrada
+SD-00724,2025-08-22,Ciudad Bolívar,Petición,Web,18.6,85.0,1.0,Cerrada
+SD-00725,2025-12-02,Chapinero,Trámite,Teléfono,32.9,32.0,4.0,Cerrada
+SD-00726,2025-07-09,Usaquén,Petición,Teléfono,6.6,21.0,4.0,Cerrada
+SD-00727,2025-06-07,Usme,Solicitud de información,Correo electrónico,14.9,31.0,5.0,Cerrada
+SD-00728,2025-02-17,Chapinero,Petición,Web,20.9,39.0,4.0,Cerrada
+SD-00729,2025-12-11,Fontibón,Petición,Teléfono,13.6,31.0,2.0,Cerrada
+SD-00730,2025-11-14,Engativá,Reclamo,Teléfono,87.5,39.0,3.0,Cerrada
+SD-00731,2025-11-26,Bosa,Queja,Correo electrónico,26.2,83.0,5.0,En trámite
+SD-00732,2025-05-12,Usaquén,Reclamo,Correo electrónico,29.4,43.0,1.0,Pendiente
+SD-00733,2025-08-17,Santa Fe,Petición,Presencial,17.9,61.0,5.0,Cerrada
+SD-00734,2025-06-07,Kennedy,Trámite,Presencial,25.5,64.0,3.0,Cerrada
+SD-00735,2025-03-27,Chapinero,Solicitud de información,Web,10.4,26.0,4.0,En trámite
+SD-00736,2025-03-17,Barrios Unidos,Trámite,Correo electrónico,,34.0,4.0,Cerrada
+SD-00737,2025-05-21,Usme,Petición,Web,12.8,46.0,3.0,Cerrada
+SD-00738,2025-07-21,Bosa,Queja,Teléfono,20.9,49.0,4.0,Cerrada
+SD-00739,2025-02-14,Kennedy,Queja,Teléfono,3.8,18.0,5.0,Cerrada
+SD-00740,2025-09-14,Kennedy,Reclamo,Web,11.1,61.0,2.0,Cerrada
+SD-00741,2025-06-17,Usaquén,Queja,Web,77.3,,4.0,Cerrada
+SD-00742,2025-11-18,Santa Fe,Petición,Web,48.1,39.0,5.0,Cerrada
+SD-00743,2025-04-12,Rafael Uribe Uribe,Queja,Teléfono,69.4,59.0,5.0,Cerrada
+SD-00744,2025-01-19,Usaquén,Petición,Presencial,73.0,82.0,4.0,Cerrada
+SD-00745,2025-04-24,Engativá,Queja,Web,42.7,76.0,5.0,Cerrada
+SD-00746,2025-12-22,Fontibón,Petición,Teléfono,18.4,84.0,2.0,Cerrada
+SD-00747,2025-04-28,Bosa,Petición,Web,11.8,46.0,2.0,Cerrada
+SD-00748,2025-09-14,Kennedy,Reclamo,Teléfono,61.0,26.0,,Cerrada
+SD-00749,2025-11-04,Antonio Nariño,Queja,Web,27.1,32.0,5.0,Cerrada
+SD-00750,2025-04-14,La Candelaria,Queja,Web,167.4,41.0,5.0,En trámite
+SD-00751,2025-08-23,Tunjuelito,Reclamo,Web,19.6,38.0,3.0,Cerrada
+SD-00752,2025-03-16,Bosa,Solicitud de información,Presencial,113.3,-5.0,4.0,Cerrada
+SD-00753,2025-05-13,USME,Queja,Web,22.9,28.0,4.0,Cerrada
+SD-00754,2025-04-19,Fontibón,Reclamo,Teléfono,70.2,30.0,3.0,En trámite
+SD-00755,2025-09-03,Barrios Unidos,Trámite,Web,92.1,62.0,4.0,En trámite
+SD-00756,2025-11-16,usme,Reclamo,Web,12.0,51.0,4.0,Pendiente
+SD-00757,2025-04-03,Bosa,Trámite,Web,17.9,20.0,3.0,Cerrada
+SD-00758,2025-04-17,Ciudad Bolívar,Solicitud de información,Web,11.9,,4.0,Cerrada
+SD-00759,2025-10-27,usaquén,Petición,Correo electrónico,10.3,75.0,3.0,Cerrada
+SD-00760,2025-06-18,Fontibón,Queja,Web,42.5,46.0,5.0,Cerrada
+SD-00761,2025-07-07,Teusaquillo,Solicitud de información,Correo electrónico,22.3,,3.0,Cerrada
+SD-00762,2025-09-15,San Cristóbal,Trámite,Web,26.8,36.0,2.0,Cerrada
+SD-00763,2025-02-20,Usaquén,Queja,Web,39.1,43.0,1.0,Cerrada
+SD-00764,2025-11-15,Santa Fe,Petición,Web,6.4,36.0,1.0,Pendiente
+SD-00765,2025-05-14,Ciudad Bolívar,Reclamo,Web,67.7,80.0,3.0,Cerrada
+SD-00766,2025-08-29,Usaquén,Petición,Teléfono,19.8,85.0,4.0,Cerrada
+SD-00767,2025-06-07,San Cristóbal,Solicitud de información,Presencial,38.4,41.0,1.0,Cerrada
+SD-00768,2025-10-02,Usaquén,Reclamo,Web,41.1,80.0,3.0,Pendiente
+SD-00769,2025-08-12,Santa Fe,Solicitud de información,Presencial,72.1,76.0,1.0,Pendiente
+SD-00770,2025-03-05,Suba,Trámite,Presencial,23.8,,4.0,Cerrada
+SD-00771,2025-03-10,Usme,Reclamo,Correo electrónico,5.2,51.0,1.0,Trasladada
+SD-00772,2025-11-17,Engativá,Reclamo,Correo electrónico,26.9,62.0,4.0,Pendiente
+SD-00773,2025-07-09,Suba,Solicitud de información,Presencial,dato pendiente,46.0,,En trámite
+SD-00774,,La Candelaria,Solicitud de información,Teléfono,11.9,49.0,5.0,Pendiente
+SD-00775,2025-02-22,Usaquén,Trámite,Teléfono,28.8,51.0,3.0,Cerrada
+SD-00776,2025-02-16,La Candelaria,Petición,Presencial,19.7,64.0,5.0,En trámite
+SD-00777,2025-12-02,Suba,Reclamo,Teléfono,9.4,37.0,5.0,Cerrada
+SD-00778,2025-12-23,San Cristóbal,Petición,Web,681.2,58.0,1.0,En trámite
+SD-00779,2025-05-24,Antonio Nariño,Trámite,Teléfono,16.9,34.0,0.0,Cerrada
+SD-00780,2025-03-15,La Candelaria,Reclamo,Correo electrónico,19.0,78.0,5.0,En trámite
+SD-00781,2025-06-02,Tunjuelito,Queja,Web,18.2,23.0,3.0,Trasladada
+SD-00782,2025-02-19,Ciudad Bolívar,Petición,Teléfono,65.1,22.0,4.0,Cerrada
+SD-00783,2025-07-20,Fontibón,Queja,Correo electrónico,25.0,20.0,4.0,Trasladada
+SD-00784,2025-08-17,Suba,Solicitud de información,Web,27.4,41.0,1.0,Cerrada
+SD-00785,2025-12-26,Sumapaz,Petición,Presencial,18.5,59.0,5.0,Cerrada
+SD-00786,2025-04-27,Kennedy,Petición,Correo electrónico,36.5,,3.0,Cerrada
+SD-00787,2025-03-14,Puente Aranda,Trámite,Correo electrónico,71.0,48.0,1.0,En trámite
+SD-00788,2025-02-18,Bosa,Solicitud de información,Web,41.9,30.0,1.0,Cerrada
+SD-00789,2025-05-18,Antonio Nariño,Petición,Web,43.2,43.0,4.0,Cerrada
+SD-00790,2025-08-08,Suba,Queja,Presencial,40.6,26.0,5.0,Cerrada
+SD-00791,2025-01-25,Usme,Trámite,Web,9.2,50.0,5.0,Cerrada
+SD-00792,2025-10-05,Kennedy,Solicitud de información,Web,13.4,67.0,5.0,Cerrada
+SD-00793,2025-06-17,Bosa,Reclamo,Web,22.1,20.0,4.0,Pendiente
+SD-00794,2025-10-17,Chapinero,Queja,Web,15.0,70.0,4.0,En trámite
+SD-00795,,Usaquén,Queja,Presencial,11.6,33.0,4.0,En trámite
+SD-00796,2025-02-26,Bosa,Petición,Presencial,6.3,63.0,1.0,Cerrada
+SD-00797,2025-01-08,Usaquén,Solicitud de información,Presencial,9.4,73.0,5.0,Trasladada
+SD-00798,2025-07-23,San Cristóbal,Petición,Teléfono,21.3,70.0,4.0,Cerrada
+SD-00799,2025-07-16,,Petición,Web,24.5,63.0,4.0,Cerrada
+SD-00800,2025-10-24,Teusaquillo,Solicitud de información,Web,14.2,65.0,4.0,Cerrada
+SD-00801,2025-11-17,Teusaquillo,Trámite,Web,27.4,30.0,5.0,Cerrada
+SD-00802,2025-02-28,Bosa,Solicitud de información,Web,18.6,27.0,3.0,Cerrada
+SD-00803,2025-04-25,Rafael Uribe Uribe,Reclamo,Web,58.4,43.0,5.0,En trámite
+SD-00804,2025-03-17,Suba,Reclamo,Web,22.8,59.0,5.0,Cerrada
+SD-00805,2025-02-08,Santa Fe,Queja,Web,43.5,60.0,5.0,Cerrada
+SD-00806,2025-01-01,Santa Fe,Queja,Web,30.0,70.0,1.0,Cerrada
+SD-00807,2025-01-31,Barrios Unidos,Reclamo,Presencial,9.0,38.0,3.0,Trasladada
+SD-00808,2025-07-11,San Cristóbal,Queja,Presencial,24.1,76.0,4.0,Cerrada
+SD-00809,2025-02-25,Engativá,Reclamo,Correo electrónico,10.2,48.0,5.0,Cerrada
+SD-00810,2025-03-13,Sumapaz,Trámite,Teléfono,23.8,34.0,5.0,Cerrada
+SD-00811,2025-02-13,Usaquén,Trámite,Presencial,14.7,68.0,4.0,Cerrada
+SD-00812,2025-09-22,Usaquén,Petición,Web,34.3,26.0,3.0,Cerrada
+SD-00813,2025-08-21,Sumapaz,Queja,Presencial,9.4,45.0,3.0,Cerrada
+SD-00814,2025-12-18,Suba,Petición, WEB ,26.1,71.0,4.0,Cerrada
+SD-00815,2025-02-10,Santa Fe,Queja,Web,39.6,70.0,3.0,Cerrada
+SD-00816,2025-03-18,Rafael Uribe Uribe,Queja,Web,50.9,35.0,4.0,Cerrada
+SD-00817,fecha no registrada,Rafael Uribe Uribe,Petición,Web,14.5,29.0,5.0,Cerrada
+SD-00818,2025-08-25,Engativá,Solicitud de información,Web,26.1,20.0,4.0,Pendiente
+SD-00819,2025-02-17, Suba ,Reclamo,Presencial,29.6,24.0,4.0,Cerrada
+SD-00820,2025-03-19,,Trámite,Teléfono,82.3,74.0,1.0,Cerrada
+SD-00821,2025-06-03,Usaquén,Petición,Teléfono,8.5,71.0,3.0,Cerrada
+SD-00822,2025-01-07,Suba,Petición,Presencial,13.0,52.0,5.0,Cerrada
+SD-00823,2025-05-25,Bosa,Queja,Presencial,,56.0,4.0,Pendiente
+SD-00824,2025-10-04,Barrios Unidos,Petición,Web,21.0,40.0,2.0,Cerrada
+SD-00825,2025-07-12,Puente Aranda,Petición,Teléfono,6.2,31.0,2.0,Cerrada
+SD-00826,2025-06-08,Usaquén,Trámite,Presencial,16.7,18.0,,Cerrada
+SD-00827,2025-06-28,Suba,Petición,Web,3.2,63.0,4.0,Cerrada
+SD-00828,2025-12-12,Usme,Petición,Web,30.9,20.0,4.0,Pendiente
+SD-00829,2025-07-09,Rafael Uribe Uribe,Reclamo,Correo electrónico,47.3,25.0,,Cerrada
+SD-00830,2025-07-15,Tunjuelito,Reclamo,Presencial,13.0,71.0,4.0,Cerrada
+SD-00831,2025-12-06,Suba,Reclamo,Web,18.1,57.0,2.0,En trámite
+SD-00832,2025-02-27,Engativá,Queja, PRESENCIAL ,51.6,51.0,4.0,En trámite
+SD-00833,2025-02-05,Kennedy,Solicitud de información,Web,6.9,32.0,1.0,Cerrada
+SD-00834,2025-06-14,Barrios Unidos,Petición,Web,9.6,,5.0,Cerrada
+SD-00835,2025-04-27,TEUSAQUILLO,Queja,Web,21.7,49.0,1.0,Cerrada
+SD-00836,2025-03-16,Engativá,Solicitud de información,Web,14.7,42.0,4.0,En trámite
+SD-00837,2025-02-13,Los Mártires,Trámite,Presencial,,54.0,1.0,En trámite
+SD-00838,2025-11-17,Sumapaz,Queja,Web,10.0,29.0,5.0,En trámite
+SD-00839,2025-08-13,Kennedy,Reclamo,Teléfono,30.3,33.0,3.0,En trámite
+SD-00840,2025-09-10,Engativá,Petición,Web,23.1,25.0,5.0,Cerrada
+SD-00841,,Usaquén,Petición,Presencial,38.9,46.0,1.0,Cerrada
+SD-00842,2025-05-05,Antonio Nariño,Petición,Presencial,30.0,36.0,5.0,Cerrada
+SD-00843,2025-08-15,Engativá,Solicitud de información,Presencial,30.1,33.0,4.0,Pendiente
+SD-00844,2025-07-12,Kennedy,Queja,Presencial,8.7,55.0,3.0,Cerrada
+SD-00845,2025-09-11,Chapinero,Solicitud de información,Correo electrónico,37.3,145.0,3.0,Cerrada
+SD-00846,2025-09-02,Rafael Uribe Uribe,Petición,Presencial,20.1,32.0,4.0,Cerrada
+SD-00847,2025-05-31,Kennedy,Trámite,Teléfono,22.8,65.0,5.0,En trámite
+SD-00848,2025-10-13,Barrios Unidos,Solicitud de información,Teléfono,56.6,41.0,5.0,En trámite
+SD-00849,2025-04-05,Santa Fe,Petición,Web,15.0,41.0,3.0,En trámite
+SD-00850,2025-01-30,Ciudad Bolívar,Petición,Web,71.1,50.0,4.0,Cerrada
+SD-00851,2025-11-30,San Cristóbal,Petición,Web,76.2,27.0,3.0,Pendiente
+SD-00852,2025-01-09,San Cristóbal,Trámite,Web,45.4,46.0,2.0,En trámite
+SD-00853,2025-04-14,La Candelaria,Petición,Web,12.4,57.0,4.0,Cerrada
+SD-00854,2025-02-11,Ciudad Bolívar,Reclamo,Web,5.0,26.0,4.0,Cerrada
+SD-00855,2025-03-26,Usme,Queja,Presencial,57.9,56.0,3.0,Pendiente
+SD-00856,2025-05-25,Fontibón,Solicitud de información,Web,28.0,20.0,5.0,Pendiente
+SD-00857,2025-02-17,Teusaquillo,Reclamo,Teléfono,14.7,59.0,5.0,Cerrada
+SD-00858,2025-06-20,Rafael Uribe Uribe,Reclamo,Web,62.2,20.0,5.0,Cerrada
+SD-00859,2025-12-05,Kennedy,Trámite,Teléfono,13.5,29.0,1.0,Cerrada
+SD-00860,2025-02-19,Engativá,Petición,Web,18.8,41.0,5.0,En trámite
+SD-00861,2025-12-05,Los Mártires,Solicitud de información,Web,38.2,59.0,4.0,Cerrada
+SD-00862,2025-05-31,Teusaquillo,Petición,Web,11.2,66.0,4.0,Cerrada
+SD-00863,2025-08-05,Antonio Nariño,Reclamo,Presencial,23.8,49.0,1.0,Cerrada
+SD-00864,2025-06-11,Engativá,Trámite,Web,58.4,26.0,5.0,Pendiente
+SD-00865,2025-04-26,Chapinero,Solicitud de información, CORREO ELECTRÓNICO ,30.2,,4.0,Pendiente
+SD-00866,2025-02-09,Rafael Uribe Uribe,Solicitud de información,Web,65.7,71.0,5.0,Trasladada
+SD-00867,2025-08-05,Rafael Uribe Uribe,Petición,Presencial,,24.0,4.0,Cerrada
+SD-00868,2025-12-01,Antonio Nariño,Queja,Web,25.9,66.0,5.0,En trámite
+SD-00869,2025-07-10,Chapinero,Queja,Presencial,4.5,44.0,5.0,En trámite
+SD-00870,2025-08-07,Usme,Reclamo,Web,11.3,18.0,,Cerrada
+SD-00871,2025-08-23,Los Mártires,Reclamo,Web,45.7,65.0,3.0,Cerrada
+SD-00872,2025-05-22,Usaquén,Queja,Web,8.1,19.0,3.0,Trasladada
+SD-00873,2025-02-14,Ciudad Bolívar,Queja,Web,20.2,43.0,5.0,Cerrada
+SD-00874,2025-07-05,Kennedy,Petición,Web,33.2,31.0,4.0,Cerrada
+SD-00875,2025-11-14,Teusaquillo,Queja,Correo electrónico,77.6,57.0,4.0,Cerrada
+SD-00876,2025-04-25,Rafael Uribe Uribe,Petición,Web,16.8,21.0,5.0,En trámite
+SD-00877,2025-11-15,Kennedy,Trámite,Web,15.9,24.0,4.0,Cerrada
+SD-00878,2025-11-08,Bosa,Reclamo,Correo electrónico,24.8,54.0,5.0,En trámite
+SD-00879,2025-03-31,Suba,Petición,Web,33.6,85.0,3.0,Cerrada
+SD-00880,2025-07-29,Suba,Solicitud de información, WEB ,23.0,20.0,5.0,En trámite
+SD-00881,2025-09-30,Kennedy,Solicitud de información,Teléfono,56.7,49.0,2.0,Cerrada
+SD-00882,2025-06-30,Suba,Petición,Correo electrónico,14.2,72.0,4.0,En trámite
+SD-00883,2025-09-13,Ciudad Bolívar,Petición,Teléfono,28.2,37.0,5.0,En trámite
+SD-00884,2025-11-29,Fontibón,Petición,Web,36.0,51.0,3.0,Cerrada
+SD-00885,2025-08-17,San Cristóbal,Petición,Correo electrónico,19.1,75.0,3.0,Cerrada
+SD-00886,2025-11-02,Kennedy,Solicitud de información,Web,,67.0,3.0,En trámite
+SD-00887,2025-10-20,Kennedy,Trámite,Correo electrónico,28.8,37.0,4.0,Cerrada
+SD-00888,2025-10-24,Santa Fe,Petición,Teléfono,46.6,69.0,4.0,Cerrada
+SD-00889,2025-11-08,San Cristóbal,Solicitud de información,Correo electrónico,29.8,63.0,2.0,Cerrada
+SD-00890,2025-03-24,Barrios Unidos,Petición,Web,34.2,,,Pendiente
+SD-00891,2025-01-07,Bosa,Reclamo,Web,16.0,47.0,3.0,Cerrada
+SD-00892,2025-02-25,Ciudad Bolívar,Solicitud de información,Presencial,16.1,80.0,4.0,Cerrada
+SD-00893,2025-04-02,Usme,Queja,Presencial,,77.0,4.0,Trasladada
+SD-00894,2025-09-09,Chapinero,Petición,Presencial,41.5,85.0,1.0,Cerrada
+SD-00895,2025-07-06,Los Mártires,Reclamo,Correo electrónico,12.0,63.0,2.0,Cerrada
+SD-00896,2025-06-21,Rafael Uribe Uribe,Trámite,Presencial,29.5,42.0,5.0,Cerrada
+SD-00897,2025-01-04,Tunjuelito,Petición,Web,4.3,25.0,4.0,Cerrada
+SD-00898,2025-09-07,Usme,Petición,Web,16.8,26.0,1.0,Cerrada
+SD-00899,2025-05-13,San Cristóbal,Petición,Web,53.0,82.0,5.0,En trámite
+SD-00900,2025-10-05,Engativá,Reclamo,Web,23.5,42.0,4.0,Cerrada
+SD-00901,2025-02-11,,Reclamo,Web,28.2,25.0,2.0,En trámite
+SD-00902,2025-04-18,Tunjuelito,Solicitud de información,Teléfono,2.7,33.0,5.0,Cerrada
+SD-00903,2025-01-20,Usaquén,Solicitud de información,Teléfono,19.2,19.0,4.0,Cerrada
+SD-00904,2025-04-14,Fontibón,Trámite,Presencial,dato pendiente,54.0,3.0,Cerrada
+SD-00905,2025-12-04,Ciudad Bolívar,Solicitud de información,Web,36.6,58.0,,Cerrada
+SD-00906,2025-06-29,Suba,Petición,Presencial,53.1,43.0,3.0,En trámite
+SD-00907,2025-06-10,Fontibón,Reclamo,Teléfono,22.0,68.0,3.0,Cerrada
+SD-00908,2025-04-10,Santa Fe,Queja,Correo electrónico,22.8,50.0,3.0,Cerrada
+SD-00909,2025-04-07,Tunjuelito,Queja,Presencial,9.5,83.0,5.0,Cerrada
+SD-00910,2025-09-01,Bosa,Trámite,Teléfono,22.1,69.0,5.0,En trámite
+SD-00911,2025-12-26,Los Mártires,Solicitud de información,Presencial,10.0,23.0,5.0,Cerrada
+SD-00912,2025-09-30, Rafael Uribe Uribe ,Trámite,Web,6.5,36.0,3.0,En trámite
+SD-00913,2025-09-27,Rafael Uribe Uribe,Queja,Teléfono,,69.0,5.0,Cerrada
+SD-00914,2025-06-22,Sumapaz,Reclamo,Web,80.0,54.0,4.0,Cerrada
+SD-00915,2025-02-06,Sumapaz,Reclamo,Web,21.1,69.0,3.0,En trámite
+SD-00916,2025-09-22,Ciudad Bolívar,Petición,Web,30.4,40.0,1.0,Cerrada
+SD-00917,2025-10-23,Chapinero,Petición,Presencial,17.5,20.0,5.0,Cerrada
+SD-00918,2025-07-06, Santa Fe ,Reclamo,Presencial,6.7,71.0,3.0,Trasladada
+SD-00919,2025-02-03,Bosa,Petición,Presencial,52.0,71.0,4.0,Cerrada
+SD-00920,2025-09-18,Engativá,Trámite,Web,5.1,61.0,4.0,Cerrada
+SD-00921,2025-12-03,Chapinero,Petición,Web,17.0,45.0,1.0,Cerrada
+SD-00922,2025-03-24,La Candelaria,Petición,Teléfono,24.8,18.0,5.0,Cerrada
+SD-00923,2025-02-28,Suba,Solicitud de información,Web,30.7,67.0,5.0,En trámite
+SD-00924,2025-09-27,Engativá,Petición,Correo electrónico,15.0,62.0,4.0,Cerrada
+SD-00925,2025-05-02,San Cristóbal,Trámite,Web,6.5,63.0,5.0,Pendiente
+SD-00926,2025-09-19,Tunjuelito,Solicitud de información,Presencial,14.1,29.0,4.0,Cerrada
+SD-00927,2025-09-14,San Cristóbal,Petición,Presencial,14.7,67.0,5.0,Trasladada
+SD-00928,2025-04-08,La Candelaria,Solicitud de información,Teléfono,14.4,67.0,2.0,En trámite
+SD-00929,2025-01-16,,Reclamo,Web,53.4,76.0,4.0,Pendiente
+SD-00930,2025-07-22,Teusaquillo,Solicitud de información,Correo electrónico,10.4,0.0,3.0,Cerrada
+SD-00931,2025-05-29,Bosa,Solicitud de información,Presencial,32.3,67.0,4.0,Cerrada
+SD-00932,2025-11-09,Kennedy,Solicitud de información,Presencial,29.0,,4.0,Cerrada
+SD-00933,2025-05-11,Kennedy,Reclamo,Presencial,53.0,65.0,2.0,Cerrada
+SD-00934,2025-04-02,Los Mártires,Queja,Web,23.3,65.0,5.0,Cerrada
+SD-00935,2025-11-10,Antonio Nariño,Solicitud de información,Presencial,46.7,71.0,1.0,En trámite
+SD-00936,2025-09-26,Usme,Trámite, WEB ,22.7,76.0,1.0,Cerrada
+SD-00937,2025-08-14,Ciudad Bolívar,Reclamo,Web,35.7,18.0,4.0,En trámite
+SD-00938,2025-12-15,Santa Fe,Solicitud de información,Presencial,8.4,70.0,4.0,Cerrada
+SD-00939,2025-10-13,Rafael Uribe Uribe,Queja,Presencial,3.6,71.0,3.0,Trasladada
+SD-00940,2025-11-13,Chapinero,Solicitud de información, WEB ,34.2,55.0,4.0,Cerrada
+SD-00941,2025-10-19,Tunjuelito,Trámite,Web,35.6,145.0,5.0,Cerrada
+SD-00942,2025-05-27,La Candelaria,Petición,Web,36.8,67.0,2.0,En trámite
+SD-00943,2025-01-23,San Cristóbal,Petición,Web,17.4,48.0,5.0,En trámite
+SD-00944,2025-08-10,Kennedy,Reclamo,Presencial,78.8,46.0,3.0,En trámite
+SD-00945,2025-10-07,Kennedy,Reclamo,Web,dato pendiente,72.0,4.0,Trasladada
+SD-00946,2025-12-28,Usme,Reclamo,Correo electrónico,35.4,71.0,2.0,Cerrada
+SD-00947,2025-09-06,Teusaquillo,Petición,Web,40.3,32.0,5.0,En trámite
+SD-00948,2025-07-27,La Candelaria,Queja,Web,93.6,74.0,5.0,Cerrada
+SD-00949,2025-07-30,Rafael Uribe Uribe,Reclamo,Teléfono,20.3,40.0,2.0,Cerrada
+SD-00950,2025-02-11,Bosa,Reclamo,Web,15.8,27.0,2.0,Cerrada
+SD-00951,2025-01-03,Engativá,Reclamo,Web,8.4,77.0,3.0,Cerrada
+SD-00952,2025-01-17,Usme,Solicitud de información,Correo electrónico,82.6,34.0,1.0,
+SD-00953,2025-11-27,Usme,Reclamo,Correo electrónico,35.4,31.0,5.0,En trámite
+SD-00954,2025-10-16,San Cristóbal,Solicitud de información, TELÉFONO ,36.2,36.0,4.0,Cerrada
+SD-00955,2025-04-05,Ciudad Bolívar,Reclamo,Web,267.1,51.0,4.0,Pendiente
+SD-00956,2025-06-04,Rafael Uribe Uribe,Reclamo,Presencial,32.9,29.0,5.0,Cerrada
+SD-00957,2025-06-26,Antonio Nariño,Reclamo,Correo electrónico,9.7,28.0,5.0,Cerrada
+SD-00958,2025-04-01,Engativá,Petición,Correo electrónico,22.3,44.0,5.0,Cerrada
+SD-00959,2025-06-04,Fontibón,Petición,Web,12.4,32.0,3.0,Cerrada
+SD-00960,2025-05-07,Engativá,Reclamo,Web,19.2,31.0,3.0,Cerrada
+SD-00961,2025-09-11,Engativá,Trámite,Web,19.1,80.0,3.0,En trámite
+SD-00962,2025-10-04,Kennedy,Solicitud de información,Web,16.6,58.0,4.0,Cerrada
+SD-00963,2025-02-05,Santa Fe,Petición,Presencial,9.1,18.0,4.0,Cerrada
+SD-00964,2025-06-19,Santa Fe,Reclamo,Web,85.1,24.0,2.0,En trámite
+SD-00965,2025-12-28,Ciudad Bolívar,Petición,Web,32.3,73.0,4.0,Cerrada
+SD-00966,2025-11-14,Fontibón,Solicitud de información,Web,21.8,36.0,4.0,En trámite
+SD-00967,2025-10-17,CIUDAD BOLÍVAR,Solicitud de información,Presencial,,28.0,3.0,En trámite
+SD-00968,2025-09-26,San Cristóbal,Reclamo,Web,36.7,63.0,3.0,Cerrada
+SD-00969,2025-01-02,Engativá,Reclamo,Web,31.7,74.0,4.0,Cerrada
+SD-00970,2025-12-22,Usme,Queja,Web,43.1,45.0,4.0,Cerrada
+SD-00971,2025-09-26,Tunjuelito,Queja,Correo electrónico,28.5,68.0,5.0,Cerrada
+SD-00972,2025-11-21,Usaquén,Trámite,Web,42.6,46.0,5.0,Cerrada
+SD-00973,2025-11-28,Santa Fe,Solicitud de información,Presencial,45.4,25.0,3.0,Trasladada
+SD-00974,2025-04-03,Ciudad Bolívar,Reclamo,Web,29.1,72.0,1.0,Cerrada
+SD-00975,2025-01-06,Bosa,Queja,Web,21.9,80.0,3.0,En trámite
+SD-00976,2025-08-29,Suba,Petición,Web,81.3,84.0,2.0,Cerrada
+SD-00977,2025-06-17,Fontibón,Petición,Web,18.0,24.0,4.0,Cerrada
+SD-00978,2025-01-08,,Petición,Web,34.6,56.0,5.0,Cerrada
+SD-00979,2025-04-09,Engativá,Queja,Presencial,35.2,60.0,3.0,Cerrada
+SD-00980,2025-12-28,San Cristóbal,Trámite,Presencial,16.3,23.0,3.0,Trasladada
+SD-00981,2025-05-13,Sumapaz,Reclamo,Web,14.1,82.0,5.0,Cerrada
+SD-00982,2025-04-06,Puente Aranda,Petición,Web,19.8,,4.0,Cerrada
+SD-00983,2025-08-27,Los Mártires,Petición,Presencial,17.8,36.0,1.0,Cerrada
+SD-00984,2025-08-31,Fontibón,Queja,Web,8.6,83.0,3.0,Cerrada
+SD-00985,2025-05-02,San Cristóbal,Solicitud de información,Web,15.8,55.0,5.0,Pendiente
+SD-00986,2025-11-06,Ciudad Bolívar,Queja,Web,31.5,64.0,2.0,Pendiente
+SD-00987,2025-07-31,Bosa,Solicitud de información,Web,66.7,51.0,4.0,Pendiente
+SD-00988,2025-02-28,Usaquén,Solicitud de información,Web,39.1,69.0,5.0,Cerrada
+SD-00989,2025-04-29,Bosa,Petición,Correo electrónico,3.7,23.0,3.0,Cerrada
+SD-00990,2025-11-06,Antonio Nariño,Reclamo,Correo electrónico,41.7,63.0,5.0,En trámite
+SD-00991,2025-02-02,Suba,Trámite,Correo electrónico,17.0,22.0,3.0,Cerrada
+SD-00992,2025-01-05,Los Mártires,Queja,Web,36.2,30.0,3.0,En trámite
+SD-00993,2025-08-28,Antonio Nariño,Petición,Web,25.5,52.0,3.0,Cerrada
+SD-00994,2025-06-11,Usme,Trámite,Web,22.3,48.0,5.0,Cerrada
+SD-00995,2025-04-03,Ciudad Bolívar,Trámite, WEB ,23.9,28.0,3.0,Pendiente
+SD-00996,2025-06-22,Kennedy,Reclamo,Web,,72.0,2.0,Cerrada
+SD-00997,2025-03-09,Suba,Reclamo,Web,70.7,38.0,5.0,Trasladada
+SD-00998,2025-05-17,Usaquén,Petición,Web,25.4,76.0,3.0,Cerrada
+SD-00999,2025-03-27,Sumapaz,Solicitud de información,Web,58.2,19.0,5.0,Cerrada
+SD-01000,2025-08-03, Tunjuelito ,Reclamo,Web,52.2,34.0,4.0,Cerrada
+SD-01001,2025-09-03,Chapinero,Petición,Teléfono,42.5,38.0,4.0,Cerrada
+SD-01002,2025-11-30,Fontibón,Solicitud de información,Web,6.8,58.0,5.0,Cerrada
+SD-01003,2025-01-25,Santa Fe,Trámite,Teléfono,59.6,45.0,5.0,Cerrada
+SD-01004,2025-04-30,San Cristóbal,Solicitud de información,Web,18.3,28.0,2.0,Cerrada
+SD-01005,2025-04-07,Suba,Petición,Presencial,44.1,56.0,5.0,Pendiente
+SD-01006,2025-07-31,Kennedy,Petición,Web,12.4,83.0,5.0,Cerrada
+SD-01007,2025-07-14,Ciudad Bolívar,Trámite,Presencial,10.6,27.0,5.0,Cerrada
+SD-01008,2025-11-17,Bosa,Trámite,Web,113.6,35.0,4.0,Cerrada
+SD-01009,2025-12-02,Teusaquillo,Reclamo,Web,12.6,50.0,4.0,En trámite
+SD-01010,2025-10-10,Fontibón,Reclamo,Presencial,60.9,67.0,4.0,Cerrada
+SD-01011,2025-03-14,Suba,Reclamo,Web,28.2,27.0,1.0,Cerrada
+SD-01012,2025-01-15,Suba,Queja,Web,18.8,33.0,4.0,Cerrada
+SD-01013,2025-11-25,Fontibón,Petición,Correo electrónico,24.9,33.0,4.0,Cerrada
+SD-01014,2025-12-11,Ciudad Bolívar,Petición,Web,9.7,59.0,4.0,Cerrada
+SD-01015,2025-04-02,Bosa,Petición,Presencial,25.5,23.0,3.0,Cerrada
+SD-01016,2025-01-18,San Cristóbal,Solicitud de información,Presencial,,62.0,4.0,Trasladada
+SD-01017,2025-09-06,Barrios Unidos,Petición,Web,19.2,46.0,4.0,Cerrada
+SD-01018,2025-08-03,La Candelaria,Petición,Web,51.6,40.0,4.0,Cerrada
+SD-01019,2025-11-21,Usaquén,Reclamo,Web,31.2,76.0,5.0,Cerrada
+SD-01020,2025-07-30,Kennedy,Petición,Teléfono,8.5,73.0,5.0,Cerrada
+SD-01021,2025-10-05,Rafael Uribe Uribe,Petición,Web,48.8,72.0,1.0,Cerrada
+SD-01022,2025-10-15,Los Mártires,Reclamo,Web,25.7,78.0,1.0,Cerrada
+SD-01023,2025-01-04,Sumapaz,Queja,Web,17.2,33.0,5.0,Cerrada
+SD-01024,2025-02-24,engativá,Reclamo,Correo electrónico,45.2,76.0,4.0,En trámite
+SD-01025,2025-10-12,Suba,Trámite,Teléfono,22.8,29.0,5.0,Cerrada
+SD-01026,2025-03-07,Bosa,Petición,Correo electrónico,10.8,40.0,3.0,Pendiente
+SD-01027,2025-03-17,Ciudad Bolívar,Trámite,Presencial,103.1,55.0,1.0,Cerrada
+SD-01028,2025-10-02,Kennedy,Trámite,Presencial,25.5,68.0,4.0,Cerrada
+SD-01029,2025-03-16,Teusaquillo,Solicitud de información,Presencial,24.3,57.0,5.0,Trasladada
+SD-01030,2025-02-24,Kennedy,Reclamo,Correo electrónico,dato pendiente,56.0,5.0,En trámite
+SD-01031,2025-01-05,Engativá,Reclamo,Presencial,62.5,43.0,5.0,Cerrada
+SD-01032,2025-06-21,Teusaquillo,Reclamo,Web,17.4,58.0,4.0,Pendiente
+SD-01033,2025-08-21,Engativá,Solicitud de información,Presencial,614.5,50.0,5.0,Cerrada
+SD-01034,2025-09-25,Rafael Uribe Uribe,Petición,Presencial,15.5,50.0,2.0,Cerrada
+SD-01035,2025-11-27,Kennedy,Trámite,Web,69.8,57.0,4.0,En trámite
+SD-01036,2025-08-26,Suba,Reclamo,Web,48.1,58.0,5.0,En trámite
+SD-01037,2025-10-04,Bosa,Solicitud de información,Web,,40.0,4.0,Cerrada
+SD-01038,2025-03-18,Kennedy,Queja,Teléfono,72.2,,5.0,Cerrada
+SD-01039,2025-05-05,Kennedy,Petición,Web,45.2,38.0,3.0,Cerrada
+SD-01040,,Santa Fe,Reclamo, TELÉFONO ,21.1,45.0,2.0,Cerrada
+SD-01041,2025-01-24,,Reclamo,Web,22.8,28.0,4.0,Trasladada
+SD-01042,2025-12-20,Barrios Unidos,Queja,Teléfono,33.0,30.0,5.0,Cerrada
+SD-01043,2025-03-30,Suba,Queja,Web,13.8,82.0,3.0,Cerrada
+SD-01044,,Barrios Unidos,Petición,Correo electrónico,25.9,37.0,5.0,Cerrada
+SD-01045,2025-05-11,Usaquén,Reclamo,Presencial,32.5,68.0,3.0,Cerrada
+SD-01046,2025-01-17,Bosa,Queja,Web,7.3,26.0,5.0,Cerrada
+SD-01047,2025-11-26,San Cristóbal,Trámite,Web,22.4,84.0,,Trasladada
+SD-01048,2025-03-22,Antonio Nariño,Petición,Web,20.5,32.0,3.0,Cerrada
+SD-01049,2025-02-06,Rafael Uribe Uribe,Queja,Web,55.8,44.0,5.0,En trámite
+SD-01050,2025-05-05,Usme,Queja,Teléfono,6.5,71.0,5.0,Cerrada
+SD-01051,2025-02-22,Barrios Unidos,Reclamo,Correo electrónico,19.4,31.0,4.0,Cerrada
+SD-01052,2025-12-31,Santa Fe,Reclamo,Presencial,18.0,55.0,3.0,Cerrada
+SD-01053,2025-03-10,Tunjuelito,Reclamo,Presencial,53.0,71.0,2.0,Cerrada
+SD-01054,2025-04-21,SANTA FE,Trámite,Web,25.0,19.0,5.0,Cerrada
+SD-01055,2025-04-09,Tunjuelito,Queja,Teléfono,99.2,19.0,4.0,En trámite
+SD-01056,2025-01-10,Barrios Unidos,Solicitud de información,Teléfono,42.4,71.0,5.0,Pendiente
+SD-01057,2025-01-05,Ciudad Bolívar,Petición,Web,19.0,35.0,5.0,Cerrada
+SD-01058,2025-07-07,Usme,Petición,Correo electrónico,30.9,79.0,5.0,Cerrada
+SD-01059,2025-03-26,Engativá,Reclamo,Web,19.8,81.0,3.0,En trámite
+SD-01060,2025-01-31,Teusaquillo,Petición,Teléfono,49.1,77.0,4.0,
+SD-01061,2025-04-17,Ciudad Bolívar,Reclamo,Correo electrónico,9.5,85.0,4.0,Pendiente
+SD-01062,2025-04-11,Suba,Solicitud de información,Teléfono,13.9,73.0,2.0,Cerrada
+SD-01063,2025-06-04,Tunjuelito,Solicitud de información,Web,36.3,44.0,2.0,Cerrada
+SD-01064,2025-12-29,Suba,Reclamo,Presencial,64.7,85.0,4.0,Cerrada
+SD-01065,2025-04-23,Bosa,Reclamo,Web,4.9,,5.0,Pendiente
+SD-01066,2025-09-15,Ciudad Bolívar,Queja,Teléfono,72.3,57.0,4.0,Cerrada
+SD-01067,2025-10-08,Kennedy,Petición,Web,23.2,18.0,1.0,En trámite
+SD-01068,fecha no registrada,Barrios Unidos,Petición,Presencial,6.3,83.0,5.0,Cerrada
+SD-01069,2025-07-02,Usaquén,Reclamo,Correo electrónico,412.5,58.0,2.0,Cerrada
+SD-01070,2025-06-13,Kennedy,Trámite,Web,8.2,82.0,3.0,Pendiente
+SD-01071,2025-07-05,Rafael Uribe Uribe,Petición,Web,25.4,41.0,5.0,Cerrada
+SD-01072,2025-03-04,Suba,Reclamo, PRESENCIAL ,24.5,39.0,5.0,Cerrada
+SD-01073,2025-06-19,Kennedy,Solicitud de información,Web,41.5,53.0,5.0,Cerrada
+SD-01074,2025-02-14,Ciudad Bolívar,Solicitud de información,Web,17.1,76.0,5.0,Pendiente
+SD-01075,2025-12-12,La Candelaria,Reclamo,Web,11.2,55.0,4.0,Cerrada
+SD-01076,2025-08-03,Bosa,Reclamo,Web,18.9,71.0,3.0,Cerrada
+SD-01077,2025-01-13,Engativá,Solicitud de información,Presencial,26.4,32.0,3.0,Trasladada
+SD-01078,2025-07-04,Fontibón,Trámite,Presencial,30.7,70.0,,En trámite
+SD-01079,2025-12-05,Suba,Petición,Web,,67.0,5.0,Pendiente
+SD-01080,2025-09-29,Bosa,Trámite,Web,50.7,78.0,4.0,En trámite
+SD-01081,2025-04-10,Usme,Petición,Web,16.2,21.0,,En trámite
+SD-01082,2025-11-22,Ciudad Bolívar,Solicitud de información,Web,dato pendiente,44.0,3.0,
+SD-01083,2025-03-09,Ciudad Bolívar,Petición,Teléfono,17.2,24.0,3.0,Cerrada
+SD-01084,2025-04-01,La Candelaria,Petición,Web,57.8,45.0,5.0,En trámite
+SD-01085,2025-02-26,Ciudad Bolívar,Petición,Presencial,23.3,69.0,1.0,En trámite
+SD-01086,2025-12-03,Los Mártires,Queja,Correo electrónico,15.3,61.0,4.0,Trasladada
+SD-01087,2025-09-19,Los Mártires,Queja,Presencial,51.7,69.0,5.0,Cerrada
+SD-01088,2025-07-09,Los Mártires,Petición,Presencial,128.6,68.0,4.0,Cerrada
+SD-01089,2025-09-01,Fontibón,Queja,Web,30.2,85.0,4.0,Cerrada
+SD-01090,2025-04-05,Fontibón,Queja,Web,65.1,77.0,3.0,Cerrada
+SD-01091,2025-01-26,Usme,Solicitud de información,Web,56.1,57.0,2.0,Cerrada
+SD-01092,2025-11-05,Suba,Trámite,Teléfono,16.4,77.0,3.0,En trámite
+SD-01093,2025-12-18,Tunjuelito,Reclamo,Teléfono,26.3,21.0,2.0,Cerrada
+SD-01094,2025-01-13,Tunjuelito,Petición,Web,9.9,67.0,2.0,Cerrada
+SD-01095,2025-01-19,Suba,Queja,Web,22.1,53.0,3.0,Cerrada
+SD-01096,2025-07-24,KENNEDY,Trámite,Web,16.1,83.0,3.0,Cerrada
+SD-01097,2025-01-16,Usme,Petición,Presencial,19.1,52.0,1.0,Pendiente
+SD-01098,2025-09-21,Puente Aranda,Queja,Presencial,14.7,30.0,5.0,Cerrada
+SD-01099,2025-12-12,Rafael Uribe Uribe,Trámite,Presencial,20.8,67.0,2.0,Cerrada
+SD-01100,2025-04-13,San Cristóbal,Trámite,Correo electrónico,38.4,82.0,4.0,Cerrada
+SD-01101,2025-04-18,Usaquén,Queja,Web,23.6,19.0,5.0,Cerrada
+SD-01102,2025-11-12,Bosa,Solicitud de información,Presencial,6.4,22.0,2.0,Cerrada
+SD-01103,2025-05-11,Antonio Nariño,Queja,Presencial,14.7,62.0,4.0,Pendiente
+SD-01104,2025-03-29,Puente Aranda,Solicitud de información,Web,8.3,55.0,5.0,Pendiente
+SD-01105,2025-01-31,Santa Fe,Petición,Correo electrónico,31.0,55.0,4.0,Cerrada
+SD-01106,2025-11-03,Antonio Nariño,Petición,Web,37.6,24.0,3.0,Cerrada
+SD-01107,2025-12-04,Santa Fe,Reclamo,Teléfono,31.3,56.0,5.0,Cerrada
+SD-01108,2025-01-29,Kennedy,Petición,Teléfono,14.3,56.0,5.0,Cerrada
+SD-01109,2025-10-21,Sumapaz,Solicitud de información,Correo electrónico,31.0,75.0,4.0,Cerrada
+SD-01110,2025-02-28,San Cristóbal,Queja,Presencial,18.1,44.0,1.0,En trámite
+SD-01111,2025-02-20,San Cristóbal,Trámite,Web,11.0,41.0,1.0,Cerrada
+SD-01112,2025-05-20,Kennedy,Solicitud de información,Teléfono,45.0,23.0,5.0,En trámite
+SD-01113,2025-06-09,Suba,Reclamo,Teléfono,47.6,56.0,3.0,Cerrada
+SD-01114,2025-11-08,Ciudad Bolívar,Solicitud de información,Presencial,52.5,62.0,2.0,Cerrada
+SD-01115,2025-09-13,Sumapaz,Petición,Teléfono,16.3,37.0,4.0,Cerrada
+SD-01116,2025-02-22,Chapinero,Reclamo,Web,62.5,67.0,5.0,Cerrada
+SD-01117,2025-08-02,Santa Fe,Petición,Presencial,17.8,81.0,1.0,Cerrada
+SD-01118,2025-11-16,Antonio Nariño,Trámite,Teléfono,42.1,29.0,,En trámite
+SD-01119,2025-08-30,Tunjuelito,Solicitud de información,Web,17.6,56.0,4.0,Cerrada
+SD-01120,2025-03-25,Rafael Uribe Uribe,Trámite,Presencial,21.8,65.0,4.0,Cerrada
+SD-01121,2025-02-17,Barrios Unidos,Trámite,Correo electrónico,4.2,19.0,4.0,Cerrada
+SD-01122,2025-06-15,Santa Fe,Trámite,Teléfono,20.6,30.0,5.0,Cerrada
+SD-01123,2025-06-22,Puente Aranda,Petición,Correo electrónico,27.6,44.0,1.0,Cerrada
+SD-01124,2025-05-09,San Cristóbal,Trámite,Web,19.0,27.0,4.0,Cerrada
+SD-01125,2025-02-09,Kennedy,Reclamo,Correo electrónico,96.3,42.0,4.0,Cerrada
+SD-01126,2025-02-13,Engativá,Queja,Web,10.8,28.0,4.0,Cerrada
+SD-01127,2025-07-13,Engativá,Reclamo,Presencial,16.9,78.0,4.0,En trámite
+SD-01128,2025-12-11,Barrios Unidos,Queja,Web,13.1,58.0,5.0,En trámite
+SD-01129,2025-08-07,Suba,Queja,Teléfono,16.9,40.0,3.0,Cerrada
+SD-01130,2025-06-09,Sumapaz,Petición,Correo electrónico,55.9,70.0,5.0,Cerrada
+SD-01131,2025-12-06,Sumapaz,Petición,Teléfono,78.1,,2.0,Cerrada
+SD-01132,2025-09-09,Engativá,Reclamo,Presencial,,58.0,4.0,Cerrada
+SD-01133,2025-09-20,Chapinero,Trámite,Web,15.0,64.0,4.0,Cerrada
+SD-01134,2025-07-29,Teusaquillo,Reclamo,Presencial,10.8,73.0,4.0,Cerrada
+SD-01135,2025-10-06,Ciudad Bolívar,Reclamo,Presencial,68.7,33.0,0.0,Cerrada
+SD-01136,2025-07-03,Bosa,Queja,Web,59.8,58.0,,En trámite
+SD-01137,2025-08-16,Fontibón,Reclamo,Presencial,23.8,70.0,5.0,Cerrada
+SD-01138,2025-08-14,Kennedy,Petición,Teléfono,,72.0,5.0,En trámite
+SD-01139,2025-10-02,Usaquén,Solicitud de información,Teléfono,9.7,29.0,5.0,Cerrada
+SD-01140,2025-11-24,Barrios Unidos,Petición,Teléfono,29.3,84.0,2.0,Cerrada
+SD-01141,2025-04-18,Bosa,Solicitud de información,Web,,36.0,4.0,Cerrada
+SD-01142,2025-09-13,Antonio Nariño,Solicitud de información,Presencial,5.5,44.0,3.0,En trámite
+SD-01143,2025-01-12,Puente Aranda,Reclamo,Web,20.3,31.0,5.0,En trámite
+SD-01144,2025-07-14,PUENTE ARANDA,Trámite,Web,86.8,28.0,3.0,Cerrada
+SD-01145,2025-11-25,Kennedy,Queja,Web,21.9,35.0,3.0,Cerrada
+SD-01146,2025-08-24,Bosa,Trámite,Web,78.8,27.0,5.0,Cerrada
+SD-01147,2025-04-08,Los Mártires,Solicitud de información,Web,42.0,67.0,2.0,Cerrada
+SD-01148,2025-08-10,Puente Aranda,Solicitud de información,Presencial,11.4,58.0,5.0,Cerrada
+SD-01149,2025-05-11, Fontibón ,Solicitud de información,Web,20.7,44.0,3.0,Cerrada
+SD-01150,2025-06-08,Rafael Uribe Uribe,Solicitud de información,Web,23.4,,4.0,Cerrada
+SD-01151,2025-03-25,Santa Fe,Trámite,Web,12.6,59.0,5.0,Pendiente
+SD-01152,2025-08-17,Rafael Uribe Uribe,Queja,Presencial,12.5,30.0,9.0,Cerrada
+SD-01153,2025-03-14,Chapinero,Solicitud de información,Web,79.8,38.0,3.0,Cerrada
+SD-01154,2025-06-11,San Cristóbal,Solicitud de información,Web,12.4,77.0,1.0,Cerrada
+SD-01155,2025-12-09,engativá,Queja,Presencial,57.9,18.0,1.0,Cerrada
+SD-01156,2025-10-04,,Trámite,Web,18.6,83.0,2.0,Cerrada
+SD-01157,2025-06-01,Usaquén,Queja,Correo electrónico,25.3,83.0,4.0,Pendiente
+SD-01158,2025-12-20,Usaquén,Reclamo,Web,39.3,35.0,4.0,En trámite
+SD-01159,2025-01-06,Kennedy,Petición,Web,16.5,39.0,3.0,Cerrada
+SD-01160,2025-12-17,Antonio Nariño,Petición,Web,,32.0,3.0,
+SD-01161,2025-05-09,Usaquén,Solicitud de información,Presencial,5.6,56.0,5.0,
+SD-01162,2025-10-27,Suba,Queja,Web,295.8,,2.0,Cerrada
+SD-01163,2025-12-12,Puente Aranda,Queja,Teléfono,4.0,71.0,3.0,Cerrada
+SD-01164,2025-08-08,San Cristóbal,Petición,Web,21.8,44.0,4.0,Cerrada
+SD-01165,2025-08-11,Santa Fe,Reclamo,Presencial,48.9,83.0,1.0,Cerrada
+SD-01166,2025-10-01,Rafael Uribe Uribe,Solicitud de información,Web,41.1,76.0,,En trámite
+SD-01167,2025-03-29,Puente Aranda,Trámite,Web,9.7,45.0,2.0,Cerrada
+SD-01168,2025-03-06,Engativá,Petición,Web,10.7,58.0,5.0,Pendiente
+SD-01169,2025-05-06,Puente Aranda,Reclamo,Presencial,15.4,19.0,4.0,Cerrada
+SD-01170,2025-06-24,Chapinero,Reclamo,Web,29.7,,5.0,En trámite
+SD-01171,2025-09-29,Kennedy,Reclamo,Correo electrónico,5.6,52.0,4.0,Cerrada
+SD-01172,2025-04-04,Teusaquillo,Queja,Teléfono,25.5,50.0,5.0,Pendiente
+SD-01173,2025-07-26,Tunjuelito,Queja,Correo electrónico,32.6,45.0,4.0,Cerrada
+SD-01174,2025-01-02,Los Mártires,Reclamo, WEB ,20.9,24.0,4.0,Cerrada
+SD-01175,2025-01-12,Engativá,Reclamo,Teléfono,38.2,75.0,5.0,Cerrada
+SD-01176,2025-12-19,Los Mártires,Reclamo,Presencial,30.5,45.0,4.0,Pendiente
+SD-01177,2025-11-07,Fontibón,Reclamo,Presencial,17.2,49.0,4.0,Cerrada
+SD-01178,2025-11-12,Kennedy,Solicitud de información,Correo electrónico,6.0,45.0,3.0,Cerrada
+SD-01179,2025-04-30,Usme,Solicitud de información,Presencial,28.5,51.0,3.0,En trámite
+SD-01180,2025-07-07,Usme,Queja,Correo electrónico,12.6,62.0,4.0,Cerrada
+SD-01181,2025-09-04,Los Mártires,Solicitud de información,Teléfono,16.7,69.0,1.0,Pendiente
+SD-01182,2025-04-03,Santa Fe,Trámite,Web,36.9,55.0,4.0,Cerrada
+SD-01183,2025-09-29,Chapinero,Petición,Presencial,74.7,29.0,1.0,Cerrada
+SD-01184,2025-09-10,San Cristóbal,Reclamo,Presencial,25.1,77.0,4.0,Cerrada
+SD-01185,2025-05-29,San Cristóbal,Queja,Correo electrónico,39.1,37.0,5.0,Cerrada
+SD-01186,2025-06-08,Puente Aranda,Solicitud de información,Teléfono,8.7,19.0,4.0,Cerrada
+SD-01187,2025-04-23,Kennedy,Petición,Web,31.0,20.0,5.0,Cerrada
+SD-01188,2025-10-21,Sumapaz,Solicitud de información,Web,24.7,70.0,1.0,Cerrada
+SD-01189,2025-12-27,Santa Fe,Petición,Web,64.8,44.0,1.0,En trámite
+SD-01190,2025-12-31,Suba,Reclamo,Presencial,17.2,19.0,5.0,Pendiente
+SD-01191,2025-10-09,Kennedy,Trámite,Web,21.5,73.0,5.0,Cerrada
+SD-01192,2025-05-08,Kennedy,Queja,Teléfono,57.1,38.0,5.0,Cerrada
+SD-01193,2025-10-13,Rafael Uribe Uribe,Trámite,Presencial,24.1,84.0,4.0,Cerrada
+SD-01194,2025-03-31,Ciudad Bolívar,Trámite,Teléfono,11.2,77.0,5.0,Pendiente
+SD-01195,2025-11-24,,Trámite,Web,174.8,21.0,5.0,En trámite
+SD-01196,2025-04-08,San Cristóbal,Petición,Presencial,11.5,64.0,5.0,Cerrada
+SD-01197,2025-05-28,Usme,Solicitud de información,Web,24.6,59.0,5.0,Cerrada
+SD-01198,2025-02-04,Suba,Petición,Correo electrónico,33.4,29.0,2.0,Pendiente
+SD-01199,2025-01-30,Tunjuelito,Queja,Web,31.5,41.0,2.0,Pendiente
+SD-01200,2025-05-24,Teusaquillo,Trámite,Web,22.4,51.0,,Cerrada
+SD-01201,2025-07-20,Engativá,Solicitud de información,Web,22.5,27.0,4.0,En trámite
+SD-01202,2025-01-07,Engativá,Reclamo,Teléfono,21.6,67.0,5.0,Cerrada
+SD-01203,2025-11-05,Puente Aranda,Queja,Web,11.2,36.0,3.0,Cerrada
+SD-01204,2025-02-11,Teusaquillo,Solicitud de información,Presencial,129.4,81.0,,En trámite
+SD-01205,2025-12-31,Usaquén,Solicitud de información,Teléfono,21.9,72.0,5.0,Cerrada
+SD-01206,2025-04-10,USAQUÉN,Reclamo,Teléfono,40.4,61.0,3.0,Cerrada
+SD-01207,2025-05-19,Suba,Trámite,Web,20.1,26.0,5.0,Pendiente
+SD-01208,2025-02-28,Fontibón,Petición,Web,19.8,19.0,3.0,En trámite
+SD-01209,2025-10-28,Tunjuelito,Petición,Web,18.3,27.0,4.0,Cerrada
+SD-01210,2025-09-25,Kennedy,Reclamo,Web,8.1,51.0,4.0,Cerrada
+SD-01211,2025-01-29,Los Mártires,Trámite,Presencial,22.9,71.0,3.0,En trámite
+SD-01212,2025-02-08,Puente Aranda,Petición,Web,19.0,28.0,1.0,Cerrada
+SD-01213,2025-08-11,Engativá,Petición,Web,62.1,66.0,3.0,Trasladada
+SD-01214,,kennedy,Petición,Web,10.5,21.0,3.0,En trámite
+SD-01215,2025-02-10,Tunjuelito,Trámite,Presencial,16.7,36.0,3.0,Cerrada
+SD-01216,2025-03-22,Engativá,Petición,Web,13.1,,5.0,Cerrada
+SD-01217,2025-07-19,Bosa,Reclamo,Presencial,76.1,74.0,1.0,En trámite
+SD-01218,2025-02-09,Engativá,Trámite,Web,13.4,70.0,4.0,Trasladada
+SD-01219,2025-04-22,Barrios Unidos,Petición,Correo electrónico,39.3,54.0,1.0,Cerrada
+SD-01220,2025-01-04,Chapinero,Reclamo,Presencial,53.4,20.0,5.0,Cerrada
+SD-01221,2025-07-02,Usaquén,Reclamo,Web,23.1,37.0,5.0,En trámite
+SD-01222,2025-09-19,Usme,Solicitud de información,Web,9.2,71.0,5.0,Cerrada
+SD-01223,2025-05-31, Rafael Uribe Uribe ,Queja,Web,9.3,145.0,5.0,Cerrada
+SD-01224,2025-04-04,Suba,Queja,Web,49.1,66.0,3.0,Pendiente
+SD-01225,2025-06-04,San Cristóbal,Petición,Web,10.0,65.0,5.0,En trámite
+SD-01226,2025-07-05,Rafael Uribe Uribe,Solicitud de información,Teléfono,34.6,69.0,3.0,Pendiente
+SD-01227,2025-03-02,Fontibón,Solicitud de información,Presencial,28.1,32.0,5.0,Cerrada
+SD-01228,2025-02-10,Fontibón,Petición,Web,196.9,34.0,4.0,Cerrada
+SD-01229,2025-03-08,Ciudad Bolívar,Queja,Presencial,36.7,31.0,,Pendiente
+SD-01230,2025-12-26,Usaquén,Trámite,Web,12.8,44.0,5.0,Cerrada
+SD-01231,2025-09-21,Usme,Petición,Correo electrónico,12.4,53.0,5.0,Cerrada
+SD-01232,2025-02-15,Suba,Queja,Web,44.1,26.0,5.0,Pendiente
+SD-01233,2025-04-20,San Cristóbal,Reclamo,Teléfono,16.1,56.0,2.0,En trámite
+SD-01234,2025-05-31,Barrios Unidos,Queja,Teléfono,3.3,34.0,,Pendiente
+SD-01235,2025-03-08,Usme,Petición,Web,42.0,56.0,3.0,Cerrada
+SD-01236,2025-11-07,Chapinero,Reclamo,Web,11.9,38.0,4.0,Trasladada
+SD-01237,2025-12-10,Usme,Petición,Web,36.6,82.0,4.0,Cerrada
+SD-01238,,Kennedy,Reclamo,Teléfono,73.3,39.0,3.0,En trámite
+SD-01239,2025-01-07,San Cristóbal,Solicitud de información,Presencial,26.1,77.0,5.0,Pendiente
+SD-01240,2025-04-08,Santa Fe,Reclamo,Presencial,54.4,29.0,3.0,Cerrada
+SD-01241,,Rafael Uribe Uribe,Petición,Teléfono,28.9,23.0,5.0,En trámite
+SD-01242,2025-10-23,Bosa,Solicitud de información,Teléfono,84.8,30.0,5.0,Cerrada
+SD-01243,2025-05-04,Kennedy,Petición, WEB ,11.6,46.0,4.0,En trámite
+SD-01244,2025-04-10,Usaquén,Solicitud de información,Presencial,25.6,79.0,4.0,Pendiente
+SD-01245,2025-04-01,Bosa,Queja,Teléfono,42.7,29.0,3.0,En trámite
+SD-01246,2025-01-02,Tunjuelito,Solicitud de información,Web,22.4,71.0,2.0,Cerrada
+SD-01247,2025-01-06,Suba,Petición,Teléfono,61.2,65.0,5.0,Cerrada
+SD-01248,2025-06-06,Usme,Petición,Web,18.7,,4.0,Trasladada
+SD-01249,2025-08-14,Rafael Uribe Uribe,Reclamo,Web,121.8,40.0,1.0,Trasladada
+SD-01250,2025-01-05,Ciudad Bolívar,Petición,Teléfono,126.7,82.0,5.0,Trasladada
+SD-01251,2025-03-15,Chapinero,Petición,Web,31.9,66.0,4.0,Cerrada
+SD-01252,2025-11-29,Chapinero,Solicitud de información, WEB ,39.0,34.0,5.0,Cerrada
+SD-01253,2025-12-28,Santa Fe,Solicitud de información,Web,,80.0,4.0,En trámite
+SD-01254,2025-08-23,Suba,Petición,Presencial,10.6,45.0,5.0,En trámite
+SD-01255,2025-07-10,Santa Fe,Trámite,Teléfono,9.6,23.0,3.0,Cerrada
+SD-01256,2025-08-01,La Candelaria,Solicitud de información,Web,66.2,,3.0,Cerrada
+SD-01257,2025-05-16,Los Mártires,Trámite,Web,31.7,77.0,5.0,Cerrada
+SD-01258,2025-03-15,Puente Aranda,Solicitud de información,Web,21.8,48.0,5.0,Cerrada
+SD-01259,2025-05-18,Engativá,Solicitud de información,Correo electrónico,26.0,65.0,4.0,Cerrada
+SD-01260,2025-09-13,Sumapaz,Reclamo,Web,4.3,33.0,2.0,Cerrada
+SD-01261,2025-08-30,Usaquén,Reclamo,Correo electrónico,22.4,75.0,3.0,Cerrada
+SD-01262,2025-09-05,Kennedy,Trámite,Correo electrónico,14.7,43.0,5.0,Pendiente
+SD-01263,2025-08-11,Bosa,Petición,Web,51.3,36.0,5.0,En trámite
+SD-01264,2025-01-23,Ciudad Bolívar,Queja,Teléfono,54.4,52.0,4.0,Pendiente
+SD-01265,2025-08-17,Suba,Petición,Presencial,39.7,36.0,2.0,Cerrada
+SD-01266,2025-11-18,Puente Aranda,Trámite,Presencial,34.7,60.0,4.0,Cerrada
+SD-01267,,San Cristóbal,Queja,Web,8.4,68.0,5.0,Cerrada
+SD-01268,2025-07-31,Ciudad Bolívar,Solicitud de información,Teléfono,40.2,45.0,4.0,Cerrada
+SD-01269,2025-03-23,Fontibón,Solicitud de información,Teléfono,41.3,71.0,4.0,Cerrada
+SD-01270,2025-10-17,Fontibón,Trámite,Teléfono,65.6,47.0,5.0,En trámite
+SD-01271,2025-06-14,Ciudad Bolívar,Petición,Correo electrónico,126.3,83.0,,En trámite
+SD-01272,2025-04-06,Kennedy,Solicitud de información,Web,7.2,35.0,4.0,Pendiente
+SD-01273,2025-06-28,Kennedy,Trámite,Teléfono,19.3,65.0,9.0,Cerrada
+SD-01274,2025-02-14,Suba,Petición,Teléfono,14.8,54.0,4.0,Cerrada
+SD-01275,2025-12-05,Santa Fe,Solicitud de información,Web,29.4,82.0,5.0,Cerrada
+SD-01276,2025-09-14,Bosa,Queja,Web,26.1,32.0,4.0,Cerrada
+SD-01277,2025-04-30,San Cristóbal,Reclamo,Web,21.6,31.0,4.0,En trámite
+SD-01278,2025-10-17,Chapinero,Reclamo,Teléfono,55.7,76.0,2.0,Cerrada
+SD-01279,2025-01-20,Rafael Uribe Uribe,Petición,Web,11.3,,,En trámite
+SD-01280,2025-05-21,Suba,Petición,Teléfono,11.8,68.0,2.0,Cerrada
+SD-01281,2025-08-26,Bosa,Petición,Web,12.0,50.0,1.0,Trasladada
+SD-01282,2025-01-09,Kennedy,Petición,Web,19.7,45.0,4.0,Trasladada
+SD-01283,2025-09-16,Kennedy,Reclamo,Presencial,10.3,63.0,4.0,Cerrada
+SD-01284,2025-10-26,Suba,Queja,Web,24.9,68.0,5.0,Pendiente
+SD-01285,2025-08-05,Ciudad Bolívar,Petición,Correo electrónico,22.8,36.0,5.0,Cerrada
+SD-01286,2025-03-17,Ciudad Bolívar,Solicitud de información,Web,14.3,18.0,5.0,En trámite
+SD-01287,2025-10-01,Kennedy,Solicitud de información,Correo electrónico,49.7,23.0,4.0,Pendiente
+SD-01288,2025-05-04,Bosa,Reclamo,Web,24.7,41.0,4.0,En trámite
+SD-01289,2025-09-26,Fontibón,Trámite,Correo electrónico,57.2,64.0,5.0,En trámite
+SD-01290,2025-08-18,Engativá,Queja,Presencial,22.3,47.0,4.0,Cerrada
+SD-01291,2025-02-04,Fontibón,Solicitud de información,Web,25.3,60.0,5.0,En trámite
+SD-01292,2025-02-06,Suba,Petición,Web,16.9,49.0,4.0,En trámite
+SD-01293,2025-01-06,Engativá,Solicitud de información,Web,25.7,35.0,3.0,Cerrada
+SD-01294,2025-01-27,Bosa,Trámite,Presencial,44.0,68.0,,Cerrada
+SD-01295,2025-04-20,Bosa,Solicitud de información,Teléfono,18.9,67.0,3.0,En trámite
+SD-01296,2025-01-10,Kennedy,Reclamo,Web,38.0,83.0,1.0,Cerrada
+SD-01297,2025-12-09,Chapinero,Reclamo,Web,14.0,74.0,3.0,
+SD-01298,2025-12-01,San Cristóbal,Queja,Presencial,,43.0,3.0,Pendiente
+SD-01299,2025-03-05,teusaquillo,Solicitud de información,Presencial,16.7,65.0,4.0,Cerrada
+SD-01300,2025-04-24,Kennedy,Solicitud de información,Presencial,48.9,41.0,5.0,Cerrada
+SD-01301,2025-09-28,Usme,Trámite,Web,27.0,77.0,4.0,Cerrada
+SD-01302,2025-08-30,Engativá,Reclamo,Teléfono,80.7,59.0,5.0,Cerrada
+SD-01303,2025-08-01,Los Mártires,Petición,Correo electrónico,10.9,74.0,4.0,En trámite
+SD-01304,2025-12-28,Tunjuelito,Reclamo,Web,8.5,37.0,1.0,Cerrada
+SD-01305,2025-08-18,Puente Aranda,Petición,Web,16.2,19.0,3.0,Cerrada
+SD-01306,2025-09-02,Ciudad Bolívar,Petición,Web,9.1,27.0,5.0,En trámite
+SD-01307,2025-07-03,Suba,Queja,Presencial,9.1,,4.0,En trámite
+SD-01308,2025-07-11,Barrios Unidos,Solicitud de información, WEB ,41.1,83.0,5.0,En trámite
+SD-01309,2025-04-17,Usaquén,Petición,Correo electrónico,25.7,60.0,3.0,Cerrada
+SD-01310,2025-07-10,Ciudad Bolívar,Petición,Presencial,18.0,73.0,5.0,En trámite
+SD-01311,2025-12-02,Kennedy,Petición,Presencial,19.3,49.0,5.0,Cerrada
+SD-01312,2025-05-18,Ciudad Bolívar,Trámite,Teléfono,16.5,83.0,5.0,Cerrada
+SD-01313,2025-02-18,Suba,Solicitud de información,Web,88.9,81.0,1.0,En trámite
+SD-01314,2025-08-07,Usaquén,Petición,Teléfono,14.9,32.0,5.0,En trámite
+SD-01315,2025-10-14,Usaquén,Petición,Web,9.6,76.0,4.0,Cerrada
+SD-01316,2025-12-16,Barrios Unidos,Reclamo,Presencial,46.9,19.0,5.0,En trámite
+SD-01317,2025-07-17,,Queja,Correo electrónico,21.9,58.0,4.0,Cerrada
+SD-01318,2025-10-15,Usaquén,Reclamo,Teléfono,119.0,47.0,4.0,Cerrada
+SD-01319,2025-04-02,Los Mártires,Queja,Teléfono,17.4,38.0,4.0,Cerrada
+SD-01320,2025-06-04,La Candelaria,Trámite,Web,48.6,81.0,5.0,Cerrada
+SD-01321,,Fontibón,Queja,Teléfono,58.1,63.0,3.0,En trámite
+SD-01322,2025-05-02,Fontibón,Solicitud de información,Presencial,17.4,27.0,4.0,Pendiente
+SD-01323,2025-09-19,Usaquén,Petición,Presencial,14.8,27.0,4.0,En trámite
+SD-01324,2025-11-19,Antonio Nariño,Trámite, WEB ,45.0,25.0,5.0,Cerrada
+SD-01325,2025-04-30,Bosa,Trámite,Web,39.7,38.0,4.0,Cerrada
+SD-01326,2025-02-19,Rafael Uribe Uribe,Solicitud de información,Presencial,9.0,22.0,5.0,Cerrada
+SD-01327,2025-10-29,Kennedy,Reclamo,Web,11.1,35.0,4.0,En trámite
+SD-01328,2025-11-07,Engativá,Petición,Teléfono,3.8,70.0,4.0,Cerrada
+SD-01329,2025-12-08,Tunjuelito,Solicitud de información,Teléfono,40.3,77.0,4.0,Cerrada
+SD-01330,2025-04-04,San Cristóbal,Solicitud de información,Correo electrónico,21.2,71.0,5.0,En trámite
+SD-01331,2025-09-20,Antonio Nariño,Petición,Web,22.8,51.0,5.0,En trámite
+SD-01332,2025-09-19,Fontibón,Queja,Correo electrónico,7.3,65.0,4.0,Cerrada
+SD-01333,2025-10-16,Engativá,Reclamo,Web,11.3,82.0,3.0,Cerrada
+SD-01334,2025-10-22,Ciudad Bolívar,Solicitud de información,Web,18.0,21.0,4.0,Cerrada
+SD-01335,2025-12-14,Ciudad Bolívar,Solicitud de información,Teléfono,15.6,79.0,2.0,Cerrada
+SD-01336,2025-06-24,La Candelaria,Reclamo,Web,28.2,67.0,3.0,Cerrada
+SD-01337,2025-01-28,San Cristóbal,Reclamo,Web,39.9,44.0,5.0,Pendiente
+SD-01338,2025-03-12,Suba,Petición,Web,141.5,48.0,4.0,Cerrada
+SD-01339,2025-11-20,Rafael Uribe Uribe,Queja,Presencial,dato pendiente,47.0,4.0,Cerrada
+SD-01340,2025-11-05,Kennedy,Petición, TELÉFONO ,59.5,28.0,5.0,Cerrada
+SD-01341,2025-01-05,Chapinero,Solicitud de información,Web,13.8,145.0,3.0,Cerrada
+SD-01342,2025-05-15,Puente Aranda,Queja,Web,7.3,38.0,1.0,Cerrada
+SD-01343,2025-03-31,Fontibón,Queja,Presencial,19.8,18.0,2.0,Cerrada
+SD-01344,2025-04-28,Engativá,Petición,Web,7.8,52.0,3.0,Cerrada
+SD-01345,2025-08-22,Sumapaz,Petición,Teléfono,26.1,50.0,5.0,Cerrada
+SD-01346,2025-07-06,Suba,Reclamo,Correo electrónico,14.4,40.0,5.0,Pendiente
+SD-01347,2025-06-25,Kennedy,Petición,Teléfono,6.0,29.0,4.0,Trasladada
+SD-01348,2025-06-08,Kennedy,Petición,Teléfono,94.8,83.0,3.0,Cerrada
+SD-01349,2025-08-23,Kennedy,Solicitud de información,Presencial,17.2,64.0,4.0,Cerrada
+SD-01350,2025-09-07,Santa Fe,Queja,Teléfono,7.6,50.0,1.0,En trámite
+SD-01351,2025-01-16,Antonio Nariño,Queja,Web,50.6,67.0,5.0,Trasladada
+SD-01352,2025-02-20,Puente Aranda,Queja,Web,14.9,43.0,4.0,Pendiente
+SD-01353,2025-05-05,Tunjuelito,Solicitud de información,Presencial,58.4,32.0,1.0,Cerrada
+SD-01354,2025-06-09,Bosa,Queja,Web,14.9,63.0,5.0,Cerrada
+SD-01355,2025-12-30,Rafael Uribe Uribe,Solicitud de información,Correo electrónico,17.2,70.0,5.0,Cerrada
+SD-01356,2025-11-22,Usaquén,Trámite,Presencial,33.4,62.0,3.0,En trámite
+SD-01357,2025-08-25,Engativá,Solicitud de información,Correo electrónico,40.2,56.0,4.0,Cerrada
+SD-01358,2025-01-14,Fontibón,Queja, WEB ,45.9,18.0,4.0,Cerrada
+SD-01359,2025-02-06,Barrios Unidos,Solicitud de información,Presencial,24.1,61.0,,Cerrada
+SD-01360,2025-06-16,San Cristóbal,Queja,Teléfono,38.3,60.0,3.0,Cerrada
+SD-01361,2025-08-03,Barrios Unidos,Queja,Web,45.1,46.0,5.0,Cerrada
+SD-01362,2025-08-30,Kennedy,Reclamo,Presencial,30.0,34.0,5.0,Cerrada
+SD-01363,2025-02-21,Suba,Queja,Presencial,23.2,84.0,4.0,Cerrada
+SD-01364,2025-11-21,Usaquén,Petición,Correo electrónico,8.7,43.0,4.0,En trámite
+SD-01365,2025-06-30,Fontibón,Queja,Teléfono,40.4,36.0,4.0,En trámite
+SD-01366,2025-08-05,Engativá,Petición,Web,26.6,66.0,4.0,Cerrada
+SD-01367,2025-01-15,Usme,Queja,Web,18.9,50.0,1.0,En trámite
+SD-01368,2025-10-28, Santa Fe ,Reclamo,Presencial,67.2,55.0,4.0,En trámite
+SD-01369,2025-07-18,san cristóbal,Trámite,Web,8.8,,,Cerrada
+SD-01370,2025-03-23,Bosa,Petición,Web,88.5,43.0,5.0,Cerrada
+SD-01371,2025-04-27,Chapinero,Reclamo,Web,25.4,28.0,5.0,Cerrada
+SD-01372,2025-05-09,Ciudad Bolívar,Queja,Web,32.7,29.0,2.0,Cerrada
+SD-01373,2025-01-10,Kennedy,Petición,Presencial,19.2,81.0,4.0,Cerrada
+SD-01374,2025-12-10,Puente Aranda,Petición,Web,7.4,52.0,4.0,Cerrada
+SD-01375,2025-10-21,Ciudad Bolívar,Petición,Presencial,23.2,46.0,3.0,Cerrada
+SD-01376,2025-11-20,Chapinero,Petición,Web,33.2,39.0,3.0,Cerrada
+SD-01377,2025-05-10,Suba,Petición,Teléfono,42.8,67.0,5.0,Cerrada
+SD-01378,2025-07-23,Rafael Uribe Uribe,Queja,Web,22.2,80.0,4.0,Cerrada
+SD-01379,2025-06-17,Suba,Reclamo,Correo electrónico,5.0,70.0,4.0,En trámite
+SD-01380,2025-06-23,Kennedy,Petición,Web,8.1,54.0,3.0,Cerrada
+SD-01381,2025-08-03,Kennedy,Petición,Presencial,120.2,50.0,,Cerrada
+SD-01382,2025-06-14,Usaquén,Petición,Web,11.4,76.0,1.0,Cerrada
+SD-01383,2025-10-10,Engativá,Reclamo,Web,75.2,76.0,2.0,En trámite
+SD-01384,2025-01-22,Sumapaz,Queja,Web,12.8,44.0,4.0,Trasladada
+SD-01385,2025-03-12,Ciudad Bolívar,Reclamo,Teléfono,22.5,83.0,3.0,Cerrada
+SD-01386,2025-11-22,Usaquén,Petición,Correo electrónico,41.2,74.0,5.0,Cerrada
+SD-01387,2025-11-19,Teusaquillo,Petición,Web,13.9,75.0,4.0,Cerrada
+SD-01388,2025-10-26,Bosa,Trámite,Web,85.1,21.0,2.0,Cerrada
+SD-01389,2025-05-15,Rafael Uribe Uribe,Petición,Teléfono,27.3,26.0,1.0,Pendiente
+SD-01390,2025-06-16,Usaquén,Petición,Presencial,36.4,38.0,5.0,Cerrada
+SD-01391,2025-01-10,Ciudad Bolívar,Petición,Web,21.1,69.0,3.0,Trasladada
+SD-01392,2025-04-12,Puente Aranda,Trámite,Teléfono,42.3,,3.0,Cerrada
+SD-01393,2025-09-23,Santa Fe,Reclamo,Presencial,84.3,23.0,4.0,Cerrada
+SD-01394,2025-05-06,Usaquén,Reclamo,Presencial,23.4,20.0,3.0,Pendiente
+SD-01395,2025-06-25,Puente Aranda,Trámite,Web,94.4,31.0,4.0,Cerrada
+SD-01396,2025-02-14,San Cristóbal,Petición,Web,16.3,80.0,4.0,En trámite
+SD-01397,2025-07-01,Engativá,Trámite,Web,45.7,67.0,2.0,Cerrada
+SD-01398,2025-09-21,Ciudad Bolívar,Petición,Teléfono,37.2,66.0,5.0,Pendiente
+SD-01399,2025-07-28,Engativá,Reclamo,Web,11.6,37.0,,Cerrada
+SD-01400,2025-07-23,Kennedy,Queja,Teléfono,480.4,60.0,4.0,Cerrada
+SD-01401,2025-11-30,Kennedy,Queja,Teléfono,25.9,70.0,1.0,En trámite
+SD-01402,2025-03-27,Chapinero,Trámite,Teléfono,13.6,54.0,4.0,Cerrada
+SD-01403,2025-04-20,Ciudad Bolívar,Petición,Web,33.7,76.0,3.0,Cerrada
+SD-01404,2025-08-16,Bosa,Trámite,Web,28.8,56.0,4.0,En trámite
+SD-01405,2025-06-25,San Cristóbal,Queja,Web,24.4,40.0,3.0,Cerrada
+SD-01406,2025-12-24,Tunjuelito,Reclamo,Presencial,24.5,61.0,5.0,
+SD-01407,2025-01-22,Ciudad Bolívar,Trámite,Correo electrónico,24.1,,3.0,Cerrada
+SD-01408,2025-02-14,Chapinero,Petición,Web,19.6,74.0,5.0,Cerrada
+SD-01409,2025-05-05,Rafael Uribe Uribe,Trámite,Teléfono,28.6,51.0,5.0,Cerrada
+SD-01410,2025-06-17,Teusaquillo,Reclamo,Web,15.9,58.0,4.0,
+SD-01411,2025-11-22,Puente Aranda,Solicitud de información,Web,189.2,84.0,3.0,Trasladada
+SD-01412,2025-06-30,Ciudad Bolívar,Petición,Web,9.0,68.0,4.0,Cerrada
+SD-01413,2025-06-09,La Candelaria,Reclamo,Teléfono,16.6,52.0,5.0,Cerrada
+SD-01414,2025-03-02,Ciudad Bolívar,Solicitud de información,Web,17.6,37.0,4.0,Cerrada
+SD-01415,2025-06-08,Santa Fe,Queja,Web,119.1,79.0,4.0,Cerrada
+SD-01416,2025-07-14,Antonio Nariño,Petición,Teléfono,9.6,84.0,1.0,Cerrada
+SD-01417,2025-08-02,,Petición,Presencial,35.5,22.0,,En trámite
+SD-01418,2025-08-10,Engativá,Trámite,Web,31.1,20.0,2.0,En trámite
+SD-01419,2025-06-06,Rafael Uribe Uribe,Petición,Web,33.1,25.0,1.0,Pendiente
+SD-01420,2025-02-27,Ciudad Bolívar,Solicitud de información,Presencial,65.2,44.0,3.0,Cerrada
+SD-01421,2025-02-25,Teusaquillo,Trámite,Web,64.2,28.0,4.0,Cerrada
+SD-01422,2025-02-26,Fontibón,Petición,Web,18.4,77.0,5.0,Cerrada
+SD-01423,2025-08-14,Fontibón,Petición,Presencial,29.8,80.0,5.0,En trámite
+SD-01424,2025-11-09,Kennedy,Solicitud de información,Web,6.4,30.0,3.0,Cerrada
+SD-01425,2025-11-19,Kennedy,Petición,Presencial,27.8,74.0,4.0,Cerrada
+SD-01426,2025-04-24,Kennedy,Reclamo,Web,14.2,27.0,5.0,Cerrada
+SD-01427,2025-01-30,Chapinero,Solicitud de información,Web,22.4,71.0,4.0,En trámite
+SD-01428,,Chapinero,Reclamo,Web,7.3,42.0,3.0,En trámite
+SD-01429,2025-01-15,Antonio Nariño,Queja,Web,34.9,20.0,4.0,Pendiente
+SD-01430,2025-08-17,Kennedy,Solicitud de información,Web,7.2,47.0,4.0,Cerrada
+SD-01431,2025-05-20,Ciudad Bolívar,Reclamo,Web,28.8,73.0,5.0,Trasladada
+SD-01432,2025-11-03,Suba,Petición,Correo electrónico,10.3,81.0,,Cerrada
+SD-01433,2025-08-17,Usaquén,Reclamo,Teléfono,13.6,26.0,1.0,Cerrada
+SD-01434,2025-09-28,San Cristóbal,Trámite,Web,61.3,74.0,5.0,Cerrada
+SD-01435,2025-05-29,Usme,Solicitud de información,Presencial,40.1,37.0,3.0,Cerrada
+SD-01436,2025-11-03,Ciudad Bolívar,Reclamo, PRESENCIAL ,61.1,49.0,5.0,Cerrada
+SD-01437,2025-07-11,Usme,Queja,Teléfono,83.1,25.0,4.0,Cerrada
+SD-01438,2025-08-17,Engativá,Petición,Web,14.4,84.0,3.0,Cerrada
+SD-01439,2025-05-12,Ciudad Bolívar,Petición,Web,79.4,71.0,4.0,Cerrada
+SD-01440,2025-06-14,Ciudad Bolívar,Petición,Web,595.4,61.0,3.0,En trámite
+SD-01441,2025-11-03,Usme,Trámite,Web,45.1,67.0,3.0,En trámite
+SD-01442,2025-05-24,Usaquén,Petición,Web,17.8,77.0,4.0,Cerrada
+SD-01443,2025-01-08,San Cristóbal,Solicitud de información,Teléfono,12.8,,5.0,Cerrada
+SD-01444,2025-05-19,Chapinero,Petición,Correo electrónico,40.9,34.0,5.0,En trámite
+SD-01445,2025-05-24,San Cristóbal,Queja,Web,52.4,20.0,,Cerrada
+SD-01446,2025-06-02,Engativá,Queja,Web,51.2,51.0,2.0,Cerrada
+SD-01447,2025-01-26,Ciudad Bolívar,Queja,Web,30.3,51.0,,Cerrada
+SD-01448,2025-02-17,Engativá,Solicitud de información,Presencial,28.5,20.0,4.0,En trámite
+SD-01449,2025-04-29,Suba,Trámite,Presencial,38.3,62.0,3.0,Cerrada
+SD-01450,2025-06-04,Usme,Trámite,Web,32.4,18.0,5.0,Cerrada
+SD-01451,2025-01-11,Puente Aranda,Petición,Teléfono,38.7,71.0,5.0,Cerrada
+SD-01452,2025-05-23,Suba,Solicitud de información,Correo electrónico,30.1,65.0,1.0,Cerrada
+SD-01453,2025-04-27,Rafael Uribe Uribe,Petición,Presencial,48.5,73.0,5.0,Cerrada
+SD-01454,2025-01-13,Ciudad Bolívar,Trámite,Presencial,7.6,26.0,4.0,Cerrada
+SD-01455,2025-04-02,Bosa,Reclamo,Presencial,23.4,77.0,3.0,Cerrada
+SD-01456,2025-04-11,Chapinero,Queja,Web,9.1,55.0,4.0,Cerrada
+SD-01457,2025-02-22,Usme,Petición,Web,31.7,76.0,2.0,Cerrada
+SD-01458,2025-10-02,Kennedy,Petición,Presencial,88.4,65.0,2.0,Cerrada
+SD-01459,2025-01-27, Ciudad Bolívar ,Petición, WEB ,18.1,62.0,5.0,En trámite
+SD-01460,2025-07-30,Kennedy,Trámite,Teléfono,28.4,20.0,4.0,Cerrada
+SD-01461,2025-08-31,Antonio Nariño,Solicitud de información, WEB ,45.5,65.0,3.0,Cerrada
+SD-01462,2025-10-22,Engativá,Trámite,Web,5.5,48.0,4.0,Cerrada
+SD-01463,2025-07-19,San Cristóbal,Petición,Web,17.4,75.0,5.0,Cerrada
+SD-01464,2025-07-18,Bosa,Reclamo,Correo electrónico,33.9,64.0,4.0,Cerrada
+SD-01465,2025-10-05,Suba,Petición,Web,,23.0,5.0,En trámite
+SD-01466,2025-11-08,Barrios Unidos,Reclamo,Web,12.4,78.0,5.0,Cerrada
+SD-01467,2025-03-18,Kennedy,Queja,Web,58.9,22.0,4.0,En trámite
+SD-01468,2025-10-18,Usme,Queja,Presencial,54.7,,5.0,Cerrada
+SD-01469,2025-06-18,Teusaquillo,Reclamo,Correo electrónico,34.1,32.0,4.0,Cerrada
+SD-01470,2025-02-05,San Cristóbal,Petición,Web,50.0,84.0,5.0,En trámite
+SD-01471,2025-08-12,Ciudad Bolívar,Reclamo,Correo electrónico,30.3,28.0,4.0,Cerrada
+SD-01472,2025-12-23,San Cristóbal,Reclamo,Web,39.1,75.0,1.0,Cerrada
+SD-01473,2025-02-21,,Petición,Presencial,20.4,33.0,3.0,Cerrada
+SD-01474,2025-01-06,Fontibón,Trámite,Web,28.1,62.0,4.0,Trasladada
+SD-01475,2025-12-01,Engativá,Reclamo,Presencial,16.1,24.0,5.0,Trasladada
+SD-01476,2025-08-06,Engativá,Solicitud de información,Presencial,66.5,44.0,5.0,Cerrada
+SD-01477,2025-03-21,Kennedy,Reclamo,Presencial,80.7,60.0,4.0,En trámite
+SD-01478,2025-10-17,Sumapaz,Solicitud de información,Web,72.6,66.0,2.0,Cerrada
+SD-01479,2025-05-24,Fontibón,Solicitud de información,Teléfono,19.0,77.0,1.0,Cerrada
+SD-01480,2025-05-02,Fontibón,Trámite,Correo electrónico,12.6,73.0,5.0,En trámite
+SD-01481,2025-04-16,Kennedy,Reclamo,Web,67.2,53.0,4.0,Cerrada
+SD-01482,2025-08-07,Chapinero,Petición,Presencial,38.8,38.0,5.0,Cerrada
+SD-01483,2025-02-19,Suba,Petición,Teléfono,33.0,35.0,3.0,En trámite
+SD-01484,2025-05-13,Usme,Reclamo,Web,16.0,85.0,4.0,Cerrada
+SD-01485,2025-04-22,Suba,Petición,Teléfono,35.5,59.0,5.0,En trámite
+SD-01486,2025-01-23,Usaquén,Petición,Web,11.4,79.0,3.0,Cerrada
+SD-01487,2025-10-06,Sumapaz,Petición,Teléfono,41.5,47.0,2.0,Cerrada
+SD-01488,2025-01-04,Fontibón,Reclamo,Web,72.5,51.0,4.0,Cerrada
+SD-01489,2025-12-17,Rafael Uribe Uribe,Petición,Web,87.6,74.0,4.0,Trasladada
+SD-01490,2025-02-04,Fontibón,Reclamo,Presencial,43.9,67.0,5.0,Cerrada
+SD-01491,2025-05-11,Chapinero,Solicitud de información,Presencial,9.1,31.0,5.0,Cerrada
+SD-01492,2025-02-05,Puente Aranda,Solicitud de información,Teléfono,29.9,-5.0,5.0,En trámite
+SD-01493,2025-05-14,Suba,Queja,Correo electrónico,128.4,32.0,1.0,Trasladada
+SD-01494,2025-08-11,Antonio Nariño,Reclamo,Web,13.4,69.0,4.0,Pendiente
+SD-01495,2025-02-01,Kennedy,Reclamo,Web,24.7,20.0,5.0,Cerrada
+SD-01496,2025-07-11,Suba,Reclamo,Web,617.1,74.0,4.0,Cerrada
+SD-01497,2025-10-09,La Candelaria,Reclamo,Web,41.0,81.0,5.0,Cerrada
+SD-01498,2025-06-16,Suba,Petición,Presencial,165.7,19.0,4.0,En trámite
+SD-01499,2025-02-11,Bosa,Trámite,Teléfono,14.9,60.0,2.0,Pendiente
+SD-01500,2025-09-10,Barrios Unidos,Petición,Teléfono,12.3,23.0,4.0,En trámite
+SD-01117,2025-08-02,Santa Fe,Petición,Presencial,17.8,81.0,1.0,Cerrada
+SD-01369,2025-07-18,san cristóbal,Trámite,Web,8.8,,,Cerrada
+SD-00423,2025-06-28,Usaquén,Reclamo,Presencial,14.6,54.0,5.0,Cerrada
+SD-00414,2025-05-25,Rafael Uribe Uribe,Reclamo,Web,58.1,82.0,3.0,Trasladada
+SD-00452,2025-02-11,Rafael Uribe Uribe,Petición,Presencial,19.0,36.0,4.0,En trámite
+SD-00862,2025-05-31,Teusaquillo,Petición,Web,11.2,66.0,4.0,Cerrada
+SD-01064,2025-12-29,Suba,Reclamo,Presencial,64.7,85.0,4.0,Cerrada
+SD-00742,2025-11-18,Santa Fe,Petición,Web,48.1,39.0,5.0,Cerrada
+SD-01273,2025-06-28,Kennedy,Trámite,Teléfono,19.3,65.0,9.0,Cerrada
+SD-00260,2025-02-12,Suba,Trámite,Web,14.3,64.0,2.0,Pendiente
+SD-00889,2025-11-08,San Cristóbal,Solicitud de información,Correo electrónico,29.8,63.0,2.0,Cerrada
+SD-01433,2025-08-17,Usaquén,Reclamo,Teléfono,13.6,26.0,1.0,Cerrada
+SD-00713,2025-05-08,Puente Aranda,Trámite,Correo electrónico,13.6,62.0,4.0,Trasladada
+SD-01383,2025-10-10,Engativá,Reclamo,Web,75.2,76.0,2.0,En trámite
+SD-00071,2025-05-15,Usme,Queja,Web,13.8,52.0,3.0,Cerrada
